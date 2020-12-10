@@ -1,14 +1,14 @@
 ## Sandro's Waypoints Repository
 
-## DISCLAIMER
+### DISCLAIMER
 
-## The reason for this Repository
+### The reason for this Repository
 
-## My conventions
+### My conventions
 
-## My sources
+### My sources
 
-## My files - USE AT YOUR OWN RISK
+### My files - USE AT YOUR OWN RISK
 
 You can use the [editor on GitHub](https://github.com/setalle/waypoints.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
