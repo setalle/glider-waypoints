@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Sandro's waypoints repository
+
+## 
+
+## Why this repository
+
+## The sources I have used
+
+## The files I maintain for myself, but feel free to use AT YOUR OWN RISK (feedback is appreciated)
 
 You can use the [editor on GitHub](https://github.com/setalle/waypoints.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
