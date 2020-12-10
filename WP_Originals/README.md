@@ -25,6 +25,6 @@ Generated using the seeyou waypoint generator. My feeling is that the quality is
 These are the points downloaded from (https://www.xcsoar.org/download/waypoints/)I don't trust them: I found too many 'old' fields. The other source XCsoar refers to is the one of [soaringweb](https://soaringweb.org/), which contains a bunch of different files, mostly outdated  (but not all outdated: the French file there is excellent).
 
 ##### ulm.it
-This is still TBD: 
+This is still TBD. At http://www.ulm.it/hangar/campi/default.htm, there are files in two formats: .wpt (flat mapsource.wpt) and gpx (xml type). Also TBD if this works properly. 
 
 
