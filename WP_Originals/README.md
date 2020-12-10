@@ -19,7 +19,7 @@ This is excellent, from the [site](https://soaringweb.org/TP/AP_alpes), updated 
 In the file `apalpsv3SAN2020.cup` I have added two fields wrt the original and changed a couple of coordinates after checking them on google earth. 
 
 ##### Seeyou
-Generated using the seeyou waypoint generator. My feeling is that the quality is very good (I haven't found any incorrect field); but  there are only very few outlandings here. 
+Generated in November 2020 using the seeyou waypoint generator. My feeling is that the quality is very good (I haven't found any incorrect field); but  there are only very few outlandings here. 
 
 ##### XCsoar
 These are the points downloaded from (https://www.xcsoar.org/download/waypoints/)I don't trust them: I found too many 'old' fields. The other source XCsoar refers to is the one of [soaringweb](https://soaringweb.org/), which contains a bunch of different files, mostly outdated  (but not all outdated: the French file there is excellent).
