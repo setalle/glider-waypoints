@@ -3,7 +3,7 @@
 ### DISCLAIMER: USE AT YOUR OWN RISK!
 ### DISCLAIMER 2: all statements are "IMHO"
 
-This directory contains the source I have used for my work. I have added the suffix SAN to the file after converting them to the new seeyou format and adapting them to my own labeling method. 
+This directory contains the sources I have used to distill my own WP files. I have added the suffix SAN after converting a file to the new seeyou format and adapting it to my own labeling method. 
 
 ##### Enemonzo
 Excellent repository you can find at [CVNE](http://www.cvne.it/). They even have pictures and videos. NOTE: I have added two fields that were not in the .cup file but were present in the  the factsheets ("schede") they posted. 
