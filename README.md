@@ -1,4 +1,4 @@
-## Sandro's Waypoints Repository
+## Sandro's Gliding Waypoints Repository
 
 ### DISCLAIMER
 
