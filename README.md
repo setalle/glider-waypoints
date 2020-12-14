@@ -11,12 +11,12 @@ I have set up this repositoritory to maintain my own set of waypoints and facili
 I think it is important to be able to assess rhe quality and the reliability of an outlanding right from its name. First, because I tend to forget. Secondly, because bedore entering a zone I am not familiar with, I like to review the options I have. To this end, I use the following peefixes:
 
 
-_9 _8 .... _4: indicates the quality of a field, where 9 is an airfield, 8 is easy, 7 is ok, 6 is delicate.  4 and 5 are for emergencie.
-_ul: an ultralight field, they are good but often difficult to find  
+- ```_9 _8 .... _4```: the number indicates the quality of a field, where 9 is an airfield, 8 is easy, 7 is ok, 6 is delicate, 4 and 5 are for emergency.
+- ```_ul```: an ultralight field, they are good but often difficult to find  
 _? checked on Google Earth, but unsure on the quality
 _?? unchecked, unreliable, to be verified
 _S  Taken "as is" from the waypoints of seeyou (usually peetty good).
-
+```
 
 
 
