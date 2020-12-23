@@ -1,15 +1,16 @@
-## Sandro's Waypoints Repository
-
-### DISCLAIMER: use at your own risk
-
-I have set up this repositoritory to maintain my own set of waypoints and facilitate the exchange of information **you are wlcome to use the data and the scripts, but this is at your own risk: there is no explicit nor implicit guarantee of the correctness, the safety nor the security of the data and the programs presented here**
+## Sandro's Gliding Waypoints Repository
 
 ### The reason for this Repository
 
+The internet is full of files of waypoints containing 'outlandings' that are wrong or old. Even reasonably trustworthy sources like xcsoar are IMHO not trustworthy enough when it comes to possible outlanding fields in the mountains. So, what I do is **I distill my own waypoint file using the sources that *I hope* are more trustworthy**.  So - having during the lockdown more time than I usually do -  I have set up this repositoritory to maintain my own set of waypoints and facilitate the exchange of information.
+
+### DISCLAIMER: use at your own risk **you are wlcome to use the data and the scripts, but this is at your own risk: there is no explicit nor implicit guarantee of the correctness, the safety nor the security of the data and the programs presented here**
+
+I have a hard time putting together a file of waypoints that includes outlangings 
+
 
 ### My naming conventions
-I think it is important to be able to assess rhe quality and the reliability of an outlanding right from its name. First, because I tend to forget. Secondly, because bedore entering a zone I am not familiar with, I like to review the options I have. To this end, I use the following peefixes:
-
+I think that when using an instrument like the OUDIE, it is important to be able to assess the quality and the reliability of an outlanding right from the waypoint's name. First, because I tend to forget how good an outlanding is. Secondly, because bedore entering a zone I am not completely familiar with, I like to review the options I have by looking at the list of reachable landables, and having an (**albeit with no guarantee**) indication of the nature of the outlandings in the list is an extra step towards safer flying. 
 
 - ```_9 _8 .... _4```: the number indicates the quality of a field, where 9 is an airfield, 8 is easy, 7 is ok, 6 is delicate, 4 and 5 are for emergency.
 - ```_ul```: an ultralight field, they are good but often difficult to find  
