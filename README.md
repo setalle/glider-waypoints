@@ -49,6 +49,7 @@ This directory contains the sources I have used to distill my own WP files. I ha
 
 ##### Enemonzo
 Excellent repository you can find at [CVNE](http://www.cvne.it/). They even have "factsheets" and videos. NOTE: I have added two fields that were not in the .cup file but were present in the  the factsheets ("schede") they posted. Their .cup file contains many mire landables than their factsheets.
+My local copy is [here] (./WP_Originals/Enemonzo/Enemonzo20totalSAN.cup)
 
 ##### Valbrembo
 Another excellent repository from the site [AVA Valbrembo](http://www.ava-valbrembo.it).
