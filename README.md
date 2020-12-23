@@ -38,9 +38,9 @@ If you have python, to find out whether your waypoint file contains any of the d
 
 ### My scritpt - USE AT YOUR OWN RISK
 
+The python script I have prepared is [wptool.py](./wptool.py). You need to have python (v3, I think), and you can invoke it with 
+``$python wptool.py`` (or replace the first line with your python path, if you know what you are doing).  
+Typical usage is  ``$python wptool.py cmd file1.cup [file2.cup]``. To see the list of possible commands, invoke it with no arguments (``$python wptool.py`` ).
 
-You can use the [editor on GitHub](https://github.com/setalle/waypoints.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
