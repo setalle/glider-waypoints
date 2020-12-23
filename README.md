@@ -44,7 +44,9 @@ Typical usage is  ``$python wptool.py cmd file1.cup [file2.cup]``. To see the li
 
 ### My sources 
 
-[link to a directory](./WP_Originals)
+[link to a directory](./WP_Originals/AVS)
+
+[link to a text file](./NOTE_WAYPOINTS.txt)
 
 This directory contains the sources I have used to distill my own WP files. I have added the suffix SAN after converting a file to the new seeyou format and adapting it to my own labeling method. 
 
