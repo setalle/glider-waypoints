@@ -27,8 +27,7 @@ These are the points downloaded from [https://www.xcsoar.org/download/waypoints/
 ##### ulm.it
 This is still TBD, it should be a good file for the ultralight fields
 
-##### My own notes (in Italian), regarding intermediate files etc. 
-
+##### Below are my own notes (in Italian), regarding intermediate files etc. 
 
 ```
 
