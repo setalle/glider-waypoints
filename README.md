@@ -59,7 +59,7 @@ In the file `apalpsv3SAN2020.cup` I have added two fields wrt the original and c
 
 ##### AVS
 This is the file I got in 2020 from my friends in Verona. Lots of good stuff, but I am not sure how updated it is. I consider it a less trustworthy source. 
-[local link](./WP_Originals/AVS/AVS4.4.2016.cup)
+[Here is the local link of my AVS file](./WP_Originals/AVS/AVS4.4.2016.cup)
 
 ##### Seeyou
 Generated in November 2020 using the seeyou waypoint generator. My feeling is that the quality is very good (I haven't found any incorrect field); but  there are only very few outlandings here. 
