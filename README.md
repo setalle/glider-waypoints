@@ -4,9 +4,7 @@
 
 The internet is full of files of waypoints containing 'outlandings' that are wrong or old. Even reasonably trustworthy sources like xcsoar are IMHO not trustworthy enough when it comes to possible outlanding fields in the mountains. So, what I do is **I distill my own waypoint file using the sources that *I hope* are more trustworthy**.  So - having during the lockdown more time than I usually do -  I have set up this repositoritory to maintain my own set of waypoints and facilitate the exchange of information.
 
-### DISCLAIMER: use at your own risk **you are wlcome to use the data and the scripts, but this is at your own risk: there is no explicit nor implicit guarantee of the correctness, the safety nor the security of the data and the programs presented here**
-
-I have a hard time putting together a file of waypoints that includes outlangings 
+### DISCLAIMER: use at your own risk **you are welcome to use the data and the scripts in this repository, but this is at your own risk: there is no explicit nor implicit guarantee of the correctness, the safety nor the security of the data and the programs presented here**
 
 
 ### My naming conventions
