@@ -38,15 +38,11 @@ If you have python, to find out whether your waypoint file contains any of the d
 
 ### My scritpt - USE AT YOUR OWN RISK
 
-The python script I have prepared is [wptool.py](./wptool.py). You need to have python (v3, I think), and you can invoke it with 
+The python script I have prepared is [wptool.py](./Python/wptool.py). You need to have python (v3, I think), and you can invoke it with 
 ``$python wptool.py`` (or replace the first line with your python path, if you know what you are doing).  
 Typical usage is  ``$python wptool.py cmd file1.cup [file2.cup]``. To see the list of possible commands, invoke it with no arguments (``$python wptool.py`` ).
 
 ### My sources 
-
-[link to a directory](./WP_Originals/AVS)
-
-[link to a text file](./NOTE_WAYPOINTS.txt)
 
 This directory contains the sources I have used to distill my own WP files. I have added the suffix SAN after converting a file to the new seeyou format and adapting it to my own labeling method. 
 
@@ -62,6 +58,7 @@ In the file `apalpsv3SAN2020.cup` I have added two fields wrt the original and c
 
 ##### AVS
 This is the file I got in 2020 from my friends in Verona. Lots of good stuff, but I am not sure how updated it is. I consider it a less trustworthy source. 
+[local link](./WP_Originals/AVS/AVS4.4.2016.cup)
 
 ##### Seeyou
 Generated in November 2020 using the seeyou waypoint generator. My feeling is that the quality is very good (I haven't found any incorrect field); but  there are only very few outlandings here. 
@@ -72,7 +69,8 @@ These are the points downloaded from [https://www.xcsoar.org/download/waypoints/
 ##### ulm.it
 This is still TBD, it should be a good file for the ultralight fields
 
-##### Below are my own notes (in Italian), regarding intermediate files etc. 
+##### Notes
+[My notes in Italian](./NOTE_WAYPOINTS.txt)
 
 
 
