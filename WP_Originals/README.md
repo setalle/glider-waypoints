@@ -12,7 +12,7 @@ Excellent repository you can find at [CVNE](http://www.cvne.it/). They even have
 Another excellent repository from the site [AVA Valbrembo](http://www.ava-valbrembo.it).
 
 ##### AVS
-This is the file I got in 2020 from my friends in Verona. Lots of good stuff, but I am not sure how updated it is. 
+This is the file I got in 2020 from my friends in Verona. Lots of good stuff, but I am not sure how updated it is. I consider it a less trustworthy source. 
 
 ##### Soaring Web France
 This is excellent, from the [site](https://soaringweb.org/TP/AP_alpes), updated in 2020. There is a google earth at the [site](http://www.planeur.net/_download/divers/TERRAINS%20VACHABLES%20-%20ALPES%20FRANCAISES.kmz)

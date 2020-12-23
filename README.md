@@ -13,10 +13,13 @@ I think it is important to be able to assess rhe quality and the reliability of 
 
 - ```_9 _8 .... _4```: the number indicates the quality of a field, where 9 is an airfield, 8 is easy, 7 is ok, 6 is delicate, 4 and 5 are for emergency.
 - ```_ul```: an ultralight field, they are good but often difficult to find  
-_? checked on Google Earth, but unsure on the quality
-_?? unchecked, unreliable, to be verified
-_S  Taken "as is" from the waypoints of seeyou (usually peetty good).
-```
+- ```_?``` checked on Google Earth, but the source is not one one I consider reliable (see page on sources)
+- ```_??``` unchecked, unreliable, to be verified
+- ```_S```  Is present in the list of  waypoints of seeyou (usually a pretty good source).
+In some cases these symbols are combined: 
+- ```_ul8``` ultralight field, but not ideal (e.g. very short or narrow)
+- ```_8?```  should be an 8, but the source is not one I consider reliable
+
 
 
 
