@@ -1,0 +1,2178 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"?AMBRIA",AMBRIA,IT,4549.000N,00941.000E,330.0m,3,0,0.0m,,
+"?ARMOY",ARMOY,FR,4620.920N,00631.630E,650.0m,3,0,0.0m,,
+"?BAIALUPO",BAIALU,IT,4533.000N,00930.000E,150.0m,3,0,0.0m,,
+"?BOCENAGO",BOCENA,IT,4607.000N,01045.000E,738.0m,3,0,0.0m,,
+"?BRENO-NORD",BRENO,IT,4558.000N,01019.000E,294.0m,3,0,0.0m,,
+"?CAVALESE",CAVALE,IT,4617.000N,01131.000E,900.0m,3,0,0.0m,,
+"?CAVAZZO",CAVAZZ,IT,4622.200N,01303.300E,280.0m,3,0,0.0m,,"CAVAZZO-CARN"
+"?CEPINA",CEPINA,IT,4625.670N,01021.720E,1120.0m,3,0,0.0m,,
+"?CERVENS",CERVEN,FR,4617.230N,00626.600E,600.0m,3,0,0.0m,,
+"?CHAMONIX",CHAMON,FR,4556.670N,00654.150E,1100.0m,3,0,0.0m,,
+"?CIELO-BLU",CIELO,IT,4536.530N,00926.000E,200.0m,3,0,0.0m,,
+"?CLUSONE",CLUSON,IT,4553.230N,00957.930E,630.0m,3,0,0.0m,,
+"?CRETE-LONGUE",CRET-L,CH,4615.900N,00729.300E,507.0m,3,0,0.0m,,
+"?HOUCHES",LES-HO,FR,4553.900N,00649.300E,950.0m,3,0,0.0m,,
+"?JOUX-PRE-DE",JOUX-P,CH,4636.500N,00708.300E,860.0m,3,0,0.0m,,
+"?KOPPL",KOPPL,AT,4748.570N,01308.570E,755.0m,3,0,0.0m,,
+"?LA-TOUR",LA-TOU,FR,4608.300N,00625.200E,600.0m,3,0,0.0m,,
+"?LE-CLAPIER",LE-CLA,FR,4501.500N,00604.000E,750.0m,3,0,0.0m,,
+"?LENTIAI",LENTIA,IT,4601.530N,01159.600E,246.0m,3,0,0.0m,,
+"?LINDENBERG",LINDEN,DE,4737.200N,00959.270E,703.0m,3,0,0.0m,,
+"?MISSAGLIA",MISSAG,IT,4542.000N,00920.000E,301.0m,3,0,0.0m,,
+"?NIEDERRASEN",NIEDRR,IT,4646.930N,01203.170E,1000.0m,3,0,0.0m,,
+"?NOSSAGE",NOSSAG,FR,4418.950N,00544.670E,650.0m,3,0,0.0m,,
+"?PFYNWALD",PFYNWA,CH,4618.100N,00736.200E,565.0m,3,0,0.0m,,
+"?PLACETTE",PLACET,FR,4522.000N,00541.000E,400.0m,3,0,0.0m,,
+"?PRAZ",PRAZ-S,FR,4550.317N,00634.567E,1000.0m,3,0,0.0m,,"PRAZ-SUR-ARL"
+"?RIKON",RIKON,CH,4726.600N,00847.470E,510.0m,3,0,0.0m,,
+"?ROCCHETTA",ROCCHE,IT,4614.000N,01103.000E,185.0m,3,0,0.0m,,
+"?ROCHETAILLEE",ROCHET,FR,4507.000N,00601.000E,750.0m,3,0,0.0m,,
+"?SMARTNO",SMARTN,SI,4613.700N,01444.467E,480.0m,3,0,0.0m,,
+"?SORGU",L-ISLE,FR,4359.800N,00503.217E,65.0m,3,0,0.0m,,"L-ISLE-SORGU"
+"?SURRHEIN",SURRHE,CH,4643.300N,00855.970E,1023.0m,3,250,0.0m,,
+"?TREVISO",TREVIS,IT,4538.087N,01211.065E,20.0m,3,0,0.0m,,
+"?UNTERAEGERI",UNTERA,CH,4708.100N,00834.280E,740.0m,3,0,0.0m,,
+"?VOLO",VOLO-D,IT,4522.667N,00931.567E,70.0m,3,0,0.0m,,"VOLO-DOVERA"
+"?VOREPPE",VOREPP,FR,4516.500N,00538.000E,200.0m,3,0,0.0m,,
+"A01+ACHE_S",ACHENK    A,AT,4730.820N,01142.120E,936.0m,3,270,250.0m,"ACHENKIRCH SÜD","Landung nur Richtung Westen, leicht ansteigend. Landung auch rechts der Straß möglich. Kat 1"
+"A02-ACHE_N",ACHENN    B,AT,4732.233N,01142.400E,900.0m,3,170,200.0m,"ACHENKIRCH NORD","Achtung, versteckte Pflöcke in der Wiese! Kat 2"
+"A03-ACHENSEE",ACHENS    B,AT,4726.000N,01143.800E,940.0m,3,280,0.0m,,"Vom See her meistens Nordwind, Wiese hängt leicht. Kat 2"
+"A04xACHENW",ACHENW    C,AT,4733.650N,01140.400E,860.0m,3,230,300.0m,"ACHENWALD","Zaun am Wiesenanfang, schlechter Anflug. Kat 3"
+"A05+ADMONT",ADMONT    A,AT,4735.000N,01427.150E,630.0m,3,90,450.0m,,"Zwischen Stromleitung und Straße, Bauer unfreundlich, keine Zufahrt, Flugzeug muss über Zaun zur Straße gehoben werden. Kat 1"
+"A06+AGORDO",AGORDO    A,IT,4616.783N,01201.783E,600.0m,3,160,400.0m,,"Recomended landing direction 160°. W57. Kat 1"
+"A07+AICH",AICH      A,AT,4725.100N,01348.600E,700.0m,3,60,0.0m,,"Kat 1"
+"A08+AICH",AICHAS    A,AT,4725.480N,01351.460E,750.0m,3,360,400.0m,"AICH-ASSACH","Leicht ansteigend. Kat 1"
+"A09-ALMSEE",ALMSEE    B,AT,4744.600N,01357.000E,600.0m,3,230,230.0m,,"Talwind als Rückenwind! Kat 2"
+"A100-HAINFELD",HAINFE    B,AT,4801.964N,01546.791E,426.0m,3,100,260.0m,,"Kurz und schlechter Anflug über Wald. Kat 2"
+"A101+HS-ENN",HAUS      A,AT,4725.060N,01346.802E,700.0m,3,70,0.0m,"HAUS-ENNSTAL","Kat 1"
+"A102+HAUSHAM",HAUSHA    A,DE,4744.751N,01150.804E,740.0m,3,140,700.0m,,"Wiese steigt leicht von Nord nach Süd an. Kat 1"
+"A103+HEITWNG",HEITER    A,AT,4726.579N,01045.237E,1000.0m,3,140,500.0m,"HEITERWANG","Achtung Pflöcke, mehrere Möglichkeiten. Kat 1"
+"A104-HERMAGOR",HERMAG    B,AT,4637.700N,01323.060E,585.0m,3,90,320.0m,,"Graben in der Mitte der Wiese! Kat 2"
+"A105-HINTERST",HINSTO    B,AT,4740.444N,01407.141E,640.0m,3,40,380.0m,"HINTERSTODER","Kat 2"
+"A106-HINTERG",HINTER    B,AT,4723.020N,01236.545E,1028.0m,3,250,300.0m,"HINTERGLEMM","Anflug über 10 m hohe Bäume! Kat 2"
+"A107xHIWILD",HIWILD    C,AT,4738.695N,01456.129E,780.0m,3,250,350.0m,"HINTERWILDALPEN","Bewaldeter Bergkegel im Anflug, ev. herumfliegen! Hindernis in der Wiese. Kat 3"
+"A108+HOCHFI",HOCHFI    A,AT,4728.276N,01237.186E,960.0m,3,140,400.0m,"HOCHFILZEN","Landerichtung SO, Feld steigt leicht an. Kat 1"
+"A109-HOCHKAR",HOCHKA    B,AT,4745.320N,01454.230E,680.0m,3,200,300.0m,"HOCHKAR-LASSING","Drachenlandeplatz. Kat 2"
+"A10xALTAUSSEE",ALTAUS    C,AT,4738.350N,01346.060E,720.0m,3,330,200.0m,,"Nicht gerade super Feld, doch besser als nichts in diesem Gebiet. Kat 3"
+"A110-Hofkirchen",A110Hfan,AT,4714.800N,01553.400E,345.0m,3,150,300.0m,"Hofkirchen-St-Stefan","UL-Flp. Kat 2"
+"A111+HOHEW",HOHE-W    A,AT,4749.382N,01604.797E,380.0m,3,320,320.0m,"HOHE-WAND","Kat 1"
+"A112+HUBEN",HUBEN     A,AT,4702.783N,01057.917E,1189.0m,3,150,700.0m,"HUBEN OETZTAL","Unregelmäßig ca. 50 cm hohe Begrenzungs-Stempen, vor allem am Witschaftsweg! Weg überrollbar. Kat 1"
+"A113+HUNDHAM",HUNDHA    A,DE,4745.267N,01156.585E,780.0m,3,140,400.0m,,"nördlicher Variante besser, Südliche Wiese: Landung nur nach Süd, Feld steigt an. Kat 1"
+"A114-ILANZ",ILANZ     B,CH,4646.533N,00913.117E,720.0m,3,90,300.0m,,"S61. Kat 2"
+"A115+IMER",IMER      A,IT,4608.800N,01147.700E,640.0m,3,70,450.0m,,"Kat 1, W75"
+"A116-Imst",S24ImS24,,4713.217N,01044.767E,720.0m,3,100,0.0m,,"SW von Autobahnauffahrt. S24. Kat 2"
+"A117+IMST-ARZL",IMSTAZ    A,AT,4712.583N,01045.914E,880.0m,3,70,300.0m,,"Nur nutzen wenn Imst nicht nutzbar, da Imst 170m tiefer liegt. Kat 1"
+"A118-INNERF",INNERF    B,AT,4756.270N,01535.912E,450.0m,3,160,350.0m,"INNERFAHRAFELD","Kat 2"
+"A119+INNERZ",INNERZ    A,AT,4733.476N,01509.248E,775.0m,3,320,350.0m,"INNERZWAIN","Kat 1"
+"A11-ALTENMARKT",ALTENM    B,AT,4722.972N,01324.496E,850.0m,3,60,0.0m,,"Wird sporadisch als Weide genutzt! Kat 2"
+"A12+ALTMUENS",ALTMUE    A,AT,4752.880N,01346.180E,450.0m,3,260,330.0m,"ALTMUENSTER","Kat 1"
+"A120+INNICHEN",INNICH    A,IT,4643.859N,01217.612E,1170.0m,3,110,300.0m,,"Auf Zaunstempel am Rande der Wiese achten! Kat 1"
+"A121-ISCHGL",ISCHGL    B,AT,4700.550N,01017.100E,1350.0m,3,40,400.0m,,"Sehr enges Tal, keine Platzrunde möglich. Anflug zwischen Lautsprechermast und Flutlichtmast! Kat 2. S28"
+"A122+JACHENAU",JACHEN    A,DE,4736.453N,01129.523E,750.0m,3,70,500.0m,,"Kat 1"
+"A123-JAUSERN",JAUSER    B,AT,4722.400N,01241.400E,910.0m,3,300,380.0m,,"Anflug über 10 m hohe Kläranlage oder Bauernhof.Die vorhandenen Wege sind eingeebnet und überrollbar!Im Südteil eine Stufe! Kat 2"
+"A124-JENAZ",JENAZ     B,CH,4656.617N,00942.450E,750.0m,3,170,300.0m,,"Enges Tal, Geländestufen! Kat 2. S31"
+"A125-JEZERSKO",JEZERS    B,SI,4624.295N,01430.480E,880.0m,3,10,300.0m,,"Schwer aus der Luft zu finden! Kat 2"
+"A126-Johnsbach",A126Jach,AT,4731.731N,01437.950E,865.0m,3,100,300.0m,,"Kat 2"
+"A127-KALWANG",KALWAN    B,AT,4725.500N,01444.000E,760.0m,3,0,0.0m,,"Kat 2"
+"A128+KAPELLEN",KAPELL    A,AT,4739.000N,01537.283E,700.0m,3,110,500.0m,"KAPELLEN-MUERZ","Anflug 29 über Tennisplätze bzw. 11 ev. mit kleinem Schlenkerer über niedrigen Waldrücken und Bäume am Mürzufer. Kat 1"
+"A129+KATZLING",KATZLI    A,AT,4714.560N,01431.830E,860.0m,3,140,0.0m,,"Kat 1"
+"A130-KERNHOF",KERNHO    B,AT,4748.672N,01532.899E,700.0m,3,140,0.0m,,"Kat 2"
+"A131+KIENZEN",KIENZE    A,AT,4730.100N,01030.500E,1090.0m,3,270,300.0m,,"Kat 1"
+"A132+KITZBUEHEL",KITZBU    A,AT,4725.832N,01224.361E,765.0m,3,160,400.0m,,"Kat 1"
+"A133+KLAUS",KLAUS     A,AT,4718.210N,00938.110E,430.0m,3,100,150.0m,,"Kat 1"
+"A134+KLOSTERS",KLOSTE    A,CH,4651.733N,00954.017E,1210.0m,3,40,450.0m,,"Viehweiden, Zäune sind möglich!!! Kat 1 S32"
+"A136+KOCHEL",KOCHEL    A,DE,4740.330N,01121.249E,599.0m,3,150,250.0m,,"Kat 1"
+"A137+KOESSEN",KOESSE    A,AT,4739.486N,01222.867E,615.0m,3,240,500.0m,,"Es sind zwei Wiesen, die durch die Straße getrennt sind. Die Straße ist erhöht, somit unbedingt danach aufsetzen. Kat 1"
+"A138+KRAMSACH",KRAMSA    A,AT,4726.913N,01153.933E,515.0m,3,60,500.0m,,"Kat 1"
+"A139-KRANJSKA",KRANJS    B,SI,4629.267N,01346.967E,830.0m,3,90,500.0m,"KRANJSKA-GORA","Achtung Zaunstempel! Kat 2"
+"A13-ANDEER",ANDEER    B,CH,4636.567N,00925.633E,980.0m,3,10,300.0m,,"Geländestufe und Querfelder! Kat 2. S53"
+"A14+ANDELSBUCH",ANDELS    A,AT,4725.180N,00953.410E,610.0m,3,10,0.0m,,"Kat 1"
+"A140+KRIEGLACH",KRIEGL    A,AT,4732.500N,01532.650E,620.0m,3,160,0.0m,,"Holzpflöcke! Kat 1"
+"A141-KRIMML",KRIMML    B,AT,4713.440N,01210.647E,1060.0m,3,240,400.0m,,"Stark ansteigend! Kat 2"
+"A142+KRUEN",KRUEN     A,DE,4730.594N,01115.966E,900.0m,3,140,400.0m,,"Mehrere Möglichkeiten! Im Anflug von Ost nach West Hochspannung beachten! Kat 1"
+"A143-KUEB",KUEB      B,AT,4741.000N,01553.330E,490.0m,3,210,0.0m,,"Kat 2"
+"A144-LAGGIO",LAGGIO    B,IT,4630.083N,01228.717E,900.0m,3,180,180.0m,"LAGGIO-D-CAD","Sehr kurz! Landing towrds S (180°). W45. Kat 2"
+"A145-LANDL",LANDL     B,AT,4735.330N,01202.910E,655.0m,3,230,350.0m,,"Landerichtung SW, Feld steigt an, sehr enges Tal, keine normale Platzrunde, ersten 50m wellig unlanbar. Kat 2"
+"A146?LANGANG",LANGAN,AT,4651.773N,01253.650E,830.0m,3,80,240.0m,,"Kat ?"
+"A147-LANGENWANG",LANGEN    B,AT,4734.633N,01538.350E,642.0m,3,40,350.0m,,"Wiese südlich der Straße sehr uneben! Kat 2"
+"A148-LANGWIES",LANGWI    B,AT,4746.219N,01343.259E,440.0m,3,40,300.0m,,"Kat 2"
+"A149-LAVIN",LAVIN     B,CH,4646.133N,01007.383E,1450.0m,3,90,350.0m,,"Enges V-Tal, Anflug über Inn-Terrassen-Böschung, Bewässerungsstangen beachten; Kat 2, S44"
+"A15+ANDERMATT",ANDERM    A,CH,4637.733N,00835.050E,1430.0m,3,50,300.0m,,"Hänge mit Transportkabeln verseucht!Auf Unebenheiten und Bewuchsübergänge achten! Kat 1. S66"
+"A150+LAVIS",LAVIS     A,IT,4607.734N,01105.681E,230.0m,3,60,700.0m,,"W69. Kat 1"
+"A151-LEISACH",LEISAC    B,AT,4648.414N,01244.939E,670.0m,3,0,300.0m,,"Kat 2"
+"A152+LENDORF",LENDOR    A,AT,4649.926N,01325.015E,600.0m,3,100,300.0m,,"Kat 1"
+"A153-LENGAU",LENGAU    B,AT,4722.300N,01232.277E,1140.0m,3,240,400.0m,,"Anflug über 10 m hohe Bäume! Kat 2"
+"A154+LENGGRIS",LENGGR    A,DE,4740.899N,01133.588E,700.0m,3,270,250.0m,,"Querweg überrollbar! Kat 1"
+"A155-LERMOOS",LERMO     B,AT,4723.897N,01053.584E,970.0m,3,270,250.0m,,"Ost nach West zwischen zwei Stadeln ( 30 m Zwischenraum ), Längsgräben!!! Kat 2"
+"A156+LEUTASCH",LEUTAS    A,AT,4722.590N,01109.809E,1110.0m,3,140,0.0m,,"Kat 1"
+"A157-LIEZEN",LIEZEN    B,AT,4733.740N,01415.850E,635.0m,3,80,660.0m,,"Kat 2"
+"A158+LIVIGNO",LIVIGN    A,IT,4632.117N,01008.250E,1810.0m,3,30,300.0m,,"Außerhalb der markierten Felder sind Bewässerungsgräben und Bodenwellen! W116. Kat 1"
+"A159-LOGARSKA",LOGARS    B,SI,4625.000N,01438.500E,810.0m,3,20,300.0m,,"Tal ist extrem eng, keine Platzrunde möglich. Kat 2"
+"A160+LONGARONE",LONGAR    A,IT,4616.583N,01218.250E,470.0m,3,170,400.0m,,"The field is uneven at N of the windsock. W59. Kat 1"
+"A161+LUDESCH",LUDESC    A,AT,4711.250N,00946.250E,545.0m,3,40,350.0m,,"Kat 1, S13 "
+"A162+LUNZ",LUNZSE    A,AT,4750.783N,01501.117E,590.0m,3,30,450.0m,"LUNZ AM SEE","Kat 1"
+"A163?MADLING",MADLIN,AT,4704.106N,01347.894E,1010.0m,3,220,0.0m,,"Kat ?"
+"A164-MALE",MALE      A,IT,4620.197N,01053.875E,740.0m,3,50,350.0m,,"Kat 2, W54Info nahe am Weg landen."
+"A166+MANIAGO",MANIAG    A,IT,4607.500N,01243.833E,250.0m,3,170,1200.0m,,"Choose landing area parallel to the street near the wind soack. W81. Kat 1"
+"A167-MARTULJEK",MARTW     B,SI,4628.910N,01350.950E,740.0m,3,310,200.0m,,"Kat 2"
+"A168+MATHON",MATHON    A,AT,4659.249N,01014.751E,1430.0m,3,70,280.0m,,"Bei Anflug aus West, Sportplatz mit hohem Zaun! kat 1"
+"A169+MATREI",MATREI    A,AT,4659.120N,01232.770E,925.0m,3,150,380.0m,,"hindernissfreier Anflug, immer starker Ostwind, Anfang und Ende Zaun! Kat 1"
+"A16-ASCHAU",ASCHAU    B,AT,4716.286N,01153.768E,560.0m,3,250,300.0m,,"Kat 2"
+"A170+MAYRHOFEN",MAYRHO    A,AT,4710.816N,01152.169E,610.0m,3,10,570.0m,,"UL / Drachenflieger Platz, Querwege überrollbar. Kat 1"
+"A171xMERANO",A171xANO,IT,4639.647N,01109.150E,300.0m,3,40,300.0m,,"Trabrennbahn, Hindernisse, 20m breit, Kat 3"
+"A172-MILS",MILS      B,AT,4712.400N,01040.833E,730.0m,3,70,180.0m,,"Alle Querwege sind überrollbar! Wenn man das weiß, dann haben die 180m Länge des offiziellen Landefeldes keinen Schrecken mehr! Anflug 08. Kat 2, S23"
+"A173+MITTERRIEGEL",MITRIE    A,AT,4806.615N,01600.990E,400.0m,3,30,280.0m,,"Kat 1"
+"A174+MITTERNDORF",MITTDO    A,AT,4733.170N,01358.000E,820.0m,3,90,400.0m,,"Die anderen Wiesen um Mitterndorf sind stromleitungsverseucht oder uneben. Kat 1"
+"A175-MITTENWALD",MITTEN    B,DE,4725.098N,01115.528E,912.0m,3,10,548.0m,,"Enges Tal, keine normale Platzrunde möglich. Kat 2"
+"A176-MITTER",MITTER    B,AT,4717.234N,01230.180E,780.0m,3,270,420.0m,"MITTERSILL-STUHLFELDEN","Kat 2"
+"A177+MOEDER",MOEDER    A,AT,4636.694N,01321.241E,580.0m,3,290,400.0m,"MOEDERNDORF","Besser als östlich Hermagor! Telefonleitung am Westende der Wiese! Kat 1"
+"A178-MOJSTR",MOJSTR    B,SI,4627.940N,01355.220E,640.0m,3,300,300.0m,"MOJSTRANA","Kat 2"
+"A179+MOOSLA",MOOSLA    A,AT,4738.761N,01446.061E,530.0m,3,350,0.0m,"MOOSLANDL","Kat 1"
+"A17xASCHAU",ASCHAV    C,AT,4730.509N,01153.402E,874.0m,3,20,325.0m,"ASCHAU VALEPP","Kramsach liegt 8 km entfernt und liegt 350m tiefer, Am Südende der Wiese geht es 100 m steil bergab! Kat 3"
+"A180-MUENSTER",MUENST    B,AT,4725.800N,01150.683E,520.0m,3,10,500.0m,"MUENSTER-OST","Landerichtung nur N, Feld steigt an. Kat 2"
+"A181-MUERZZUS",A181-LAG,AT,4735.980N,01540.940E,780.0m,3,140,400.0m,"MUERZZUSCHLAG","Wiese steigt nach Süden leicht an. Kat 2"
+"A182+MURAU",MURAU     A,AT,4706.471N,01411.001E,800.0m,3,280,0.0m,,"Kat 1"
+"A183+MURAU-O",MURAUO    A,AT,4706.983N,01413.272E,777.0m,3,40,0.0m,,"MURAU OST. Kat 1"
+"A184-NASS_N",NASS_N    B,AT,4718.909N,01049.987E,835.0m,3,330,400.0m,"NASSEREITH NORD","Leitung an der Landeschwelle ist schlecht sichtbar, da die Masten zwischen den Bäumen stehen! Kat 2"
+"A185-NASS_S",NASS_S    B,AT,4718.371N,01050.629E,835.0m,3,50,300.0m,"NASSEREITH SÜD","Landerichtung O, Feld steigt an; Hochspannung macht 90° Knick wie eingezeichnet. Kat 2"
+"A186-NENZING",NENZIN    B,AT,4711.488N,00941.850E,500.0m,3,110,150.0m,,"Kat 2, S12Die östlichste Wiese (bei der Tankstelle) ist zu kurz und zeitweise bewirtschaftet."
+"A187-NEUBERG",NEUBER    B,AT,4739.528N,01535.803E,720.0m,3,310,0.0m,,"Kat 2"
+"A188-NEUWALD",NEUWAL    B,AT,4744.865N,01530.988E,900.0m,3,310,400.0m,,"zwischen Göller und Schneealpe, schlecht zu finden. Leitung im Anflug! Kat 2"
+"A189+NIEDERNSILL",NIEDER    A,AT,4717.049N,01239.833E,767.0m,3,90,400.0m,,"Kat 1"
+"A18-AURACH",AURACH    B,DE,4741.990N,01155.465E,800.0m,3,180,450.0m,,"Landerichtung S, Feld steigt an; Fahrweg ist nicht überrollbar! Den westlichen Teil der Wiese benutzen, weil der östliche Teil wellig ist! Kat 2"
+"A190-NIEDERDORF",NIEDRD    B,IT,4644.200N,01209.350E,1150.0m,3,100,300.0m,,"Kat 2"
+"A191+OBERAICH",A191+ICH,AT,4724.176N,01512.405E,500.0m,3,0,400.0m,,"Mehere Möglichkeinten. Kat 1"
+"A192+OBERDORF",OBERDO    A,AT,4728.146N,01507.284E,670.0m,3,90,400.0m,,"Kat 1"
+"A193-OBERORT",OBEROR    B,AT,4731.959N,01504.292E,760.0m,3,90,280.0m,"OBERORT-TRAGOESS","Kat 2"
+"A194-OBERTI",OBERTI    B,AT,4642.070N,01238.060E,1285.0m,3,100,400.0m,"OBERTILLIACH","Grenzstempel, umbedingt innerhalb einer Wiese landen! Kat 2"
+"A195-OBERVINTL",OBERVI    B,IT,4648.680N,01145.021E,770.0m,3,100,400.0m,,"Achtung, teilweise Maisfeld, Wiesenstreifen am Bach! Kat 2"
+"A196xOFFENSEE",OFFENS    C,AT,4745.651N,01350.051E,650.0m,3,350,250.0m,,"Sumpfig, NOTLANDEWIESE!! Kat 3"
+"A197+OLANG",OLANG     A,IT,4645.344N,01201.472E,1050.0m,3,180,300.0m,,"Kat 1"
+"A198+OSPEDALT",OSPEDA    A,IT,4602.500N,01132.617E,310.0m,3,120,400.0m,"OSPEDALETTO","Landing direction thrs 120°, W72, Kat 1"
+"A199-PACHER",A199-HER,AT,4726.469N,01545.119E,1050.0m,3,120,330.0m,,"Kat 2"
+"A19-AURONZO",AURONZ    B,IT,4633.900N,01224.383E,830.0m,3,130,160.0m,,"Sehr kurz! The field width is 20 m. Kat 2. W44"
+"A200-PADOLA",PADOLA    B,IT,4636.317N,01228.700E,1180.0m,3,160,200.0m,,"Landing towards 160° after the street.The field slopes up to 160°.Paths at the same field level. W24. Kat 2"
+"A201xPALFAU",PALFAU    C,AT,4742.383N,01448.438E,535.0m,3,40,300.0m,"PALFAU-HOCHKAR","Kat 3"
+"A202-PALUS",PALUS     B,IT,4632.083N,01217.717E,1130.0m,3,100,280.0m,,"Leitung im Anflug! PALUS-S-MARC  Kat 2"
+"A203+PALUZZA",PALUZZ    A,IT,4632.951N,01300.788E,690.0m,3,350,300.0m,,"Landing towards N. W48. Kat 1"
+"A204+PATERNION",PATERN    A,AT,4643.100N,01338.377E,510.0m,3,120,300.0m,,"Kat 1"
+"A205+PERNEGG",A205+EGG,AT,4721.311N,01520.671E,458.0m,3,340,400.0m,,"Felder werden quer zur Landerichtung bebaut!. Kat 1"
+"A206+PERN_N",PERNI1    A,AT,4754.385N,01556.712E,440.0m,3,320,0.0m,"PERNITZ NORD","nicht ins falsche Tal fliegen, ist aus der Luft leicht mit dem Tal, welches Richtung West läuft zu verwechseln! Kat 1"
+"A207+PERN_S",PERNI2    A,AT,4753.220N,01557.270E,470.0m,3,270,0.0m,"PERNITZ SÜD","Kat 1"
+"A208xPETTNEU",PETTNE    C,AT,4708.946N,01021.143E,1200.0m,3,250,300.0m,,"S20. Kat 3"
+"A209-PFANNH",PFANNH    B,AT,4742.581N,01519.507E,794.0m,3,20,400.0m,"PFANNHAMMER","Kat 2"
+"A20-AUSSERBRAZ",AUSSER    B,AT,4708.670N,00954.530E,690.0m,3,90,0.0m,,"Kat 2"
+"A21+Bach",A21 Bach,AT,4716.050N,01023.900E,1060.0m,3,40,300.0m,,"Kat 1"
+"A210+PICHL",PICHL     A,AT,4723.129N,01337.213E,770.0m,3,280,500.0m,,"PICHL PREUNEGG  Kat 1  Von Osten Leitung im Anflug"
+"A211xPIESTING",PIESTI    C,AT,4752.424N,01608.932E,325.0m,3,110,0.0m,,"Es handelt sich um Getreidefelder und man kann wegen der Leitung entlang der Bahn, nur quer zur gepflügten Richtung landen. Kat 3"
+"A212-PIEVE",PIEVE     B,IT,4626.880N,01223.780E,740.0m,3,270,150.0m,,"Sehr kurz! Land towards 270°. W46. Kat 2 PIEVE-D-CADO"
+"A213+PREDAZZO",PREDAZ    A,IT,4617.533N,01135.350E,1000.0m,3,110,250.0m,,"Downwind at S of the field. W56. Kat 1"
+"A214+PREVAL",PREVAL    A,IT,4557.380N,01332.183E,55.0m,3,90,400.0m,,"Kat 1"
+"A215-PRUTZ",PRUTZ     B,AT,4705.083N,01040.083E,865.0m,3,330,400.0m,,"Wiesen bei Tösens bevorzugen, Wassergräben. Anflug -/35. S25. Kat 2"
+"A216+PUCHBERG",PUCHBE    A,AT,4747.599N,01553.231E,615.0m,3,90,0.0m,,"Kat 1"
+"A217+PYHRN",PYHRN     A,AT,4736.217N,01417.222E,825.0m,3,30,400.0m,,"Weidezaun am Wiesenanfang. Kat 1"
+"A218+RABENS",RABENS    A,AT,4714.688N,01518.878E,600.0m,3,180,450.0m,"RABENSTEIN","Kat 1"
+"A219+RADFELD",RADFEL    A,AT,4727.869N,01157.046E,511.0m,3,70,600.0m,,"Fallschirmspringer-Flugplatz. Kat 1"
+"A220+RADSTADT",RADSTA    A,AT,4722.893N,01327.869E,830.0m,3,70,0.0m,,"Kat 1"
+"A221-RAMOSCH",RAMOSC    B,CH,4649.970N,01023.041E,1230.0m,3,260,400.0m,,"Terrasse, schwierige Landeeinteilung. S41. Kat 2"
+"A222-RANTEN",RANTEN    B,AT,4709.270N,01406.057E,900.0m,3,90,0.0m,,"Kat 2"
+"A223-RATECE",A223RECE,SI,4629.393N,01343.330E,870.0m,3,160,200.0m,,"Kat 2"
+"A224-RATTENDORF",RATTDO    B,AT,4637.407N,01314.021E,600.0m,3,120,600.0m,,"Entwässerungsgräben QUER zur Landerichtung!!! Kat 2"
+"A225-REICHENFELS",A225-ACH,AT,4700.450N,01445.050E,790.0m,3,160,170.0m,,"REICHENFELS-OBDACH  Kat 2 "
+"A226+REIN",REIN      A,AT,4708.200N,01517.470E,443.0m,3,260,450.0m,,"Kat 1"
+"A227+REIT",REITIW    A,DE,4740.426N,01228.663E,695.0m,3,360,200.0m,"REIT-IM-WINK","Kat 1"
+"A228-RESCHEN",RESCHE    B,AT,4651.793N,01030.665E,1420.0m,3,10,200.0m,,"S40. Telefonleitung im Anflug und Graben am Anfang der Wiese!. Kat 2"
+"A229-RETTENBACH",RETTEN    B,AT,4716.852N,01227.131E,795.0m,3,40,350.0m,,"Anflug über Staße und Zaun! Kat 2"
+"A22-BADGOI",BADGOI    B,AT,4737.600N,01336.640E,570.0m,3,220,400.0m,"BAD GOISERN","Weinbach bevorzugen, da nahe gelegen! Kat 2"
+"A23+BAD ISCHL",BADISC    A,AT,4743.464N,01334.411E,500.0m,3,340,400.0m,,"sanfter Anstieg am Ende. Kat 1"
+"A230+RHAEZUENS",RHAEZU    A,CH,4648.400N,00924.417E,650.0m,3,20,500.0m,,"S56. Kat 1"
+"A231-ROHR",ROHR      B,AT,4753.121N,01545.140E,680.0m,3,320,0.0m,,"ROHR-IM-GEBI. Kat 2"
+"A232xRONA",RONA      C,CH,4633.300N,00937.600E,1408.0m,3,180,300.0m,,"Nur für den Notfall, Gräben und Querfelder!!! Kat 3. S52"
+"A233+ROTHEN",ROTHEN    A,CH,4644.533N,00925.717E,630.0m,3,180,400.0m,"ROTHENBRUNNEN","Baumreihe im Anflug. Kat 1. S55"
+"A234-ROTMOOS",ROTMOO    B,AT,4741.045N,01509.560E,690.0m,3,300,380.0m,,"Im Anflug auf der linken Seite halten und zwischen die beiden linken Stadeln die am Ende der Wiese stehen zielen. Kat 2"
+"A235+ROTTACH",ROTTAC    A,DE,4740.950N,01148.133E,750.0m,3,90,300.0m,"ROTTACH-EGERN","Südlichen Wiesen leicht ansteigend Richtung Osten. Kat 1"
+"A236+SANTA",S-GIUS    A,IT,4604.533N,01203.433E,290.0m,3,30,300.0m,"SANTA-GIUSTI","W77. Kat 1"
+"A237+SAALFE",SAALFE    A,AT,4726.283N,01250.862E,755.0m,3,340,300.0m,"SAALFELDEN","Kat 1"
+"A238+SAGOGN",SAGOGN    A,CH,4647.333N,00915.500E,770.0m,3,90,450.0m,,"S60. Kat 1"
+"A239+SALURN",SALURN    A,IT,4613.427N,01109.273E,250.0m,3,180,500.0m,,"Kat 1"
+"A24+BARCO",BARCO     A,IT,4600.624N,01120.098E,430.0m,3,60,250.0m,,"Etwa 10-reihige Spalierpflanzung nach 250m, danach sehr schmal. Kat 1"
+"A240+SAPPADA",SAPPAD    A,IT,4634.000N,01241.600E,1200.0m,3,70,200.0m,,"Landing thowards 250° stop before the wooden bridge. W47. Kat 1"
+"A241xSARNTHEIN",SARNTH    C,IT,4638.183N,01121.400E,960.0m,3,360,335.0m,,"enges Tal, keine normale Platzrunde möglich, Nur nach Norden landen, Feld steigt an;Flugplatz Bozen liegt 20 km entfernt und ist 750m tiefer. Kat 3"
+"A242-SAVOGNIN",SAVOGN    B,CH,4635.533N,00936.150E,1200.0m,3,140,250.0m,,"Viele Hindernisse, schwieriges Feld! Kat 2"
+"A243-SCHABS",SCHABS    B,IT,4645.274N,01138.669E,700.0m,3,40,300.0m,,"UL-Flugplatz, Anflug nur 22m breit, Piste sehr eng und kurz! Alternativen, Maisfelder nur bis Juni nutzbar! Kat 2"
+"A244-SCHARLING",SCHARL    B,DE,4740.143N,01144.776E,760.0m,3,270,300.0m,,"Beste variante Nr 1: Landerichtung W, Feld steigt an; Kat 2"
+"A245-SCHARNITZ",SCHARN    B,AT,4723.176N,01115.041E,970.0m,3,70,500.0m,,"viele Leitungen beachten! 07/25. Kat 2"
+"A246-SCHIERS",SCHIER    B,CH,4658.544N,00939.990E,620.0m,3,120,350.0m,,"Enges Tal, behindert Anflug aus dem Westen! S30. Kat 2"
+"A247+SCHLITTERS",SCHLIT    A,AT,4722.334N,01150.745E,530.0m,3,150,320.0m,,"Bewuchsgrenzen überrollbar. Kat 1"
+"A248-SCHLU2",SCHLU2    B,IT,4639.300N,01034.450E,898.0m,3,300,250.0m,"SCHLUDERNS Neu","Ersatz für den Flugplatz Schluderns, ca. 300x50m! Kat 2"
+"A249xSCHNANN",SCHNAN    C,AT,4709.009N,01022.320E,1165.0m,3,90,400.0m,"SCHNANN Süd","Tierweide und mobile Stallwagen, dann ist eine Landung nicht möglich! Enges Tal.S21 Kat 3"
+"A25+BAYRISCHZELL",BAYRIS    A,DE,4740.074N,01201.014E,800.0m,3,170,500.0m,,"Nr 2: weg überrollbar. Kat 1"
+"A250+SCHNEPFAU",SCHNEP    A,AT,4720.882N,00956.050E,700.0m,3,90,500.0m,,"Kat 1"
+"A251-SCHOEDER",SCHOED    B,AT,4711.150N,01407.580E,870.0m,3,60,0.0m,,"Kat 2"
+"A252-SCHRUNS",SCHRUN    B,AT,4704.406N,00955.317E,680.0m,3,40,200.0m,,"Schwieriger Anflug durch Hochspannung und Häuser!  Anflug 14/-- bzw. 02/-- S17. Kat 2"
+"A253-SCHULS-P",SCHU-P    B,CH,4648.183N,01019.767E,1170.0m,3,90,350.0m,,"SCHULS-PRADELLA. Hanglandung, im engen Tal! S42. Kat 2"
+"A254xSCHU-S",SCHU-S    C,CH,4647.804N,01018.828E,1170.0m,3,250,300.0m,"SCHULS-SURA","Schwierige Landefelder! S43. Kat 3"
+"A255-SCHWA",A255-ZAU,AT,4750.573N,01541.772E,645.0m,3,10,350.0m,"SCHWARZAU","Kat 2"
+"A256+SCHWAZ",SCHWAZ    A,AT,4721.566N,01143.584E,531.0m,3,40,1000.0m,,"Kat 1"
+"A257-SEDRUN",SEDRUN    B,CH,4640.666N,00846.933E,1400.0m,3,330,300.0m,,"Flugzeugträgerlandung, Seilbahn südlich der Wiese! S65. Kat 2"
+"A258+SEEBODEN",SEEBOD    A,AT,4649.480N,01330.250E,655.0m,3,140,320.0m,,"Kat 1"
+"A259-SILLIAN",SILLIA    B,AT,4644.919N,01225.886E,1075.0m,3,90,300.0m,,"Kat 2"
+"A26+Bad-HOF-N",BHOF-N    A,AT,4710.817N,01306.083E,846.0m,3,180,300.0m,"BAD-HOFGASTEIN-NORD","In Feldmitte eine ca. 30 m im Durchmesser , ca .1 m hohe Stelle mit Wall, gekennzeichnet mit Holzstempen! Kat 1"
+"A260+SILL_O",SILL_O    A,AT,4644.884N,01227.044E,1070.0m,3,40,350.0m,"SILLIAN-OST","Ostliche Wiese Zaunstempel! Kat 1"
+"A261+SILS",SILS      A,CH,4625.979N,00946.209E,1800.0m,3,60,400.0m,,"Gut sichtbarer Stahlpfosten! Kat 1"
+"A262+SOLIMBERGO",SOLIMB    A,IT,4610.900N,01249.333E,200.0m,3,110,250.0m,,"Only for gliders haning 15 m wingspan. W97. Kat 1"
+"A263-SPITAL",SPITAL    B,AT,4736.725N,01544.745E,755.0m,3,50,0.0m,,"SPITAL-SEMME. Kat 2"
+"A264xSPITSEE",SPITZI    C,DE,4739.150N,01153.400E,1090.0m,3,320,250.0m,"SPITZINGSEE","Absolutes Notlandefeld! Sehr feucht Sumpfwiese. Kat 3"
+"A265+SPITZW",SPITZW    A,AT,4649.840N,01406.000E,805.0m,3,50,500.0m,"SPITZWIESEN","Kat 1"
+"A266?SRPENICA",A266?ICA,SI,4617.680N,01329.650E,100.0m,3,30,0.0m,,"Kat ?"
+"A267+ST-GEO",ST-GEO    A,IT,4648.673N,01155.633E,835.0m,3,360,300.0m,"ST-GEORGEN","Ein alter Militdrflugplatz, Wiesen mit insgesamt 40ha, laut Militär muß hier Gras wachsen. Kat 1"
+"A268-ST-J",ST-J-P    B,AT,4721.750N,01312.180E,560.0m,3,360,390.0m,"ST-JOHANN-PO","Landung Richtung Norden, Anflug über Sportplatz. Kat 2"
+"A269-ST-JAK",ST-JAK    B,AT,4729.985N,01233.974E,856.0m,3,160,400.0m,"ST-JAKOB","ST-JAKOB WALLERBERG. Kat 2"
+"A270-ST-LEONH",ST-LEO    B,IT,4648.324N,01114.498E,640.0m,3,20,300.0m,"ST-LEONHARD","Achtung Bewässerungsstangen, Anflug über Bauernhof! Kat 2"
+"A271+ST-MAR",ST-MAR    A,AT,4728.790N,01522.780E,540.0m,3,240,700.0m,"ST-MAREIN","Kat 1"
+"A272+ST-OSW",ST-OSW    A,AT,4716.378N,01430.241E,945.0m,3,10,0.0m,"ST-OSWALD","Kat 1"
+"A273-ST-ULRICH",ST-ULR    B,AT,4730.851N,01235.089E,860.0m,3,80,280.0m,,"Anflug über großes Hotel und Quer-Baumreihe! Queranflug an den westlichen Hang anlehnen ! Kat 2"
+"A274+ST-AEG",STAEGY    A,AT,4751.133N,01533.250E,645.0m,3,290,800.0m,"ST-AEGYD","Flugzeugträgerlandung, Bodenwellen, ev. Weidezäune! Kat 1"
+"A275+STAMS",STAMS     A,AT,4716.928N,01059.383E,635.0m,3,70,300.0m,,"Kat 1"
+"A276+STANZA",STANZA    A,AT,4722.736N,01033.734E,960.0m,3,140,300.0m,,"Landerichtung SO, Feld steigt an. Kat 1"
+"A277xSTEEG",STEEG     C,AT,4714.612N,01017.478E,1120.0m,3,330,350.0m,,"Keine normale Platzrunde, sehr kurzes Endteil; Kat 3"
+"A278+STEIN",STEIN     A,AT,4726.650N,01357.200E,660.0m,3,40,0.0m,,"STEIN-ENNSTAL. Kat 1"
+"A279xSTEINB",STEINB    C,AT,4730.560N,01148.200E,1020.0m,3,360,200.0m,"STEINBERG","Schwieriges Gelände! Steile Gegenhang-Landungen in beiden Fällen! Nr. 1, östl. des Skiliftes, mit viel Fahrt im Anflug bevorzugen, weil der obere Teil fast horizontal ist! Landung in Achenkirch vorziehen! Kat 3"
+"A27-Bad-HOF-S",BHOF-S    B,AT,4708.850N,01307.067E,848.0m,3,170,250.0m,"BAD-HOFGASTEIN-SUED","Zäune beachten! Kat 2"
+"A280-STRASS",STRASS    B,AT,4724.040N,01149.246E,524.0m,3,60,300.0m,"STRASS-ZILLERTAL","Leitung teilt Feld in Ost/Westrichtung, Achtung 2. Leitung! Kat 2"
+"A281-SUSCH",SUSCH     B,CH,4644.650N,01004.870E,1430.0m,3,210,350.0m,,"Enges Tal, Anflug schwierig. S45. Kat 2"
+"A282xTABLAND",TABLAN    C,IT,4637.706N,01058.747E,770.0m,3,180,250.0m,,"einzige theoretische Landemöglichkeit zwischen Schluderns und Meran, Schaden wegen Bewässerungsmasten unvermeidbar; beste Stelle östlich neben Leitung; nur nach Süden landen. Feld steigt an. Stangen liegen enger als 25m zusammen!!! Kat 3"
+"A283+TAUFERS",TAUFER    A,IT,4654.822N,01157.538E,860.0m,3,160,450.0m,,"UL-Flugplatz, 20m breit angegeben, www.dolomiti-airshow.com. Kat 1"
+"A284+TERNITZ",TERNIT    A,AT,4742.500N,01601.000E,398.0m,3,40,0.0m,,"Kat 1"
+"A285-THALHA",THALHA    B,AT,4726.023N,01354.408E,670.0m,3,90,0.0m,"THALHAMM","Kat 2"
+"A286xTHIERSEE",THIERS    C,AT,4735.526N,01207.425E,620.0m,3,70,220.0m,,"Landerichtung O, Feld steigt stark an; Längsgräben. Kat 3"
+"A287+THUSIS",THUSIS    A,CH,4642.692N,00926.750E,670.0m,3,340,250.0m,,"S54. Kat 1. Am alten Feld wurde eine Raststätte errichtet! Als Alternative bieten sich Felder südlich und südöstlich der bisherigen Wiese an, diese sind problemlos landbar."
+"A288-TIENZE",TIENZE    B,AT,4706.656N,01127.622E,1115.0m,3,330,260.0m,"TIENZENS-STATZ","Flugplatz Innsbruck liegt 19 km entfernt und ist 600m tiefer. Kat 2"
+"A289+TOESE_N",TOES-N    A,AT,4701.465N,01037.028E,905.0m,3,40,470.0m,"TOESENS-NORD","S26. Anschweben über Bäume, langes Feld mit 400x100 m, sehr eben, keine Zäune, keine sonstige Flughindernisse, landbar von 04 oder 22, Gras, leicht erkennbar neben dem Inn. Kat 1"
+"A290+TOESE_S",TOES-S    A,AT,4700.313N,01035.722E,930.0m,3,30,350.0m,"TOESENS-SÜD","Mit  Stein-Mauern  gebildete Absätze beachten!  Anflug 03/21. S27. Kat 1"
+"A291+TOLMIN",TOLMIN    A,SI,4611.217N,01342.350E,170.0m,3,140,300.0m,,"Landing direction 140°. W67. Kat 1"
+"A135+KOBARID",KOBARI    A,SI,4614.783N,01332.417E,240.0m,3,80,300.0m,,"Kat 1, W66"
+"A292+TONALE",TONA-A    A,IT,4615.502N,01034.736E,1885.0m,3,70,1150.0m,,"W53. Kat 1"
+"A293-TRAMONTI",TRAMON    B,IT,4617.050N,01247.983E,390.0m,3,180,160.0m,,"Sehr kurz! Kat 2"
+"A294+TRESSDORF",TRESSD    A,AT,4638.149N,01312.043E,610.0m,3,110,300.0m,,"Standardlandewiese im Gailtal, da eine der vier Flächen immer geeigneten Bewuchs aufweist. Anflug ist problemlos. Kat 1"
+"A295+TRISSINO",TRISSI    A,IT,4533.683N,01123.450E,150.0m,3,180,800.0m,,"W96. Kat 1"
+"A297-TUMPEN",TUMPEN    B,AT,4710.054N,01054.700E,930.0m,3,180,500.0m,"TUMPEN OETZTAL","Viele ca. 50 cm lange Begrenzungs-Stempen! Hochspannungsleitungen! Kat 2"
+"A298-UMHAUS",UMHAUS    B,AT,4707.743N,01055.577E,1075.0m,3,160,450.0m,"UMHAUSEN OETZTAL","Wiese steigt mäßig steil von Nord nach Süd an! Kat 2"
+"A299+UNTERAM",UNTERA    A,DE,4737.450N,01101.900E,840.0m,3,10,250.0m,"UNTERAMMERGAU","Kat 1"
+"A29-BOCKING",BOCKIN    B,AT,4730.960N,01213.650E,690.0m,3,170,300.0m,,"Landerichtung nur SO, Feld steigt an. Kat 2"
+"A300+UNTERB",UNTERB    A,DE,4746.911N,01129.170E,632.0m,3,180,300.0m,"UNTERBUCHEN","Hochspannungsleitung östlich der Strasse! Kat 1"
+"A301-URREITING",URREIT    B,AT,4722.373N,01312.943E,555.0m,3,180,500.0m,"URREITING (ST-JOHANN)","Alternative zu St. Johann i.P. Kat 2"
+"A302-URSPRUNG",URSPRU    B,AT,4736.600N,01201.000E,830.0m,3,350,200.0m,,"Enges Tal keine normale Platzrunde möglich. Kat 2"
+"A303-UTTEND",UTTEND    B,AT,4717.224N,01233.244E,790.0m,3,10,340.0m,"UTTENDORF","Landerichtung Nord. Kat 2"
+"A304+VIDOR",VIDOR     A,IT,4551.380N,01204.160E,140.0m,3,340,400.0m,,"Landing direction 340°. W78. Kat 1"
+"A305-VIEHHOFEN",VIEHHO    B,AT,4721.972N,01242.906E,880.0m,3,280,470.0m,,"Der Querweg ist überrollbar! Kat 2"
+"A306-VIERSCHACH",VIERSC    B,IT,4643.680N,01219.500E,1130.0m,3,90,250.0m,,"Kat 2"
+"A307-VILS",VILS      B,AT,4732.890N,01038.700E,825.0m,3,90,470.0m,,"Sehr schmal. Kat 2"
+"A308?VOLARJE",A308?RJE,SI,4612.300N,01340.300E,100.0m,3,0,0.0m,,"Kat ?"
+"A309+VOMP",VOMP      A,AT,4719.817N,01141.317E,541.0m,3,140,200.0m,"VOMP-MOORHOF","Mehrere Möglichkeiten. Kat 1"
+"A30-BODENB",BODENB    B,AT,4734.781N,01506.913E,870.0m,3,300,300.0m,"BODENBAUER HOCHSCHWAB","Kat 2"
+"A31+BOSCHHOF",BOSCHH    A,DE,4748.428N,01125.145E,600.0m,3,90,250.0m,,"Kat 1"
+"A310+VORDERBERG",VORDEB    A,AT,4635.572N,01330.881E,570.0m,3,120,400.0m,,"Kat 1"
+"A311xVORDER",VORDER    C,DE,4733.563N,01126.412E,810.0m,3,280,300.0m,"VORDERRISS","Weidezäune in wechselnder Position!Herbst 2003 im westlichen Bereich. Kat 3"
+"A312+WACKER",WACKER    A,DE,4744.062N,01133.115E,730.0m,3,90,400.0m,"WACKERSBERG","Kat 3"
+"A313-WALCHSEE",WALCHS    B,AT,4738.480N,01217.450E,690.0m,3,80,330.0m,,"Kat 2"
+"A314-WATTWIL",WATTWI    B,CH,4716.817N,00906.017E,620.0m,3,160,300.0m,,"Ebnat-Kappel ist die bessere Wahl! Kat 2. S02"
+"A315+WEGSCH",WEGSCH    A,DE,4739.850N,01134.250E,700.0m,3,270,200.0m,"WEGSCHEID","Kat 1"
+"A316+WEINBACH",WEINBA    A,AT,4742.856N,01331.798E,525.0m,3,100,800.0m,,"Kat 1"
+"A317-WEISSB",WEISSB    B,AT,4731.575N,01244.510E,660.0m,3,320,360.0m,"WEISSBACH","sehr enges Tal, keine Platzrunde möglich. Kat 2"
+"A318-WENIGZ",WENIGZ    B,AT,4725.515N,01547.684E,790.0m,3,300,0.0m,"WENIGZELL","Kat 2"
+"A319-WERTACH",WERTAC    B,DE,4736.200N,01025.100E,890.0m,3,320,400.0m,,"Leitungen im Anflug. Einzelwiesen, nach Bewuchs wählen, dazwischen Pfähle und Zäune! Kat 2"
+"A32+BRAMBERG",BRAMBE    A,AT,4715.615N,01219.435E,830.0m,3,250,500.0m,,"Von Ost freier Anflug, jedoch leicht abschüssig.Wiese hängt ein klein wenig nach Süden. Kat 1"
+"A320-WESTEN",WESTEN    B,AT,4725.722N,01212.991E,800.0m,3,100,400.0m,"WESTENDORF","Wiese steigt nach SO an, Hangauflandung. Kat 2"
+"A321+WIND_N",WINDIS    A,AT,4744.126N,01419.465E,620.0m,3,70,500.0m,"WINDISCHGARSTEN NORD","Kat 1"
+"A322-WIND_S",WIND_S    B,AT,4742.390N,01418.919E,590.0m,3,310,650.0m,"WINDISCHGARSTEN SÜD","Kat 2"
+"A323+WOERGL",WOERGL    A,AT,4729.280N,01205.330E,520.0m,3,100,480.0m,,"asphaltierter Querweg im Osten überrollbar. Kat 1"
+"A324+WOERTH",WOERTH    A,AT,4711.940N,01258.848E,960.0m,3,80,300.0m,"WOERTH-RAURIS","Kat 1"
+"A325+WUERFLACH",WUERFL    A,AT,4746.719N,01604.359E,380.0m,3,60,700.0m,,"Kat 1"
+"A326+WUERMLACH",A326+ACH,AT,4640.820N,01301.478E,680.0m,3,0,700.0m,,"Kat 1. Modellflugplatz bei Öllager"
+"A327-ZAMS",ZAMS      B,AT,4709.300N,01034.825E,770.0m,3,110,200.0m,,"Kat 2. Die Wiesen sind unter Berücksichtigung der Hochspannungen gut und vom Charakter her als “gelb” einzustufen. Das eingezeichnete Hauptlandefeld ist von West nach Ost anzufliegen mit Queranflug über eine kleinere Hochspannung.Im Norden zum Inn hin ist eine Geländestufe und die Hochspannung liegt tiefer. Am Anfang des Landefeldes ist eine tiefe Bewuchsgrenze zu beachten. Bei den eingezeichneten Alternativen sind die Querwege überrollbar."
+"A328-ZELLER",ZELLER    B,AT,4747.683N,01512.333E,1067.0m,3,120,300.0m,,"ZELLER RAIN. Kat 2"
+"A33+BREDERIS",BREDIS    A,AT,4717.430N,00937.050E,440.0m,3,20,300.0m,,"Felder werden zum Golfplatz umgebaut. Kat 1"
+"A330-Zignau",A330-S62,,4644.650N,00900.733E,840.0m,3,0,0.0m,,"S62. Kat 2"
+"A331+ZUOZ",ZUOZ-S    A,CH,4635.976N,00957.974E,1660.0m,3,40,400.0m,"ZUOZ-S-CHANF","Alternatives Feld süd-östlich der Straße ist eine Golfplatz-Driving-Range! Die Golfbälle fliegen! S47. Kat 1"
+"A34xBrixen",A34Brxen,IT,4642.165N,01139.298E,580.0m,3,0,150.0m,,"Kat 3"
+"A35+BRIXEN",BRIXET    A,AT,4727.067N,01215.967E,830.0m,3,100,400.0m,"BRIXEN IM THALE","Wiese 1, geht nicht mehr: Bau einer Umgehungsstraße!!!!Wiese 2, rosa Querweg nur mit Rumps zu überrollen ! Kat 1"
+"A36-BRUNICO",BRUNIC    B,IT,4648.374N,01156.528E,835.0m,3,180,400.0m,,"Kat 2"
+"A37-BRUNNSEE",BRUNNS    B,AT,4739.000N,01502.500E,640.0m,3,200,300.0m,,"Kat 2"
+"A39xCAMPITELLO",CAMPIT    C,IT,4628.567N,01145.383E,1448.0m,3,30,400.0m,"CAMPITELLO-FASSA","Golf-Driving-Range mit 2m Netz am Anfang von Landefeld (1), behindert den Anflug! Teile des Areals sind sehr wellig. Kat 3"
+"A41+CEPOVAN",CEPOVA    A,SI,4602.133N,01346.933E,570.0m,3,20,300.0m,,"Landing direction 20°. Kat 1. W88"
+"A42+CHARRAT",CHARRA    A,CH,4606.958N,00707.118E,459.0m,3,40,300.0m,,"Kat 1"
+"A43+CIMOLAIS",CIMOLA    A,IT,4616.333N,01227.850E,570.0m,3,330,200.0m,,"Landing direction 330°. Kat 1. W60"
+"A44-COLICO",COLICO    B,IT,4609.800N,00925.300E,203.0m,3,60,250.0m,"COLICO-PIANA","Bermuda-Dreieck, UL-Flugplatz, Leitung im Anflug! Kat 2"
+"A45-CORTINA",CORTIN    B,IT,4631.208N,01207.899E,1150.0m,3,50,300.0m,,"Kat 2"
+"A46+CORVARA",CORVAR    A,IT,4633.150N,01152.000E,1555.0m,3,100,300.0m,,"W41. Kat 1"
+"A47-DAVOS",DAVOSS    B,CH,4648.833N,00950.900E,1560.0m,3,0,0.0m,,"Achtung: Fussgänger und Kinder!Leicht gebogener Anflug über den See. Kat 2. S33"
+"A48-DISENTIS",DISENT    B,CH,4642.183N,00851.433E,1150.0m,3,220,250.0m,,"Ost. Alle Wiesen ca. 3% Gefälle. Kat 2. S63"
+"A49-DOLENJ",DOLENJ    B,SI,4612.583N,01413.433E,420.0m,3,310,250.0m,"DOLENJA VAS","Kat 2"
+"A50-DOLLINGER",DOLLIN    B,AT,4716.369N,01047.742E,788.0m,3,50,418.0m,,"Moorwiesen! Kat 2"
+"A51-DORFGASTEIN",DORFGA    B,AT,4713.453N,01306.519E,830.0m,3,180,450.0m,,"Drachenflieger- und Modellfliegerplatz mit Windsack. Kat 2"
+"A52-DUBINO",DUBINO    B,IT,4608.917N,00927.000E,210.0m,3,150,350.0m,,"Laternen-Pfähle, Feldweg mit Zaun-Pfählen am Kopfende der Bahn! W124. Kat 2"
+"A53+DUERNBACH",DUERNB    A,DE,4746.070N,01143.978E,749.0m,3,170,300.0m,,"Kat 1"
+"A54xEBENSEE",EBENSE    C,AT,4748.100N,01346.760E,430.0m,3,220,250.0m,,"Achtung Talwind als Rückenwind, Bodenwellen! Kat 3"
+"A55+EBNAT",EBNAT     A,CH,4716.233N,00906.617E,630.0m,3,160,400.0m,"EBNAT-KAPPEL","Kat 1. S01"
+"A56-EHRWALD",EHRWAL    B,AT,4723.936N,01054.830E,970.0m,3,110,250.0m,,"am Ostrand führt eine Leitung über das Feld > Landerichtung nur gegen Osten. Kat 2"
+"A57xEISENERZ",EISENE    C,AT,4732.700N,01453.900E,810.0m,3,40,200.0m,,"Achtung Hangneigung 30 Grad, TalKessel, Bodenwellen! Kat 3"
+"A58+EISENKAPPEL",EISENK    A,AT,4630.389N,01434.814E,510.0m,3,160,400.0m,,"Kat 1"
+"A59-ELLMAU",ELLMAU    B,AT,4731.044N,01217.686E,780.0m,3,120,360.0m,,"Wiese 1 steigt leicht nach Osten an! Stangen im Frühjahr ! Kat 2"
+"A60xEMBACH",EMBACH    C,AT,4717.476N,01259.633E,1019.0m,3,200,300.0m,,"Steigt leicht von Nord-Ost nach Süd-West an! Landeanflug über eine 300 m hohe Geländekante (Lee!?).Hochspannungen sind zu unterrollen. Kat 3"
+"A61+ERPFENDORF",ERPFEN    A,AT,4734.661N,01228.962E,644.0m,3,80,500.0m,,"Von West nach Ost leicht ansteigend. Kat 1"
+"A62+FALL-SYLVENS",FALL      A,DE,4734.241N,01132.963E,780.0m,3,160,300.0m,,"Landung Richtung Süden, erst in zweiter Hälfte nach Querweg aufsetzen. Kat 1"
+"A63-FARCHANT-N",FARCHA    B,DE,4732.233N,01106.883E,671.0m,3,30,250.0m,,"Wiese an der Strasse bevorzugt, Querwege überrollbar. Auf 2m breite Wassergräben achten! Kat 2"
+"A64-FARCHANT-S",FARCHS    B,DE,4731.383N,01106.500E,680.0m,3,180,460.0m,,"Bei Anflug von Süd nach Nord Quer-Bodenwelle! Kat 2"
+"A65+FARRA",FARRA     A,IT,4554.003N,01208.028E,160.0m,3,340,300.0m,"FARRA-D-SOLI","DIREZIONE 340° IN SALITA VERSO NORD. Kat 1. W79"
+"A66-FEDERAUN",FEDERA    B,AT,4634.229N,01347.963E,509.0m,3,260,500.0m,,"Nur wenn man Flp Nötsch nicht erreicht! Kat 2"
+"A67-FEFFERNITZ",FEFFER    B,AT,4641.500N,01341.660E,510.0m,3,40,250.0m,,"Kat 2"
+"A68+FELTRE",FELTRE    A,IT,4601.792N,01155.205E,320.0m,3,250,300.0m,,"Landing direction 70°. Kat 1. W76"
+"A69-FISCHBACHAU",FISCHB    B,DE,4743.239N,01156.662E,760.0m,3,140,420.0m,,"Gelände steigt nach Osten an! Kat 2"
+"A70-FISCHHAUSEN",FISCHH    B,DE,4742.549N,01152.148E,800.0m,3,140,250.0m,,"Leicht ansteigend Richtung SO. Bei Endanflug aus Süden muß 4 km vorher der Spitzingsattel (1150m) überflogen werden! Kat 2"
+"A71-FOLLINA",FOLLIN    B,IT,4557.418N,01208.074E,260.0m,3,250,180.0m,,"Sehr kurz! Kat 2"
+"A72-FONZASO",FONZAS    B,IT,4600.700N,01148.667E,330.0m,3,70,200.0m,,"Sehr kurz! Horses in the garden. W74. Kat 2"
+"A73-FRAUENKIRCH",FRAUEN    B,CH,4646.583N,00948.433E,1510.0m,3,30,300.0m,,"Sehr enges Tal, keine normale Platzrunde möglich!Die beiden Hindernisse können NICHT durchflogen werden! Kat 2. S34"
+"A74+FRIESACH",FRIEGA    A,AT,4709.911N,01519.533E,390.0m,3,10,300.0m,,"FRIESACH-GRAZ. Kat 1"
+"A75+FUEGEN",FUEGEN    A,AT,4720.654N,01151.515E,540.0m,3,270,600.0m,,"Hohe Bäume und 2 Hochspannungen im Osten beachten ! Im Westen: Bahn-Böschung  und unterrollbare Hochspannung! Kat 1"
+"A76-FULDERA",FULDER    B,CH,4636.850N,01021.720E,1640.0m,3,140,300.0m,,"Schluderns liegt 18 km entfernt und ist 700m tiefer! Auf Wassergräben achten ! (Gepunktete Linien ! ) Kat 2"
+"A77+GAGERING",GAGERI    A,AT,4721.650N,01151.391E,530.0m,3,170,730.0m,,"Auf viele Stromleitungen achten, nördliche Wiese beste Variante. Kat 1"
+"A79-GARMISCH-O",GARMIO    B,DE,4729.000N,01105.933E,730.0m,3,140,340.0m,,"Landerichtung nur S, Feld steigt an. Kat 2"
+"A80-GARMISCH-W",GARMIW    B,DE,4728.267N,01103.250E,745.0m,3,50,300.0m,,"Kat 2"
+"A81+GERLAMOOS",GERLAM    A,AT,4645.577N,01316.760E,575.0m,3,80,500.0m,,"Kat 1"
+"A82xGERLOS",GERLOS    C,AT,4713.744N,01203.164E,1258.0m,3,140,180.0m,,"Kat 3"
+"A83-GLOGGNITZ",GLOGGN    B,AT,4740.593N,01557.515E,430.0m,3,160,0.0m,,"Vier Bereiche mit unterschiedlichem Bewuchs, Bereich 1 meist am besten belandbar! Kat 2"
+"A84+GOESTLING",GOESTL    A,AT,4746.785N,01454.512E,580.0m,3,230,350.0m,,"Kat 1"
+"A85+GOETZIS",GOETZI    A,AT,4719.134N,00937.601E,425.0m,3,20,300.0m,,"Kat 1"
+"A86+GOGGAU",GOGGAU    A,AT,4647.942N,01409.005E,785.0m,3,40,600.0m,,"Kat 1"
+"A87-GONTEN",GONTEN    B,CH,4719.353N,00920.466E,926.0m,3,40,250.0m,,"im Südteil leicht wellig, zwei Pfosten, die auf den Foto von oben erkennbaren anderen Wiesen sind von Pfosten. Kat 2"
+"A88-GORTIPOHL",GORTIP    B,AT,4700.266N,01000.283E,900.0m,3,150,300.0m,,"Enges Tal! Kat 2. S18"
+"A89+GOSAU",GOSAU     A,AT,4733.900N,01331.220E,750.0m,3,20,400.0m,,"Kat 1"
+"A90+GRAFENBACH",GRAFEN    A,AT,4741.055N,01600.144E,410.0m,3,160,800.0m,,"Kat 1"
+"A91-GRAMLER",GRAMLE    B,AT,4729.966N,01247.331E,676.0m,3,120,450.0m,,"Sehr enges Tal, keine Platzrunde möglich. Kat 2"
+"A92+GRIGNO",GRIGNO    A,IT,4601.753N,01134.860E,300.0m,3,310,250.0m,,"Landing direction 310°. W73. Kat 1"
+"A93-GRIESSE",GRISSE    B,AT,4727.311N,01239.282E,960.0m,3,280,500.0m,"GRIESSENPASS","Kat 2"
+"A94-GROSSPIENZ",GROSSP    B,DE,4749.383N,01149.800E,700.0m,3,150,400.0m,"GROSSPIENZENAU-THALHAM","Feld ist unterteilt durch Zäune; landerichtung S, Feld steigt an; Kat 2"
+"A95-GSCHOEDER",GSCHOE    B,AT,4738.834N,01506.689E,650.0m,3,160,0.0m,,"Kat 2"
+"A96+GSIESSERTAL",GSIESS    A,IT,4645.940N,01209.666E,1260.0m,3,80,400.0m,,"UL-Flp? Kat 1"
+"A97-GUSSWERK",GUSSWE    B,AT,4743.396N,01516.260E,720.0m,3,30,0.0m,,"Kat 2"
+"A98+HABACH",HABACH    A,AT,4746.866N,01409.700E,500.0m,3,330,550.0m,,"Landerichtung 33 wegen lokaler Windsystem bevorzugen! Kat 1"
+"A99+HAIMING",HAIMIN    A,AT,4715.550N,01054.533E,670.0m,3,360,400.0m,"HAIMING-PIRCHET","Südliches Landefeld Querwege überrollbar.Maisanbau! Kat 1"
+"Aachen",AACHE,DE,5049.383N,00611.183E,189.0m,5,80,530.0m,"122.875","Aachen-Merzbruck"
+"AALEN",AALEN  EDPA,DE,4846.667N,01015.883E,585.0m,5,90,950.0m,"122.40","AALEN  HEIDENHEIM"
+"Achmer",ACHME,DE,5222.650N,00754.817E,55.0m,2,70,920.0m,"123.050",
+"Achterstedt",ACHTE,DE,5323.850N,00819.733E,1.0m,2,70,460.0m,"123.425","Prv"
+"AGATHAZELLR",AGATHA,DE,4733.367N,01016.333E,727.0m,2,180,700.0m,"123.35","AGATHAZELLR MOOS"
+"Ahlhorn",AHLHO,DE,5253.050N,00814.000E,49.0m,5,90,2100.0m,"122.100","Mil"
+"Ahrenlohe",AHREN,DE,5342.000N,00944.433E,9.0m,5,50,590.0m,"122.600",
+"AICHACH",AICHAC,DE,4828.550N,01108.217E,440.0m,2,30,700.0m,"122.30","De"
+"Aichelberg",AICHEG,DE,4838.100N,00934.267E,564.0m,7,,,,
+"Aichlmuehl",Aichlehl,AT,4750.720N,01550.230E,550.0m,3,50,200.0m,,"Kat 2"
+"AIGEN",AIGEN  LOXA,AT,4732.283N,01408.383E,637.0m,2,240,800.0m,"118.00","En/De,Mil"
+"Ailertchen",AILER,DE,5035.600N,00756.700E,469.0m,2,40,690.0m,"123.050",
+"AJDOVSCINA",AJDOVS LJAJ,SI,4553.233N,01353.500E,111.0m,2,90,1200.0m,"123.50","W89 AJDOVSCINA LETAL"
+"ALBE",ALBE P,FR,4820.500N,00719.000E,600.0m,2,110,500.0m,,"Fr"
+"ALBENGA",ALBENG LIMG,IT,4402.717N,00807.550E,46.0m,5,90,1410.0m,"123.85","It"
+"ALBERTVILLE",ALBERT LFKA,FR,4537.633N,00619.750E,314.0m,5,50,800.0m,"123.50","Fr"
+"ALBSTADT",ALBSTA EDSA,DE,4814.983N,00903.617E,878.0m,2,90,950.0m,"125.10","ALBSTADT  DEGERF"
+"Albulapass",ALBULA,CH,4634.950N,00950.250E,2312.0m,6,,,,
+"ALESSANDRIA",ALESSA LILA,IT,4455.517N,00837.500E,92.0m,2,90,830.0m,"      ","It"
+"Aletschhorn",ALETSC,CH,4627.933N,00759.467E,4195.0m,7,,,,
+"Alkersleben",ALKER,DE,5050.517N,01104.200E,351.0m,5,90,860.0m,"123.000",
+"Allendorf",ALLEN,DE,5102.117N,00840.750E,357.0m,5,110,1080.0m,"118.175",
+"Allstedt",ALLST,DE,5122.833N,01126.800E,284.0m,5,70,1200.0m,"122.000",
+"Almkogel",ALMKOG,AT,4749.550N,01433.900E,1513.0m,7,,,,
+"ALPES D HUEZ",L ALPE LFHU,FR,4505.300N,00605.050E,1859.0m,5,60,430.0m,"120.60","L ALPES D HUEZ. Fr,Altiport"
+"ALPNACH",ALPNAC LSMA,CH,4656.633N,00817.050E,439.0m,5,40,2140.0m,"120.62","En/De,Mil,NO GLD ACT"
+"Alsfeld",ALSFE,DE,5045.033N,00914.917E,292.0m,4,60,650.0m,"123.500",
+"Altdorf",ALTDH,DE,4923.250N,01125.350E,534.0m,4,50,790.0m,"129.975","Altdorf Hagnhaus"
+"ALTDORF",ALTDOR EDSW,DE,4816.183N,00750.533E,192.0m,2,70,830.0m,"127.15","ALTDORF WALLBURG"
+"Altena",ALTEH,DE,5118.783N,00742.217E,472.0m,2,60,600.0m,"122.200","Altena Hegensch"
+"Altenbachtal",ALTBA,DE,4955.367N,00909.467E,132.0m,4,70,600.0m,"123.500",
+"Altenburg",ALTEN,DE,5058.917N,01230.383E,195.0m,5,40,2240.0m,"123.575","Altenburg Nobitz"
+"ALTENSTADT",ALTENS ETHA,DE,4750.133N,01052.267E,741.0m,2,90,680.0m,"122.10","De"
+"Altfeld",ALTFE,DE,4949.917N,00932.233E,360.0m,4,100,560.0m,"130.125",
+"Altlichtenwarth",Altlirth,AT,4839.967N,01649.500E,182.0m,4,4,500.0m,"125.25",
+"ALTOETTING",ALTOET,DE,4812.983N,01238.817E,400.0m,2,90,730.0m,"123.50","De"
+"ALTOMUENSTER",ALTOMU,DE,4822.983N,01118.433E,504.0m,2,20,200.0m,"123.42","UL"
+"ALWAYS",ALWAYS,IT,4608.000N,01316.700E,130.0m,2,170,300.0m,"      ","UL. It"
+"ALZATE",ALZATE LILB,IT,4546.217N,00909.650E,384.0m,5,90,590.0m,"      ","W138 ALZATE BRIANZAIt"
+"Amberg",AMBER,DE,4926.350N,01148.317E,384.0m,4,80,800.0m,"123.350","Amberg Rammerts"
+"AMBERIEU",AMBERI LFXA,FR,4558.783N,00520.267E,250.0m,5,20,1990.0m,"122.10","Fr"
+"AMBRI",AMBRI  LSPM,CH,4630.783N,00841.367E,988.0m,5,110,1990.0m,"118.52","AMBRI PIOTTA. En/It"
+"AMLIKON",AMLIKO LSPA,CH,4734.517N,00903.000E,418.0m,2,100,780.0m,"132.57","De"
+"Amoeneburg",AMOEN,DE,5047.433N,00854.483E,230.0m,4,50,620.0m,"122.475",
+"AMPFING",AMPFIN EDNA,DE,4815.783N,01224.650E,415.0m,2,90,890.0m,"123.60","De"
+"AMTZELL",AMTZEL,DE,4744.950N,00944.933E,620.0m,2,190,400.0m,"123.42","AMTZELL RAVENSBU UL. De"
+"ANCONA",ANCONA LIPY,IT,4336.950N,01321.733E,15.0m,5,40,3000.0m,"119.80","ANCONA FALCONARA. It"
+"Anger",Anger,AT,4716.200N,01542.365E,515.0m,4,30,300.0m,,
+"Anklam",ANKLA,DE,5349.933N,01340.217E,6.0m,5,90,1000.0m,"122.650",
+"ANNECY",ANNECY LFLP,FR,4555.850N,00606.383E,463.0m,5,40,1630.0m,"118.20","Fr"
+"ANNEMASSE",ANNEMA LFLI,FR,4611.517N,00616.133E,494.0m,5,120,1290.0m,"120.80","Fr"
+"Ansbach",ANSBM,DE,4918.483N,01038.317E,466.0m,5,80,370.0m,"122.100","MIL"
+"Ansbach-P",ANSBA,DE,4921.600N,01040.267E,418.0m,2,90,770.0m,"123.650","Ansbach Petersd"
+"Anspach-Taunus",ANSPA,DE,5017.383N,00832.217E,335.0m,2,60,650.0m,"121.025",
+"ANTERSBERG",ANTERS,DE,4757.783N,01159.733E,489.0m,2,130,950.0m,"123.35","De"
+"AOSTA",AOSTA  LIMW,IT,4544.367N,00721.717E,546.0m,5,90,1230.0m,"119.95","It"
+"Aprica Pass",APRICA,IT,4609.317N,01009.550E,1176.0m,6,,,,
+"ARBOIS",ARBOIS LFGD,FR,4655.200N,00545.567E,268.0m,2,140,920.0m,"123.50","Fr,Nil"
+"AREZZOGAR",AREZZO LIQB,IT,4327.350N,01150.817E,247.0m,5,120,740.0m,"126.90","It"
+"ARGENBUEHL",ARGENB,DE,4741.450N,00957.933E,650.0m,2,90,400.0m,"123.42","ARGENBUEHL EISEN UL. De"
+"Arlberg Pass",ARLBER,AT,4707.783N,01012.667E,1795.0m,6,,,,
+"Arnbruck",ARNBR,DE,4907.517N,01259.100E,524.0m,5,160,620.0m,"118.550",
+"Arnsberg-M",ARNSB,DE,5129.033N,00753.867E,241.0m,5,50,920.0m,"123.025","Arnsberg Menden"
+"Arnsberg-R",ARNRW,DE,5123.250N,00803.633E,180.0m,4,170,880.0m,"123.400","Arnsberg Ruhrwi"
+"A-Rothorn",AROSER,CH,4644.233N,00936.850E,2980.0m,7,,,,"Aroser Rothorn"
+"Aschaffenburg",ASCHA,DE,4956.333N,00903.750E,125.0m,5,80,830.0m,"134.300",
+"Aschbach",Aschbach,AT,4740.065N,01520.290E,850.0m,3,15,320.0m,,"Kat 2Dieses Landewiese wird auf der rechten Seite durch eine Stromleitung und am Anfang der Wiese auf der linken Seite durch einen schrägen Quergraben begrenzt. Weiters steigt die Wiese in Landerichtung leicht an."
+"Aschersleben",ASCHE,DE,5146.033N,01129.917E,162.0m,2,110,1050.0m,"123.375",
+"ASIAGO",ASIAGO LIDA,IT,4553.267N,01130.983E,1039.0m,5,80,1110.0m,"122.60","It, Landing direction 80°W90 "
+"ASOLO",ASOLO,IT,4545.500N,01153.767E,80.0m,2,0,0.0m,"      ","UL. It"
+"ASPRES",ASPRES LFNJ,FR,4431.067N,00544.183E,832.0m,2,180,890.0m,"123.50","Fr,Nil"
+"Asslarer",ASSLA,DE,5035.983N,00826.633E,232.0m,4,170,590.0m,"129.975","Asslarer Huette"
+"Attendorn",ATTEN,DE,5108.767N,00756.217E,317.0m,2,30,560.0m,"121.400","Attendorn Finnen"
+"Auerbach",AUERB,DE,5029.800N,01222.733E,573.0m,2,180,590.0m,"122.700",
+"AUGSBURG",AUGSBU EDMA,DE,4825.517N,01055.900E,463.0m,5,70,1260.0m,"124.97","Augsburg Muehlhausen"
+"Aukrug",AUKRU,DE,5403.883N,00947.900E,25.0m,4,110,1000.0m,"123.350",
+"Auqulle",AUQULL,FR,4428.467N,00540.717E,1300.0m,7,,,,"Auqulle Serres"
+"Aventoft",AVENT,DE,5453.767N,00849.233E,1.0m,4,100,970.0m,"122.400",
+"AVIANO",AVIANO LIPA,IT,4601.800N,01235.933E,125.0m,5,50,3000.0m,"122.10","It"
+"Babenhausen",BABEN,DE,4957.167N,00858.150E,133.0m,5,60,670.0m,"124.000",
+"Babimost",BABIM,PL,5208.317N,01547.917E,58.0m,5,60,2510.0m,"118.750","MIL"
+"BACKNANG",BACKNA EDSH,DE,4855.183N,00927.317E,293.0m,2,110,500.0m,"126.50","BACKNANG  HEININ"
+"Bad Berka",BABRK,DE,5054.267N,01115.417E,311.0m,2,70,680.0m,"123.650",
+"Bad Brueckenau",BADBR,DE,5016.317N,00949.433E,402.0m,4,130,550.0m,"123.350",
+"BAD BUCHAU",BAD BU,DE,4803.300N,00938.367E,580.0m,2,80,500.0m,"123.15","De"
+"BAD DITZENBACH",BAD DI EDPB,DE,4833.767N,00943.750E,719.0m,2,160,590.0m,"122.35","De"
+"Bad Duerkheim",BADDU,DE,4928.383N,00811.783E,107.0m,5,80,590.0m,"122.400",
+"BAD ENDORF",BAD EN,DE,4755.667N,01217.317E,514.0m,2,170,770.0m,"      ","BAD ENDORF JOLLI"
+"Bad Frankenhausn",BADFR,DE,5122.383N,01108.483E,241.0m,2,80,650.0m,"122.600",
+"Bad Gandersheim",BADGA,DE,5151.167N,01001.600E,241.0m,2,180,710.0m,"123.000",
+"Bad Kissingen",BADKI,DE,5012.633N,01004.133E,198.0m,2,170,800.0m,"122.000",
+"Bad Koenigshofen",BADKO,DE,5017.250N,01025.317E,313.0m,4,70,700.0m,"130.125",
+"Bad Langensalza",BADLA,DE,5107.767N,01037.267E,198.0m,2,90,680.0m,"130.125",
+"Bad Marienberg",BADMA,DE,5039.650N,00801.717E,527.0m,4,110,880.0m,"129.975",
+"Bad Neuenahr",BADNE,DE,5033.517N,00708.200E,204.0m,5,110,500.0m,"122.350",
+"Bad Neustadt",BADNS,DE,5018.333N,01013.600E,305.0m,5,140,590.0m,"123.650",
+"Bad Pyrmont",BADPY,DE,5158.050N,00917.583E,360.0m,5,40,590.0m,"121.175",
+"BAD RAGAZ",BAD RA LSZE,CH,4700.900N,00928.917E,494.0m,5,120,500.0m,"123.50","De"
+"Bad Sobernheim",BADSO,DE,4947.450N,00739.950E,247.0m,2,30,680.0m,"118.925",
+"BAD WALDSEE",BAD WA,DE,4754.900N,00942.617E,575.0m,2,150,800.0m,"123.00","De"
+"Bad Wildungen",BAWIL,DE,5105.633N,00908.900E,310.0m,4,10,980.0m,"123.350",
+"Bad Windsheim",BADWI,DE,4930.600N,01021.983E,372.0m,2,80,680.0m,"118.275",
+"BAD WOERISHOFEN",BAD WO EDNH,DE,4800.983N,01036.967E,619.0m,2,80,560.0m,"122.60","De"
+"Bad Zwischenahn",BADZW,DE,5312.617N,00759.317E,9.0m,4,90,900.0m,"123.500",
+"BADEN OOS",BADEN  EDTB,DE,4847.517N,00811.200E,125.0m,2,40,770.0m,"121.00","De"
+"BAGICZ",BAGICZ,PL,5412.367N,01542.250E,4.0m,2,0,0.0m,"A-122.8",
+"BAIERSBRONN",BAIERS,DE,4832.233N,00823.900E,500.0m,2,170,250.0m,"123.42","BAIERSBRONN HESS UL"
+"BAINDT",BAINDT,DE,4750.950N,00938.933E,511.0m,2,90,300.0m,"      ","BAINDT RAVENSBURG"
+"BALDENAU",BALDEN,DE,4852.483N,00812.833E,112.0m,2,50,870.0m,"123.50","De"
+"Ballenstedt",BALLE,DE,5144.767N,01113.750E,153.0m,5,90,680.0m,"122.700",
+"Baltrum",BALTR,DE,5343.517N,00722.333E,3.0m,5,100,340.0m,"123.050",
+"Bamberg Breitna",BAMBE,DE,4955.233N,01054.850E,250.0m,5,40,1140.0m,"120.175",
+"BANDOL",BAIE D,FR,4308.200N,00546.000E,5.0m,2,0,0.0m,"      ","BAIE DE BANDOL. Fr"
+"BAR LE DUC",BAR LE LFEU,FR,4852.100N,00511.117E,277.0m,2,60,920.0m,"123.50","Fr,Nil"
+"BARCELONNETTE",BARCEL LFMR,FR,4423.300N,00636.583E,1131.0m,5,90,800.0m,"122.15","Fr"
+"Barre Des Ecrins",BARRED,FR,4453.850N,00621.950E,4102.0m,7,,,,
+"Barssel",BARSS,DE,5309.817N,00747.567E,3.0m,2,120,770.0m,"122.000",
+"Barth",BARTH,DE,5420.300N,01242.617E,6.0m,5,90,1200.0m,"118.075",
+"BARTHOLOMAE",BARTHO,DE,4844.800N,01000.300E,637.0m,2,160,890.0m,"123.35","De"
+"Baumerlenbach",BAUME,DE,4913.833N,00925.150E,231.0m,4,80,420.0m,"123.150",
+"Baumholder",BAUMH,DE,4939.100N,00718.433E,442.0m,5,70,550.0m,"122.100","MIL. Idar-Oberstein Info122,850 MHz"
+"Bautzen",BAUTZ,DE,5111.617N,01431.183E,174.0m,5,70,2210.0m,"129.150","Bautzen Litten"
+"Bayreuth",BAYRE,DE,4959.067N,01138.317E,488.0m,5,60,1080.0m,"119.525",
+"Bechyne",BECHY,CZ,4916.417N,01430.167E,432.0m,2,0,0.0m,,
+"Beilngries",BEILN,DE,4901.283N,01129.083E,369.0m,2,100,630.0m,"118.350",
+"Belchen",BELCHE,DE,4749.350N,00749.983E,1414.0m,7,,,,
+"BELFORT-C",BELFOR LFGG,FR,4742.133N,00649.917E,418.0m,2,180,980.0m,"123.50","BELFORT CHAUX. Fr"
+"BELFORT-F",BELFOR,FR,4739.317N,00700.633E,366.0m,5,40,2800.0m,"      ","BELFORT FONTANE. Fr"
+"BELLECHASSE",BELLEC LSTB,CH,4658.833N,00707.983E,433.0m,5,80,490.0m,"122.37","De/Fr"
+"BELLEGARDE",BELLEG LFHN,FR,4607.450N,00548.333E,494.0m,2,10,740.0m,"123.50","Fr,Nil"
+"BELLEY",BELLEY LFKY,FR,4541.700N,00541.533E,226.0m,2,10,620.0m,"123.50","BELLEY PEYRIEU. Fr"
+"BELLUNO",BELLUN LIDB,IT,4610.050N,01214.867E,378.0m,2,90,800.0m,"119.65","North of BellunoW58It"
+"BENEDIKTBEUREN",BENEDI,DE,4742.950N,01123.433E,607.0m,2,90,700.0m,"123.50","De"
+"Benediktenwnd",BENEDI,DE,4739.183N,01127.950E,1801.0m,7,,,,
+"Benesov",BENSO,CZ,4944.450N,01438.683E,402.0m,2,90,740.0m,"118.000",
+"Bensheim",BENSH,DE,4941.517N,00834.950E,100.0m,4,140,620.0m,"123.375",
+"Berching",BERCH,DE,4907.900N,01126.617E,390.0m,2,20,860.0m,"123.350",
+"BERGAMO",BERGAM LIME,IT,4540.050N,00941.967E,238.0m,5,110,3030.0m,"120.50","BERGAMO ORIO. It"
+"Bergheim",BERGH,DE,5058.717N,00636.517E,70.0m,4,140,1100.0m,"130.125",
+"Bergneustadt",BERGN,DE,5103.117N,00742.383E,488.0m,2,40,590.0m,"123.650",
+"Berlin Schoenfel",BERSC,DE,5222.717N,01331.233E,49.0m,5,70,3000.0m,"120.025",
+"Berlin Tegel",BERLT,DE,5233.583N,01317.267E,37.0m,5,80,3030.0m,"118.700",
+"Berlin Tempelhof",BERTE,DE,5228.417N,01324.100E,52.0m,5,90,2080.0m,"118.100",
+"Berliner Heide",BERLI,DE,5240.167N,01022.217E,69.0m,4,30,1070.0m,"123.500",
+"BERN",BERN B LSZB,CH,4654.733N,00729.950E,509.0m,5,140,1500.0m,"121.02","BERN BELP, En/De_125.12Atis_123.40Gld"
+"BERNECK",BERNEC,DE,4834.450N,00943.733E,746.0m,2,160,1040.0m,"123.47","De"
+"BERRE",BERRE  LFNR,FR,4332.267N,00510.667E,34.0m,2,90,1110.0m,"118.10","BERRE LA FARE. Fr"
+"BESANCON-T",BESANC LFSA,FR,4716.483N,00605.017E,247.0m,2,70,950.0m,"123.50","BESANCON THISE. Fr"
+"BESANCON-V",BESANC LFQM,FR,4712.317N,00604.833E,387.0m,5,50,1380.0m,"122.20","BESANCON LA VEZE. Fr"
+"Betzdorf",BETZD,DE,5049.017N,00749.817E,334.0m,2,70,600.0m,"122.750","Betzdorf-Kirchen"
+"BEX",BEX    LSGB,CH,4615.500N,00659.183E,399.0m,2,150,680.0m,"122.15","Fr"
+"BIALA PODL",BIALAODL,PL,5200.417N,02308.950E,151.0m,2,0,0.0m,"W-124.5",
+"Bialystok",BIALY,PL,5306.083N,02310.233E,153.0m,2,80,950.0m,"122.200","Bialystok Krywla"
+"BIBERACH",BIBERA EDMB,DE,4806.667N,00945.767E,579.0m,5,40,980.0m,"122.75","BIBERACH RISS"
+"BIEL",BIEL K LSZP,CH,4705.350N,00717.400E,439.0m,2,50,560.0m,"123.15","BIEL KAPPELEN. De, NO GLD ACT"
+"Bielefeld",BIELE,DE,5157.883N,00832.683E,137.0m,5,110,740.0m,"118.350",
+"BIELLA",BIELLA LILE,IT,4530.000N,00806.117E,284.0m,5,160,1500.0m,"123050","BIELLA CERRIONE. It"
+"Bielsko",BIELS,PL,4948.300N,01900.117E,402.0m,2,40,650.0m,"122.200","Bielsko Biala"
+"Bienenfarm",BIENE,DE,5239.600N,01244.750E,37.0m,2,120,830.0m,"122.850",
+"BINNINGEN",BINNIN EDSI,DE,4747.950N,00843.233E,485.0m,2,70,860.0m,"130.60","De"
+"Birnluecke",BIRNLU,AT,4705.117N,01213.000E,2665.0m,7,,,,
+"BIRRFELD",BIRRFE LSZF,CH,4726.617N,00814.017E,396.0m,5,80,680.0m,"123.55","De,119.825Gld"
+"Bischofsberg",BISCH,DE,5025.933N,01017.000E,340.0m,4,90,900.0m,"122.200",
+"Bisperode",BISPE,DE,5204.733N,00928.550E,180.0m,4,60,1150.0m,"123.150","Bisperode West"
+"Bitburg",BITBU,DE,4956.717N,00633.900E,372.0m,5,60,3060.0m,"118.700",
+"Blatna",BLATN,CZ,4925.517N,01347.517E,454.0m,2,0,0.0m,,"Blatna Rwy Center"
+"BLAUBEUREN",BLAUBE EDMC,DE,4825.183N,00947.933E,677.0m,2,100,860.0m,"130.60","De"
+"Blayeul",Blayeul,FR,4414.700N,00618.767E,2189.0m,7,,,,
+"BLED",LESCE  LJBL,SI,4621.467N,01410.467E,504.0m,2,130,1150.0m,"123.50","W51 LESCE BLED"
+"Blexen",BLEXE,DE,5332.350N,00832.367E,3.0m,4,90,800.0m,"123.500","Blexen bei Nordenham"
+"Blomberg",BLOMB,DE,5155.083N,00906.800E,165.0m,2,60,590.0m,"118.925","Blomberg Borkhau"
+"BLUMBERG",BLUMBE EDSL,DE,4750.700N,00833.950E,698.0m,2,70,770.0m,"123.05","De"
+"Boberg",BOBER,DE,5330.883N,01008.650E,2.0m,4,120,1240.0m,"133.500",
+"Bodenmais",BODENM,DE,4903.433N,01307.467E,995.0m,7,,,,"Bodenmais Silber"
+"Boehlen",BOEHL,DE,5112.917N,01222.067E,131.0m,2,60,950.0m,"123.000",
+"BOESINGEN",BOESIN,DE,4813.500N,00834.000E,606.0m,2,80,410.0m,"134.00","De"
+"Bohlenberger",BOHFE,DE,5325.100N,00754.250E,8.0m,4,50,950.0m,"123.500","Bohlenberger Fel"
+"Bohmte",BOHMT,DE,5221.083N,00819.567E,46.0m,2,100,930.0m,"122.500","Bohmte Bad Essen"
+"Bohunovice",BOHUN,CZ,4940.233N,01717.700E,235.0m,2,70,830.0m,"123.450",
+"BOLHOF",BOLHOF,DE,4739.050N,00823.200E,568.0m,2,40,870.0m,"129.97","De"
+"BOLOGNA",BOLOGN LIPE,IT,4431.867N,01117.533E,37.0m,5,120,2450.0m,"120.80","It"
+"BOLZANO",BOLZAN LIPB,IT,4627.667N,01119.583E,238.0m,5,10,1230.0m,"120.60","W55 BOLZANOIt"
+"Bonn Hangelar",BONNH,DE,5046.133N,00709.833E,61.0m,5,110,800.0m,"135.150",
+"BOPFINGEN",BOPFIN EDNQ,DE,4850.917N,01020.033E,619.0m,2,70,620.0m,"122.85","De"
+"Bordelum",BORDE,DE,5437.633N,00855.783E,1.0m,2,40,570.0m,"133.550",
+"Borghorst",BORGH,DE,5209.050N,00727.167E,39.0m,4,60,960.0m,"123.350",
+"BORGO",BORGO,IT,4542.433N,00835.500E,250.0m,2,0,0.0m,"      ","BORGO TICINO UL. It"
+"Boritov",BORIT,CZ,4925.883N,01635.517E,380.0m,2,0,0.0m,,"Boritov Ul Ploch"
+"Bork",BORK,DE,5214.033N,01250.833E,59.0m,2,170,820.0m,,
+"Borken",BORKH,DE,5151.200N,00648.883E,49.0m,2,120,740.0m,"122.925","Borken Hoxfeld"
+"Borkenberge",BORKE,DE,5146.717N,00717.117E,49.0m,5,80,590.0m,"125.875",
+"Borkum",BORKU,DE,5335.733N,00642.550E,1.0m,5,130,980.0m,"123.000",
+"Bottenhorn",BOTTE,DE,5047.700N,00827.633E,516.0m,2,100,610.0m,"120.375",
+"BOVEC",BOVEC  LJBO,SI,4619.950N,01333.083E,440.0m,2,70,900.0m,"123.50","W65 BOVEC LETALISCE"
+"BRAC",BRAC   LDSB,HR,4317.150N,01640.783E,543.0m,5,40,1440.0m,"118.02",
+"Brandenburg",BRANM,DE,5226.217N,01235.467E,30.0m,2,100,730.0m,"118.625",
+"Brandis",BRADI,DE,5119.717N,01239.483E,165.0m,5,80,1380.0m,"129.250","Brandis Waldpolenz"
+"BRANNENBURG",BRANNE,DE,4744.500N,01206.900E,461.0m,2,160,600.0m,"122.50","De"
+"Braunfels",BRAUF,DE,5031.533N,00823.583E,240.0m,4,70,430.0m,"123.150",
+"Braunschweig",BRAUN,DE,5219.150N,01033.367E,92.0m,5,80,1690.0m,"119.350",
+"Breclav",BRECL,CZ,4847.450N,01653.550E,162.0m,2,80,740.0m,"123.500",
+"Breithorn",BREITH,IT,4556.383N,00744.883E,4164.0m,7,,,,
+"Breitscheid",BREIT,DE,5040.617N,00810.133E,558.0m,5,70,780.0m,"122.600",
+"Bremen",BREME,DE,5302.850N,00847.217E,3.0m,5,90,2020.0m,"118.500",
+"Bremerhaven",BREMV,DE,5330.417N,00834.383E,3.0m,5,160,1200.0m,"129.050",
+"BREMGARTEN",BREMGA EDTG,DE,4754.183N,00737.067E,213.0m,5,50,1660.0m,"122.00","De"
+"BRESCIA",BRESCI LIPO,IT,4525.750N,01019.833E,110.0m,5,140,3000.0m,"119.40","Brescia Montichiari. It"
+"Brezi",BREZI,CZ,4920.667N,01613.033E,530.0m,2,0,0.0m,,"Brezi Praukarska"
+"Briest",BRIES,DE,5226.250N,01227.267E,31.0m,5,70,2350.0m,"130.125","Brandenburg-Briest "
+"Brilon",BRILO,DE,5124.150N,00838.517E,460.0m,5,70,740.0m,"129.375",
+"Brno",BRNOT,CZ,4909.083N,01641.633E,238.0m,5,100,2630.0m,"119.600","Brno Turany"
+"Brocken",BROCKE,DE,5147.950N,01036.917E,1141.0m,7,,,,
+"Brockzetel",BROCZ,DE,5328.883N,00739.100E,9.0m,4,110,1060.0m,"123.500",
+"Bronkow",BRONK,DE,5140.233N,01357.617E,128.0m,2,120,890.0m,"130.325",
+"Broumou",BROUM,CZ,5033.717N,01620.567E,409.0m,2,140,920.0m,"123.500",
+"BROYE",BROYE  LFYH,FR,4719.000N,00530.967E,208.0m,5,180,2370.0m,"122.10","BROYE LES PESMES. Fr"
+"Bruchsal",BRUCH,DE,4908.100N,00833.817E,110.0m,2,120,500.0m,"128.375",
+"BRUCKMUEHL",BRUCKM,DE,4747.950N,01153.917E,920.0m,2,0,0.0m,"123.42","BRUCKMUEHL ROSEN UL"
+"Bubouvice",BUBOU,CZ,4958.467N,01410.683E,427.0m,2,100,710.0m,"122.200",
+"Buchberg",Buchberg,DE,4736.389N,01048.625E,1145.0m,1,,,,
+"Buechel",BUECH,DE,5010.433N,00703.800E,479.0m,5,30,2510.0m,"122.100",
+"Buechig",BUCHI,DE,5026.900N,01015.150E,384.0m,4,100,550.0m,"123.375",
+"Bueckeburg",BUECM,DE,5216.700N,00904.933E,70.0m,5,80,1840.0m,"122.100","MIL"
+"Bueckeburg-S",BUESU,DE,5215.050N,00901.067E,80.0m,4,110,1130.0m,"129.975",
+"Bueckeburg-W",BUECK,DE,5215.167N,00901.183E,80.0m,4,110,1130.0m,"129.975","Bueckeburg Wein"
+"Bueren",BUERE,DE,5132.567N,00834.917E,277.0m,4,70,810.0m,"123.350","Bueren Schwalnbr"
+"Bundenthal",BUNDE,DE,4905.600N,00747.633E,289.0m,4,170,560.0m,"123.350",
+"BUOCHS",BUOCHS LSMU,CH,4658.467N,00823.833E,450.0m,5,70,1500.0m,"119.62","En/De,Civ/Mil"
+"Burg",BURG,DE,5214.500N,01151.367E,52.0m,2,90,830.0m,"122.050",
+"Burg Feuerstein",BURGF,DE,4947.633N,01107.983E,509.0m,5,80,950.0m,"130.775",
+"BURGHEIM",BURGHE,DE,4841.517N,01102.017E,404.0m,2,140,570.0m,"123.35","BURGHEIM SCHWABE"
+"Bussang Col",BUSSAN,FR,4753.367N,00653.700E,732.0m,6,,,,
+"BUSSOL-",BUSSOL,IT,4507.700N,00711.250E,420.0m,3,110,400.0m,"BUSSOLENO","Kat 2"
+"BUTTWIL",BUTTWI LSZU,CH,4715.883N,00818.150E,722.0m,2,160,680.0m,"122.15","De"
+"Bydgoszcz",BYDGO,PL,5305.800N,01758.667E,73.0m,5,80,2510.0m,"119.525","T-119.525 W124.5 A.9"
+"CAKOVEC",CAKOVE LDVC,HR,4623.500N,01630.333E,156.0m,2,30,830.0m,"      ",
+"Calanda",CALAND,CH,4653.983N,00928.067E,2806.0m,7,,,,
+"CALCINATE",CALCIN,IT,4548.600N,00846.233E,240.0m,2,100,460.0m,"123.50","W140 CALCINATE PIEMONIt"
+"Callon",CALLON,CH,4558.633N,00730.250E,3637.0m,7,,,,
+"CAMERI",CAMERI LIMN,IT,4531.867N,00839.917E,180.0m,5,170,3000.0m,"122.10","It,Mil"
+"CANNES",CANNES LFMD,FR,4332.850N,00657.300E,3.0m,5,170,1590.0m,"118.62","CANNES MANDELIEU. Fr"
+"CARPENTRAS",CARPEN LFNH,FR,4401.700N,00505.050E,119.0m,5,130,1200.0m,"118.17","Fr,119.97,122.50"
+"CARPI",CARPI  LIDU,IT,4450.117N,01052.300E,21.0m,5,90,830.0m,"      ","CARPI BUDRIONE. It"
+"CASALE",CASALE LILM,IT,4506.667N,00827.367E,116.0m,2,90,1110.0m,"123.57","CASALE MONFERRAT. It"
+"Caslav",CASLA,CZ,4956.400N,01523.017E,241.0m,5,60,2390.0m,,
+"CASTELLO",CASTEL,IT,4426.000N,00737.900E,460.0m,2,0,0.0m,"      ","CASTELLO STU UL. It"
+"CAVOUR",CAVOUR,IT,4447.833N,00723.500E,290.0m,2,160,300.0m,"      ","UL. It"
+"Cayolle Col",CCAYOL,FR,4415.567N,00644.600E,2326.0m,6,,,,
+"CELJE",CELJE  LJCL,SI,4614.583N,01513.333E,245.0m,2,110,900.0m,"121.00","CELJE LETALISCE"
+"Celle Arloh",CELLE,DE,5241.267N,01006.733E,64.0m,2,40,820.0m,"123.650",
+"Celle Wietze",CELLW,DE,5235.483N,01001.333E,40.0m,5,80,1840.0m,"122.100","MIL"
+"CERESARA",CERESA,IT,4515.883N,01035.000E,42.0m,2,120,530.0m,"130.00","It"
+"CERKLJE",CERKLJ LJCE,SI,4553.783N,01532.000E,153.0m,2,90,2400.0m,"      ","Mil"
+"CERNICA",CERNIC,SI,4546.717N,01423.317E,553.0m,2,120,220.0m,"      ","UL"
+"Cernovice",CERNO,CZ,4910.633N,01639.900E,241.0m,2,130,1210.0m,"122.600","MIL"
+"CERVIA",CERVIA LIPC,IT,4413.533N,01218.483E,6.0m,5,120,3000.0m,"      ","It"
+"Ceska Lipa",CESKA,CZ,5042.633N,01434.083E,284.0m,2,130,680.0m,"123.600",
+"Ceske Bud",CESKE,CZ,4856.800N,01425.750E,433.0m,2,60,600.0m,"122.600","Ceske Budejovice"
+"Céüse",Ceuse,FR,4430.433N,00557.250E,2016.0m,7,,,,
+"CEYZERI",BOURG  LFHS,FR,4612.333N,00517.500E,262.0m,5,180,1140.0m,"118.45","BOURG CEYZERI. Fr"
+"Chaberice",CHABE,CZ,4944.883N,01503.700E,351.0m,2,0,0.0m,,"UL"
+"CHABOTTES",CHABOT,FR,4439.267N,00611.033E,1080.0m,2,80,400.0m,"123.45","UL. Fr"
+"Chabre",Chabre,FR,4418.200N,00546.750E,1352.0m,7,,,,
+"Cham Janahof",CHAMJ,DE,4912.683N,01239.417E,369.0m,4,100,560.0m,"130.125",
+"CHAMBERY AIX",CHAMBE LFLB,FR,4538.350N,00552.800E,238.0m,5,180,2020.0m,"118.30","Fr,123.70App"
+"CHAMBERY CHA",CHAMBE LFLE,FR,4533.683N,00558.583E,299.0m,5,150,980.0m,"118.40","Fr"
+"CHAMPAGNOLE",CHAMPA LFGX,FR,4645.867N,00549.250E,532.0m,2,10,800.0m,"123.50","Fr,Nil"
+"Chapeau de G",Chaperme,FR,4420.267N,00639.767E,2685.0m,7,,,,"Chapeau de Gendarme"
+"CHATELAIR",CHATEAIR,IT,4544.500N,00728.804E,500.0m,4,280,500.0m,,"IT"
+"CHAUMONT",CHAUMO LFSY,FR,4804.617N,00509.083E,358.0m,2,170,1190.0m,"122.15","Fr"
+"CHAUMONT-S",CHAUMO LFJA,FR,4805.500N,00502.967E,305.0m,5,10,1500.0m,"118.77","CHAUMONT SEMOUTI. Fr"
+"CHAUMOUSEY",CHAUMO,FR,4811.433N,00617.200E,325.0m,2,50,400.0m,"      ","Fr"
+"Cheb",CHEB,CZ,5004.767N,01224.350E,469.0m,2,90,1200.0m,,
+"Chemnitz",CHEMN,DE,5044.933N,01250.150E,366.0m,2,70,590.0m,"122.500","Chemnitz Jahns"
+"Cheval Blanc",Chevaanc,FR,4407.567N,00625.550E,2323.0m,7,,,,
+"Chocen",CHOCE,CZ,4958.683N,01611.383E,266.0m,2,150,610.0m,"130.600",
+"Chomutov",CHOMU,CZ,5028.133N,01328.083E,345.0m,2,40,1200.0m,"123.600",
+"Chotebor",CHOTE,CZ,4941.150N,01540.567E,594.0m,2,170,1010.0m,"122.200",
+"Chrudim",CHRUD,CZ,4956.183N,01546.833E,299.0m,2,60,980.0m,"122.600",
+"Chruzlipass",CHRUZL,CH,4643.317N,00844.917E,2347.0m,6,,,,
+"CINQUALE",CINQUA,IT,4345.117N,01008.583E,4.0m,2,0,0.0m,"      ","CINQUALE MASSA. It"
+"Coburg-B",COBUR,DE,5015.800N,01059.700E,454.0m,5,120,860.0m,"119.525","Coburg Brandstne"
+"Coburg-S",COBUS,DE,5013.817N,01059.750E,360.0m,2,70,680.0m,"129.800","Coburg Steinrueck"
+"Col Arche",COLARC,FR,4425.333N,00653.950E,2080.0m,6,,,,
+"Col Cabre",COLCAB,FR,4432.983N,00535.917E,1180.0m,6,,,,
+"Col Carro",COLCAR,FR,4525.800N,00707.583E,3122.0m,6,,,,
+"Col Cavale",COLCAV,FR,4446.100N,00621.300E,2735.0m,6,,,,
+"Col Cenis",COLCEN,FR,4515.400N,00654.000E,2083.0m,6,,,,
+"Col Croix",CCROIX,FR,4443.433N,00540.583E,1176.0m,6,,,,"Col Croix Haute"
+"Col De Vars",COLDEV,FR,4432.350N,00642.133E,2109.0m,6,,,,
+"Col Des Encombre",COLENC,FR,4517.633N,00627.867E,2325.0m,6,,,,
+"Col Des Montets",COLDMO,FR,4600.250N,00655.383E,1461.0m,6,,,,
+"Col Des Mosses",COLDMP,CH,4623.967N,00706.167E,1445.0m,6,,,,
+"Col Des Terres",COLTER,FR,4441.167N,00626.067E,2740.0m,6,,,,
+"Col Du Galibier",COLDUG,FR,4503.867N,00624.433E,2645.0m,6,,,,
+"Col Du Glandon",COLGLA,FR,4514.417N,00610.567E,1924.0m,6,,,,
+"Col Du Pillon",COLDUP,CH,4621.217N,00712.283E,1546.0m,6,,,,
+"Col Du Rousset",COLDRO,FR,4450.300N,00524.300E,1255.0m,6,,,,
+"Col Ferret",COLFER,CH,4553.333N,00704.667E,2537.0m,6,,,,
+"Col Festre",CFESTR,FR,4440.000N,00551.500E,1441.0m,6,,,,
+"Col Forcol",COLFOR,CH,4619.417N,00917.817E,2226.0m,6,,,,
+"Col Freissini",COLFRE,FR,4444.383N,00621.383E,2782.0m,6,,,,"Col De Freissini"
+"Col Iseran",COLISE,FR,4525.050N,00701.817E,2770.0m,6,,,,
+"Col Nivolet",COLNIV,IT,4529.167N,00708.500E,2597.0m,6,,,,
+"Col Pt St Bernar",COLPTS,FR,4540.800N,00652.967E,2188.0m,6,,,,
+"Col Roselend",CROSEL,FR,4541.617N,00640.117E,1822.0m,6,,,,
+"Col Vallee Etroi",COLVAL,FR,4507.267N,00636.517E,2445.0m,6,,,,
+"Coleman",COLEM,DE,4933.817N,00827.800E,95.0m,5,50,920.0m,"122.100",
+"COLMAR-H",COLMAR LFGA,FR,4806.617N,00721.550E,192.0m,5,10,1590.0m,"119.00","COLMAR HOUSSE. Fr"
+"COLMAR-M",COLMAR LFSC,FR,4755.317N,00723.983E,210.0m,5,10,2420.0m,"122.10","COLMAR MEYENHEIM. Fr"
+"Comina",W82Coina,IT,4559.700N,01239.400E,70.0m,2,180,1200.0m,"128.450","Downwind at E of the filed.W82 Comina"
+"CONSALVO",CONSAL,IT,4307.000N,01044.000E,260.0m,2,40,1000.0m,"130.00","It"
+"Corgella Passo",CORGEL,CH,4608.783N,00901.917E,1703.0m,6,,,,
+"CORLIER",CORLIE LFJD,FR,4602.383N,00529.783E,841.0m,2,120,340.0m,"130.00","Fr,Altiport"
+"CORTINA",CORTIN,IT,4634.533N,01206.883E,1300.0m,2,170,500.0m,"      ","It,Mil"
+"Corvatsch",CORVAT,CH,4625.050N,00949.283E,3188.0m,7,,,,
+"Cottbus",COTTD,DE,5153.367N,01431.917E,82.0m,5,70,2480.0m,"118.125","Cottbus Drewitz"
+"Cottbus Mil",COTTB,DE,5146.083N,01417.517E,70.0m,5,80,2360.0m,"122.100",
+"Coupe",Coupe,FR,4403.350N,00619.767E,1648.0m,7,,,,
+"COURCHEVEL",COURCH LFLJ,FR,4523.800N,00637.983E,2006.0m,5,50,530.0m,"120.07","Fr"
+"COURTELARY",COURTE LSZJ,CH,4711.017N,00705.450E,686.0m,2,60,500.0m,"124.60","Fr"
+"Crasta Mora",CRASTA,CH,4634.250N,00952.417E,2935.0m,7,,,,
+"CREMONA",CREMON LILR,IT,4510.050N,01000.117E,49.0m,5,90,650.0m,"119.65","CREMONA MIGLIARO. It"
+"CUERS",CUERS  LFTF,FR,4314.850N,00607.633E,82.0m,5,110,1990.0m,"122.70","CUERS PIERREFEU. Fr"
+"CUNEO",CUNEO  LIMZ,IT,4432.750N,00737.300E,387.0m,5,30,2110.0m,"119.55","CUNEO LEVALDIGI. It"
+"Cunter-",Cunter-,CH,4636.800N,00935.229E,1210.0m,3,20,200.0m,,"Kat 2"
+"CZESTOCHOWA",CZESTOWA,PL,5053.100N,01912.283E,262.0m,2,80,800.0m,"A-122.8",
+"DACHAU",DACHAU EDMD,DE,4813.717N,01125.383E,491.0m,2,100,620.0m,"118.42","DACHAU  GROEBENR"
+"Dahlemer",DAHLE,DE,5024.333N,00631.733E,579.0m,5,60,1080.0m,"122.500","Dahlemer Binz"
+"DAMBLAIN",DAMBLA LFYD,FR,4805.167N,00539.833E,390.0m,5,70,2390.0m,"      ","Fr"
+"Damme",DAMME,DE,5229.250N,00811.167E,46.0m,5,110,680.0m,"133.300",
+"Darlowo",DARLO,PL,5424.300N,01621.433E,3.0m,5,40,590.0m,"124.500",
+"Dauborn",DAUBO,DE,5019.300N,00811.633E,160.0m,2,120,330.0m,"123.500",
+"Daun",DAUNS,DE,5010.550N,00651.467E,525.0m,4,80,420.0m,"123.350","Daun Senheld"
+"Deblin",DEBLI,PL,5133.067N,02153.517E,119.0m,5,120,2510.0m,"124.5","W-124.5 A.8"
+"Deckenpfronn",DECKEN,DE,4838.233N,00849.067E,578.0m,2,70,900.0m,"130.12","De"
+"Dedelow",DEDEL,DE,5321.367N,01347.017E,58.0m,5,100,860.0m,"122.600",
+"Deggendorf",DEGGEN EDMW,DE,4849.800N,01252.783E,314.0m,5,90,560.0m,"122.02","De"
+"Degmarn",DEGMA,DE,4915.467N,00916.467E,155.0m,4,80,700.0m,"123.500",
+"Dehausen",DEHAU,DE,5127.967N,00902.967E,303.0m,4,160,670.0m,"123.150","Dehausen Diemels"
+"DELEMONT",DELEMO,CH,4721.267N,00720.417E,446.0m,3,0,0.0m,,
+"Demmljoch",DEMMJO,DE,4732.750N,01135.150E,1923.0m,7,,,,
+"Dent Blanch",DENTBL,CH,4602.167N,00736.883E,4357.0m,7,,,,
+"Dessau",DESSA,DE,5149.933N,01211.150E,58.0m,5,90,980.0m,"118.175",
+"Detmold",DETMO,DE,5156.450N,00854.283E,196.0m,5,90,370.0m,"122.750",
+"Dettingen",DETTI,DE,4836.483N,00928.550E,377.0m,4,130,570.0m,"122.175","Dettingen Teck"
+"Deux Soeurs Col",DEUXSO,FR,4500.817N,00535.000E,2056.0m,6,,,,
+"Diepholz",DIEPH,DE,5235.133N,00820.433E,40.0m,5,80,1290.0m,"122.100","MIL"
+"Dierdorf",DIERD,DE,5033.983N,00739.233E,290.0m,5,70,590.0m,"128.925","Dierdorf Wienau"
+"DIEZE",DIEZE  LFQZ,FR,4846.517N,00642.883E,220.0m,2,50,830.0m,"123.50","DIEZE GUEBLANGE. Fr"
+"DIJON",DIJON  LFSD,FR,4715.950N,00505.700E,223.0m,5,180,2390.0m,"118.32","DIJON LONGVIC. Fr"
+"Dillingen",DILLI,DE,4923.167N,00644.917E,239.0m,4,50,560.0m,"130.125",
+"Dingel Huemm",DERDI,DE,5132.167N,00922.783E,215.0m,4,50,870.0m,"123.150","Der Dingel Huemm"
+"DINGOLFING",DINGOL EDPD,DE,4839.467N,01230.033E,357.0m,2,80,650.0m,"123.60","De"
+"Dinkelsbuehl",DINKE,DE,4903.900N,01024.050E,488.0m,2,90,680.0m,"118.425",
+"Dinslaken",DINSL,DE,5136.983N,00651.933E,67.0m,5,90,890.0m,"122.700","Schwarz Dinslaken"
+"DITTINGEN",DITTIN LSPD,CH,4726.400N,00729.533E,550.0m,2,130,700.0m,"118.17","De"
+"Dobenreuth",DOBEN,DE,4941.800N,01108.600E,325.0m,4,100,480.0m,"123.350",
+"DOBERSBERG",DOBERS LOAB,AT,4855.333N,01517.750E,524.0m,2,120,590.0m,"122.50","De"
+"DOLE TAVAUX",DOLE T LFGJ,FR,4702.567N,00526.100E,198.0m,5,60,2240.0m,"119.40","Fr"
+"Dom",DOMGIP,CH,4605.583N,00751.550E,4545.0m,7,,,,
+"DOMPIERRE",DOMPIE,FR,4605.550N,00517.000E,300.0m,2,160,400.0m,"      ","UL. Fr"
+"DONAUESCHINGEN",DONAUE EDTD,DE,4758.417N,00831.333E,680.0m,5,180,1290.0m,"124.25","De"
+"DONAUWOERTH",DONAUW EDMQ,DE,4842.167N,01051.067E,399.0m,5,90,530.0m,"129.25","De"
+"DONZDORF",DONZDO EDPM,DE,4840.683N,00950.783E,692.0m,2,90,600.0m,"122.60","DONZDORF  MESSE"
+"Dormilouse",Dormiuse,FR,4424.417N,00623.267E,2505.0m,7,,,,
+"Dornsode",DORNS,DE,5334.617N,00902.333E,7.0m,4,150,630.0m,"123.350",
+"Dorsten",DORST,DE,5139.700N,00659.133E,35.0m,4,90,650.0m,"123.350","Dorsten Kanal"
+"Dortmund",DORTM,DE,5131.100N,00736.733E,128.0m,5,60,1990.0m,"134.175","Dortmund Wicked"
+"Dresden",DRESD,DE,5107.967N,01346.033E,232.0m,5,40,2510.0m,"119.700",
+"DUBENDORF",DUBEND LSMD,CH,4723.900N,00838.900E,442.0m,2,130,2600.0m,"122.10","Mil"
+"DUERABUCH",DUERAB,DE,4815.783N,01112.600E,530.0m,2,80,700.0m,"123.50","De"
+"Dueren",DUERE,DE,5041.617N,00625.100E,358.0m,4,60,770.0m,"123.150","Dueren Huertgen"
+"Duerrenschoebrl",DUERRE,AT,4733.167N,01421.933E,1737.0m,7,,,,
+"Duesseld",DUESW,DE,5115.900N,00651.150E,113.0m,4,70,600.0m,"123.150","Duesseld Wolfsaa"
+"Duesseldorf",DUESS,DE,5116.850N,00645.433E,46.0m,5,50,3000.0m,"118.300",
+"DURRWEILER",DURRWE,DE,4832.000N,00832.000E,649.0m,2,150,350.0m,"123.42","UL"
+"Dusniky",DUSNI,CZ,5024.750N,01411.867E,222.0m,2,0,0.0m,"123.450","Dusniky Ul Ploch"
+"Dvur",DVURK,CZ,5024.850N,01550.217E,284.0m,2,100,860.0m,"119.650","Dvur Kralove"
+"Ebern",EBERN,DE,5002.383N,01049.367E,253.0m,2,140,530.0m,"122.500","Ebern Sendelbach"
+"ECUVILLENS",ECUVIL LSGE,CH,4645.300N,00704.567E,698.0m,5,100,800.0m,"118.97","Fr/En,NO GLD ACT"
+"EFERDING",EFERDI LOLE,AT,4820.300N,01359.117E,271.0m,2,150,400.0m,"122.40","De"
+"Egelsbach",EGELS,DE,4957.650N,00838.483E,119.0m,5,90,1380.0m,"130.900",
+"Eggebeck Mil",EGGEB,DE,5437.500N,00920.750E,21.0m,5,10,2450.0m,"122.100",
+"EGGENFELDEN",EGGENF EDME,DE,4823.767N,01243.417E,409.0m,5,90,1170.0m,"120.30","De"
+"Eggersdorf",EGGER,DE,5228.817N,01405.017E,67.0m,2,60,2240.0m,"123.000","Eggersdorf Muenchen"
+"Eggishorn",EGGISH,CH,4625.883N,00805.650E,2927.0m,7,,,,
+"Ehlershausen",EHLRS,DE,5232.167N,01001.183E,42.0m,4,100,1010.0m,"122.200",
+"EICHSTAETT",EICHST EDPE,DE,4852.617N,01110.933E,521.0m,2,110,710.0m,"123.00","De"
+"Eisenach",EISNK,DE,5059.533N,01028.567E,335.0m,5,100,1720.0m,"119.750","Eisenach Kindel"
+"Eisenhuettenstad",EISEN,DE,5211.833N,01435.133E,46.0m,5,110,1170.0m,"122.000",
+"Elblag",Elblag,PL,5408.450N,01925.400E,3.0m,2,0,0.0m,"A-122.1",
+"ELLWANGEN",ELLWAN EDPY,DE,4857.667N,01014.183E,503.0m,2,120,770.0m,"122.00","De"
+"ELSENTHAL",ELSENT EDNF,DE,4849.300N,01322.100E,735.0m,2,170,490.0m,"122.50","ELSENTHAL GRAFEN"
+"Elz",ELZ,DE,5025.617N,00800.667E,213.0m,2,80,740.0m,"123.600",
+"Emden",EMDEN,DE,5323.467N,00713.533E,1.0m,5,70,1290.0m,"118.600",
+"EMMEN",EMMEN  LSME,CH,4705.533N,00818.283E,427.0m,5,40,1000.0m,"120.42","En/De,NO GLD ACT"
+"Emmerich",EMMER,DE,5149.317N,00616.467E,16.0m,4,120,980.0m,"123.350","Emmerich Palmer"
+"EPFIG",EPFIG,FR,4820.417N,00728.517E,479.0m,2,0,0.0m,"      ","Fr"
+"EPINAL-D",EPINAL LFSE,FR,4812.717N,00626.917E,317.0m,2,20,680.0m,"123.50","EPINAL DOGNEV. Fr"
+"EPINAL-M",EPINAL LFSG,FR,4819.500N,00604.000E,329.0m,5,90,2690.0m,"120.20","EPINAL MIRECOURT. Fr"
+"ERBACH",ERBACH EDNE,DE,4820.517N,00955.000E,476.0m,2,30,650.0m,"118.27","De"
+"Erbendorf",ERBEN,DE,4950.633N,01204.017E,495.0m,4,120,630.0m,"123.350","Erbendorf Schwe"
+"ERDING",ERDING ETSE,DE,4819.333N,01156.917E,463.0m,5,80,2510.0m,"122.10","De"
+"Erfurt",ERFUR,DE,5058.783N,01057.483E,317.0m,5,100,2600.0m,"121.150",
+"Erpuzice",ERPUZ,CZ,4948.167N,01302.283E,479.0m,2,110,860.0m,"123.500",
+"Erzberg",ERZBER,AT,4731.467N,01454.717E,1465.0m,7,,,,
+"ESCHELBACH",ESCHEL,DE,4834.183N,01136.583E,460.0m,2,110,300.0m,"123.45","UL"
+"ESCHENLOHE",ESCHEN,DE,4737.467N,01111.033E,628.0m,5,170,600.0m,"122.30","De"
+"Essen Muelheim",ESSEN,DE,5124.133N,00656.233E,128.0m,5,70,1530.0m,"119.750",
+"ESSLINGEN",ESSLIN,DE,4845.733N,00920.033E,490.0m,2,130,660.0m,"122.47","ESSLINGEN JAEGER"
+"Essweiler",ESWEI,DE,4933.733N,00734.800E,380.0m,4,50,840.0m,"129.975",
+"ETTING",ETTING,DE,4848.600N,01125.267E,382.0m,2,100,720.0m,"123.50","ETTING ADELMANNS"
+"Eudenbach",EUDEN,DE,5040.350N,00721.917E,299.0m,4,90,800.0m,"118.425",
+"EUTINGEN",EUTING,DE,4829.133N,00846.700E,499.0m,2,60,930.0m,"129.97","De"
+"F01+QUINSON",QUINSO,FR,4341.001N,00604.290E,500.0m,3,360,500.0m,,"Kat 1"
+"F02+AUPS",AUPS,FR,4337.500N,00610.970E,450.0m,3,140,300.0m,,"Kat 1"
+"F03-AMPUS",AMPUS,FR,4337.017N,00620.930E,625.0m,3,230,300.0m,,"Kat 2"
+"F04+LOGIS",LOGIS,FR,4346.650N,00638.470E,1025.0m,3,70,500.0m,"LOGIS-DU-PIN","2 fields Landerichtung 07/25 oder 17/35. Kat 1"
+"F05+CAILLE",CAILLE,FR,4346.690N,00644.690E,1080.0m,3,280,500.0m,,"Kat 1"
+"F06 LA-MURE",LA-MUR,FR,4358.923N,00631.867E,930.0m,3,40,300.0m,,
+"F07+THORAME",THORAM,FR,4404.620N,00628.420E,1100.0m,3,310,300.0m,,"Gleändestufe! Kat 1"
+"F08 MARCOUX",MARCOU,FR,4408.500N,00616.540E,700.0m,3,180,400.0m,,
+"F09+La Fauri",F09Lauri,FR,4433.810N,00545.530E,820.0m,3,300,320.0m,,"Kat 1"
+"F10 ESPINASSES",ESPINA,FR,4427.633N,00613.100E,650.0m,3,90,400.0m,,"Kat A"
+"F11-MONTGA",MONTGA,FR,4432.978N,00612.822E,800.0m,3,330,230.0m,"MONTGARDIN","Kat 2"
+"F12 LE-CASSET",L-CASS,FR,4459.000N,00629.633E,1500.0m,3,100,500.0m,,"Kat 1. Platzrunde im Süden ."
+"F13+PREBOIS",PREBOI,FR,4447.450N,00541.310E,760.0m,3,90,250.0m,,"Kat 1"
+"F14 MONTMAUR",MONTMA,FR,4433.617N,00551.450E,900.0m,3,190,500.0m,,
+"F15+LUC",LUC-ED,FR,4435.550N,00528.440E,630.0m,3,140,0.0m," LUC-EN-DIOIS","Kat 1"
+"F16+SAOU",SAOU,FR,4438.200N,00503.766E,300.0m,3,90,400.0m,,"Kat 1"
+"F17+ROSANS",ROSANS,FR,4422.880N,00528.300E,620.0m,3,360,400.0m,,"Kat 1"
+"F18-ST-JAL",ST-JAL,FR,4420.073N,00518.190E,440.0m,3,120,250.0m,"SAINTE-JALLE","Kat 2"
+"F19+SEDERON",SEDERO,FR,4413.240N,00534.480E,750.0m,3,90,300.0m,,"Kat 1"
+"F20-PUGET",PUGET,FR,4344.920N,00516.570E,133.0m,3,110,375.0m,,"Kat 2"
+"F21+LARAGNE",LARAGN,FR,4419.240N,00547.510E,570.0m,3,130,480.0m,,"Kat 1"
+"F22+TRIGANCE",TRIGAN,FR,4345.290N,00628.300E,740.0m,3,135,400.0m,,"Kat 1"
+"F23 BARREME",BARREM,FR,4359.533N,00623.200E,780.0m,3,10,300.0m,,
+"F24-ST-BLAISE",ST-BLA,FR,4452.370N,00636.600E,1200.0m,3,230,300.0m,,"Gräben am Anfang und Ende des Feldes, Hochspannungsleitung muss über- oder unterflogen werden! Kat 2"
+"F25 LE-ROSIER",LE-ROS,FR,4455.870N,00640.930E,1400.0m,3,360,400.0m,,"Graben in der Mitte des Feldes, Landung jeweils im zweiten Teil!"
+"F26+VALENTY",VALENT,FR,4421.600N,00555.800E,570.0m,3,215,400.0m,,"Kat 1"
+"F27-Pellafol",F27Pefol,FR,4448.180N,00554.280E,915.0m,3,90,250.0m,,"Kat 2"
+"F28+TRETS",TRETS,FR,4328.830N,00542.690E,240.0m,3,120,400.0m,,"Kat 1"
+"F29 Sainte-Croix",F29Saoix,FR,4346.690N,00609.585E,655.0m,3,130,700.0m,"122.50",
+"F30+Seyne",F30Seyne,FR,4420.538N,00622.361E,1200.0m,2,130,900.0m,"118.45",
+"F32-LES-CROTS",LES-CR,FR,4432.170N,00626.200E,780.0m,3,90,300.0m,"123.50","Kat 2. UL-Landefeld ev. unbrauchbar oder sehr schmal! "
+"F34+Aix",F34Aiois,FR,4441.350N,00524.540E,500.0m,3,0,300.0m,"Aix en Diois","Kat 1"
+"F34+Die",F34 Die,FR,4446.100N,00521.200E,550.0m,3,180,300.0m,,"Multiple crops fields. Mehrere Landerichtungen möglich! Kat 1"
+"F35+AUBENASSON",AUBENA LFJF,FR,4441.698N,00509.037E,247.0m,2,90,700.0m,"123.50","Fr"
+"F36+CERESTE",CEREST,FR,4351.170N,00532.960E,330.0m,2,80,800.0m,"123.50","Fr"
+"F37+NOSSAGE",NOSSAG,FR,4418.941N,00544.658E,750.0m,2,20,550.0m,"130.00","Fr"
+"F38+Remoulins",F38Reins,FR,4356.600N,00434.915E,55.0m,3,180,500.0m,,"Kat 1"
+"F39+Tarascon",F39Tacon,FR,4347.300N,00441.820E,8.0m,3,180,400.0m,,"Kat 1"
+"F40+Eygalieres",F40Eyres,FR,4347.000N,00459.540E,100.0m,3,40,400.0m,,"Kat 1"
+"F41-Orgon",F41Oranc,FR,4346.755N,00505.000E,90.0m,3,90,350.0m,"Orgon-Cheval Blanc","Kat 2"
+"F42 Coustellet",F42,FR,4351.700N,00510.800E,113.0m,3,90,350.0m,,"UL"
+"F43-Sorgue",F43L'gue,FR,4355.020N,00504.990E,65.0m,3,140,300.0m," L'Isle sur la Sorgue","Kat 2"
+"F44+Gordes",F44Godes,FR,4354.750N,00515.100E,203.0m,3,0,300.0m,,"Kat 1"
+"F45+Bonnie",F45Boeux,FR,4350.000N,00517.500E,180.0m,3,0,300.0m,"Bonnieux","Kat 1"
+"F46+LOURMARIN",LOURMA,FR,4345.541N,00523.961E,280.0m,3,180,400.0m,,"Kat 1"
+"F47+Salignac",F47-Snac,,4408.650N,00558.750E,500.0m,3,160,500.0m,,"Kat 1"
+"F50xGad",F50-Gad,FR,4502.700N,00651.600E,1050.0m,3,40,200.0m,,"Kat 3"
+"F51+Bernex",F51-Bnex,FR,4622.040N,00639.645E,880.0m,3,80,400.0m,,"Kat 1"
+"F52+Samoens",F52Saens,FR,4604.380N,00644.380E,710.0m,3,340,500.0m,,"Kat 1"
+"F52+TANINGES",TANING,FR,4606.000N,00636.000E,625.0m,3,90,300.0m,,"Kat 1"
+"F53+BONNVI",BONNVI,FR,4604.690N,00623.160E,450.0m,3,180,300.0m,"BONNEVILLE","Kat 1"
+"F54+PASSY",PASSY,FR,4555.470N,00643.200E,590.0m,3,160,600.0m,,"Kat 1"
+"F55+DOUSSA",DOUSSA,FR,4546.600N,00613.533E,460.0m,3,140,300.0m,"DOUSSARD","Kat 1"
+"F56+LA-MOTTE",L-M-EB,FR,4542.500N,00607.300E,710.0m,3,150,600.0m,"LA-MOTTE en Bauges","Kat 1"
+"F57+ECOLE",ECOLE,FR,4538.500N,00610.000E,750.0m,3,20,450.0m,"ECOLE-EN-BAUGES","Kat 1."
+"F58-LA-BATHIE",LA-BAT,FR,4538.100N,00627.100E,375.0m,3,165,200.0m,,"Kat 2"
+"F59+LANDRY",LANDRY,FR,4534.300N,00644.100E,750.0m,3,220,250.0m,,
+"F60+AITON",AITON,FR,4533.410N,00613.660E,300.0m,3,90,300.0m,,"Kat 1"
+"F61+MONTMELIAN",MONTME,FR,4529.400N,00602.300E,260.0m,3,150,400.0m,,"Kat 1"
+"F62+LES-ECHELLES",LES-EC,FR,4526.040N,00544.860E,400.0m,3,90,300.0m,,"Kat 1"
+"F63+ST-VIN",ST-VIN,FR,4522.290N,00558.220E,260.0m,3,20,300.0m,"ST-VINCENT-MERCUZE","Kat 1"
+"F64-BOURG-O",BOUR-O,FR,4503.850N,00601.910E,720.0m,3,340,350.0m,"BOURG-OISANS","Kat 2"
+"F65+VIZILLE",VIZILL,FR,4504.800N,00546.650E,280.0m,3,30,350.0m,,"Kat 1"
+"F66+VIF",VIF,FR,4504.600N,00540.900E,200.0m,3,180,350.0m,,"Kat 1"
+"F67+GRISAIL",GRISAI,FR,4457.000N,00537.500E,850.0m,3,180,350.0m,,"Kat 1"
+"F68-ST-JEAN-H",ST-J-H,FR,4451.160N,00546.350E,825.0m,3,0,300.0m,"ST-JEAN-HERA","Kat 2"
+"F69+HABERE",HABERE,FR,4616.180N,00627.800E,1113.0m,3,10,980.0m,,"HABERE-Poche UL. Kat 1"
+"F70+ST-REMY",ST-REM,FR,4522.167N,00616.917E,450.0m,3,350,900.0m,"ST-REMY-DE-M","Kat A"
+"Falkenberg",FALKE,DE,5132.867N,01313.683E,85.0m,5,80,1200.0m,"130.125","Falkenberg Loen"
+"Falknis",FALKNG,CH,4703.017N,00933.883E,2562.0m,7,,,,
+"Falzarego Pass",FALZAR,IT,4631.000N,01201.000E,2110.0m,6,,,,
+"FANO",FANO   LIDF,IT,4349.567N,01301.650E,15.0m,2,90,1290.0m,"      ","It"
+"FARRENBERG",FARREN,DE,4823.167N,00904.600E,805.0m,2,100,850.0m,"123.47","De"
+"Fassberg",FASSB,DE,5255.150N,01011.033E,76.0m,5,90,500.0m,"122.100","MIL"
+"FAYENCE",FAYENC LFMF,FR,4336.633N,00641.817E,226.0m,2,100,830.0m,"119.05","Fr"
+"Felbertauern",FELBEG,AT,4709.483N,01229.783E,2481.0m,7,,,,
+"FELDKIRCHEN",FELDKI LOKF,AT,4642.517N,01404.583E,521.0m,2,20,590.0m,"122.70","W31De"
+"FERLACH",FERLAC LOKG,AT,4631.950N,01419.833E,458.0m,2,40,610.0m,"123.60","W37 FERLACH GLAINACHDe"
+"Fernpass",FERNPA,AT,4721.767N,01049.883E,1215.0m,6,,,,
+"FERRARA",FERRAR LIPF,IT,4448.967N,01136.800E,6.0m,5,90,800.0m,"122.50","It"
+"FERTOSZENTMIKLOS",FERTOS LHFM,HU,4735.017N,01650.683E,134.0m,5,160,980.0m,"      ","Hu"
+"Fichtelbrunn",FICHT,DE,4929.883N,01139.567E,492.0m,4,90,360.0m,"122.300",
+"Finow",FINOW,DE,5249.633N,01341.617E,37.0m,5,100,2510.0m,"119.050",
+"Finsterw Heinri",FINSH,DE,5138.083N,01340.283E,117.0m,2,90,1040.0m,"123.500",
+"Finsterwalde",FINST,DE,5136.450N,01344.283E,122.0m,5,90,1200.0m,"123.050","Finsterwalde Sch"
+"Fischbek",FISCH,DE,5327.350N,00949.767E,62.0m,4,120,770.0m,"129.975",
+"Flaescherberg",FLAESC,CH,4702.200N,00930.383E,1135.0m,7,,,,
+"Flensburg",FLENS,DE,5446.400N,00922.733E,40.0m,5,110,1230.0m,"122.850",
+"Flexen pass",FLEXEN,AT,4709.483N,01009.900E,1773.0m,6,,,,
+"FLINTSBACH",FLINTS,DE,4743.333N,01206.850E,480.0m,2,100,460.0m,"122.50","De"
+"FLORENCE",FLOREN LIRQ,IT,4348.517N,01112.167E,43.0m,5,50,1660.0m,"118.30","It"
+"Fluchthorn",FLUCHT,CH,4653.467N,01013.650E,3399.0m,7,,,,
+"Fluelapass",FLUELA,CH,4645.033N,00956.817E,2383.0m,6,,,,
+"FORLI",FORLI  LIPK,IT,4411.750N,01204.167E,31.0m,5,120,2420.0m,"118.95","It"
+"FOURNET",FOURNE,FR,4711.350N,00647.200E,921.0m,2,50,400.0m,"      ","FOURNET BLANCHER. Fr"
+"FRAFOREANO",FRAFOR,IT,4550.000N,01301.000E,9.0m,2,180,970.0m,"123.45","It"
+"FRANCAVILLA",FRANCA,IT,4444.583N,00843.750E,160.0m,2,150,800.0m,"      ","FRANCAVILLA BISI. It"
+"Frankfurt Hahn",FRANH,DE,4956.917N,00715.833E,503.0m,5,30,3030.0m,"119.650",
+"Frankfurt Main",FRANK,DE,5002.000N,00834.233E,110.0m,5,70,4010.0m,"119.900",
+"FREIBURG",FREIBU EDTF,DE,4801.233N,00750.017E,244.0m,5,160,1230.0m,"118.25","De"
+"FREISTADT",FREIST LOLF,AT,4830.833N,01424.417E,683.0m,2,110,400.0m,"122.32","De"
+"FRICKTAL",FRICKT LSZI,CH,4730.533N,00757.000E,546.0m,2,70,530.0m,"119.55","FRICKTAL SCHUPFA. En/De"
+"Friedersdorf",FRIED,DE,5217.000N,01348.200E,35.0m,2,110,920.0m,"122.850",
+"FRIEDRICHSHAFEN",FRIEDR EDNY,DE,4740.283N,00930.683E,418.0m,5,60,2360.0m,"124.35","De"
+"FRIESACH",FRIESA LOKH,AT,4655.650N,01425.917E,616.0m,2,170,710.0m,"122.07","W20 FRIESACH HIRTH"
+"Friesener Warte",FRIWA,DE,4950.183N,01102.800E,517.0m,4,10,640.0m,"122.200",
+"Fritzlar",FRITZ,DE,5106.883N,00917.150E,174.0m,5,120,1050.0m,"122.100","MIL"
+"FRUTIGEN",FRUTIG,CH,4635.317N,00739.400E,772.0m,5,30,900.0m,"      ",
+"Frydlant",FRYDL,CZ,4935.367N,01822.750E,439.0m,2,80,800.0m,"123.500",
+"FUERSTENFELD",FUERST LOGF,AT,4703.717N,01605.067E,253.0m,5,130,680.0m,"122.70","De"
+"FUERSTENFLDBRUCK",FUERST ETSF,DE,4812.333N,01116.017E,518.0m,5,90,2750.0m,"123.70","De,122.100Mil"
+"Fuerstenwalde",FUERS,DE,5223.383N,01405.667E,55.0m,2,110,860.0m,"126.500",
+"FUERSTENZELL",FUERST EDMF,DE,4830.783N,01320.767E,412.0m,5,160,470.0m,"122.00","De"
+"Fuerth Seckendo",FUERT,DE,4928.933N,01051.517E,318.0m,4,70,620.0m,"123.475",
+"Fussen",FUSSE,DE,4735.000N,01041.450E,787.0m,2,80,1030.0m,"123.35","De"
+"Fulda",FULDJ,DE,5028.533N,00926.517E,476.0m,2,80,590.0m,"122.400","Fulda Jossa"
+"Fundusfeiler",FUNDUS,AT,4706.750N,01052.233E,3079.0m,7,,,,
+"Furkapass",FURKAP,CH,4634.367N,00824.917E,2429.0m,6,,,,
+"Fuss_AB",Fusse_AB,DE,4732.808N,01036.500E,932.0m,1,,,,
+"Futa Passo",FUTAPA,IT,4405.550N,01116.750E,903.0m,6,,,,
+"Gache",Gache,FR,4414.233N,00559.867E,1356.0m,7,,,,
+"GAMMELSDORF",GAMMEL,DE,4834.050N,01155.933E,484.0m,2,180,930.0m,"129.97","De"
+"Ganderkesee",GANDE,DE,5302.167N,00830.317E,31.0m,5,80,830.0m,"118.625",
+"GAP",GAP TA LFNA,FR,4427.300N,00602.233E,607.0m,5,30,890.0m,"119.10","GAP TALLARD. Fr/En"
+"Garbenheimer",GARBE,DE,5034.500N,00831.917E,151.0m,4,80,800.0m,"122.300",
+"Gardelegen",GARDE,DE,5231.667N,01121.250E,70.0m,2,80,560.0m,"122.850",
+"GATTINARA",GATTIN,IT,4536.417N,00819.950E,282.0m,2,160,530.0m,"      ","It"
+"Gdansk",GDANS,PL,5422.650N,01827.983E,149.0m,5,110,2790.0m,"TW 118.100","Gdansk Rebiechow"
+"Gedern",GEDER,DE,5025.917N,00911.633E,370.0m,4,40,890.0m,"123.475",
+"GEHDI",GEHDI  LIPL,IT,4526.200N,01016.200E,101.0m,5,130,3000.0m,"122.10","It"
+"Geilenkirchen",GEILE,DE,5057.650N,00602.550E,92.0m,5,90,3060.0m,"122.100","MIL"
+"GEITAU",GEITAU,DE,4740.767N,01157.733E,810.0m,2,160,550.0m,"123.40","De"
+"Gelnhausen",GELNH,DE,5011.833N,00910.200E,125.0m,2,70,830.0m,"123.050",
+"Gemmi Pass",GEMMIP,CH,4623.850N,00736.850E,2314.0m,6,,,,
+"GENEVE",GENEVE LSGG,CH,4614.283N,00606.533E,430.0m,5,50,3880.0m,"118.70","GENEVE COINTRIN. En"
+"GENOVA",GENOVA LIMJ,IT,4424.800N,00850.267E,3.0m,5,110,2910.0m,"118.60","GENOVA SESTRI. It"
+"Gera",GERAL,DE,5052.833N,01208.233E,311.0m,5,60,740.0m,"122.425","Gera Leumnitz"
+"GERATSHOF",GERATS,DE,4759.567N,01050.617E,632.0m,2,80,250.0m,"123.50","De"
+"Gerlitzen",GERLIT,AT,4641.700N,01354.867E,1909.0m,7,,,,
+"Gerlos Pass",GERLOP,AT,4714.583N,01207.333E,1505.0m,6,,,,
+"GERSTETTEN",GERSTE EDPT,DE,4837.267N,01003.667E,604.0m,2,80,530.0m,"123.00","De"
+"Gesero",GESERO,CH,4611.083N,00907.900E,2227.0m,7,,,,
+"Giebelstadt",GIEBE,DE,4938.900N,00957.983E,299.0m,5,80,2140.0m,"129.850","MIL"
+"GIENGEN",GIENGE EDNG,DE,4838.100N,01012.933E,518.0m,5,170,560.0m,"122.35","GIENGEN  BRENZ"
+"Giessen-L",GIESS,DE,5032.633N,00835.417E,232.0m,5,70,710.0m,"122.500","Giessen Luetzel"
+"Giessen-R",GIESR,DE,5034.000N,00852.183E,213.0m,2,40,430.0m,"123.650","Giessen Reiskir"
+"Giessen-W",GIESW,DE,5036.250N,00843.717E,165.0m,4,80,920.0m,"122.000","Giessen Wieseck"
+"Gip-Weissenbach",Gip-Wach,AT,4749.990N,01536.420E,690.0m,3,110,500.0m,,"GIPPEL-WEISSENBACHKat 1"
+"Gliwice",GLIWI,PL,5016.167N,01840.367E,253.0m,4,80,770.0m,"122.300","Gliwice KWADRAT"
+"GMUNDEN",GMUNDE LOLU,AT,4757.050N,01351.900E,509.0m,5,80,560.0m,"122.07","De"
+"Goch",GOCHA,DE,5141.450N,00606.250E,16.0m,2,100,820.0m,"122.200","Goch Asperden"
+"Goepfersdorf",GOEPF,DE,5054.817N,01236.700E,290.0m,4,70,700.0m,"123.475",
+"GOEPPINGEN",GOEPPI,DE,4842.417N,00941.417E,318.0m,5,40,600.0m,"122.10","De"
+"Goerlitz",GOERL,DE,5109.533N,01457.017E,238.0m,2,60,740.0m,"122.000",
+"Goesseck",GOESSE,AT,4726.917N,01453.983E,2215.0m,7,,,,
+"GORASZKA",GORASZKA,PL,5211.167N,02116.833E,105.0m,2,0,0.0m,"P-125.55",
+"GORICA",GORICA,SI,4642.033N,01608.683E,172.0m,2,10,300.0m,"      ","GORICA NAD MS UL"
+"Goslar",GOSLA,DE,5154.317N,01027.567E,272.0m,4,70,860.0m,"123.475","Goslar Bollrich"
+"Gotha",GOTHA,DE,5058.233N,01043.683E,303.0m,2,80,550.0m,"122.500","Gotha Ost"
+"Gotthard Pass",GOTTHP,CH,4633.550N,00833.650E,2105.0m,6,,,,
+"Gr Berard",Grandard,FR,4426.950N,00639.583E,3046.0m,7,,,,
+"Gr Combin",GRCOMB,CH,4556.267N,00717.950E,4314.0m,7,,,,
+"GRABENSTETTEN",GRABEN,DE,4832.167N,00926.183E,694.0m,2,130,1000.0m,"130.12","De"
+"Grabenweg",Grabeweg,AT,4757.030N,01601.930E,413.0m,3,60,800.0m,,"Kat 1"
+"GRADEC",SLOVEN LJSG,SI,4628.317N,01507.183E,500.0m,5,140,1200.0m,"123.50","W104 SLOVENJ GRADEC"
+"Grafenwoehr",GRAFE,DE,4941.967N,01156.467E,415.0m,5,140,1010.0m,"122.100","MIL"
+"Grambeker",GRAMB,DE,5335.000N,01041.917E,41.0m,4,90,920.0m,"123.400","Grambeker Heide"
+"Grand Paradiso",GRANDP,IT,4531.167N,00716.067E,4061.0m,7,,,,
+"Gransee",GRANS,DE,5300.400N,01312.117E,51.0m,2,110,880.0m,"126.725",
+"GRAY",GRAY S LFEV,FR,4726.000N,00537.333E,207.0m,5,80,800.0m,"123.50","GRAY ST ADRIE. Fr"
+"GRAZ",GRAZ   LOWG,AT,4659.583N,01526.350E,341.0m,5,170,3000.0m,"118.20","En/De"
+"Greding",GREDI,DE,4903.733N,01117.517E,523.0m,4,110,710.0m,"122.500",
+"Greding",GREMI,DE,4903.450N,01120.850E,500.0m,2,80,600.0m,"122.100","MIL"
+"Grefrat",GREFR,DE,5120.033N,00621.567E,34.0m,2,70,560.0m,"123.625","Grefrath Niersho"
+"Greiling",GREILI,DE,4745.933N,01135.900E,717.0m,5,30,1200.0m,"123.35","GREILING Bad TOELZ"
+"Greinapass",GREINA,CH,4636.600N,00857.600E,2357.0m,6,,,,
+"Greiz",GREIZ,DE,5038.667N,01210.333E,387.0m,2,50,470.0m,"122.000","Greiz Obergroch"
+"GRENCHEN",GRENCH LSZG,CH,4710.883N,00724.983E,430.0m,5,70,980.0m,"120.10","En/De,121.10Atis,122.42gld"
+"GRENOBLE-G",GRENOB LFLS,FR,4521.783N,00519.967E,396.0m,5,90,3060.0m,"119.30","GRENOBLE ST GEOI. 128.90Atis"
+"GRENOBLE-V",GRENOB LFLG,FR,4513.150N,00550.950E,220.0m,5,40,890.0m,"121.00","GRENOBLE VERSOUD, 125.22Atis"
+"Grevenbroich",GREVE,DE,5104.617N,00632.867E,89.0m,4,90,1030.0m,"123.500","Grevenbroich Gus"
+"GRIESAU",GRIESA EDPG,DE,4857.217N,01225.283E,323.0m,2,150,470.0m,"122.60","De"
+"Grifte Edermuend",GRIFT,DE,5113.267N,00926.867E,200.0m,4,50,790.0m,"123.150",
+"Grimming",GRIMMI,AT,4731.250N,01401.033E,2361.0m,7,,,,
+"Grimsel Pass",GRIMSP,CH,4633.633N,00820.200E,2165.0m,6,,,,
+"Grivola",Grivola,IT,4535.750N,00715.450E,3969.0m,7,,,,
+"Grosse Hoehe",GROHO,DE,5259.183N,00834.333E,20.0m,4,40,920.0m,"123.375",
+"Grosse Wiese",GROWI,DE,5208.217N,01034.167E,78.0m,4,70,1000.0m,"123.350",
+"Grossenhain",GROSS,DE,5118.417N,01333.333E,128.0m,5,120,2390.0m,"122.700",
+"Grossrueckerswal",GROSR,DE,5038.633N,01307.583E,671.0m,2,110,980.0m,"123.000",
+"Grube",GRUBE,DE,5414.717N,01101.483E,3.0m,2,90,500.0m,"122.600",
+"Grudziadz",GRUDZ,PL,5331.467N,01850.950E,37.0m,2,140,890.0m,"122.8","Grudziadz Lisie"
+"Gruenstadt",GRUEN,DE,4935.133N,00808.333E,315.0m,4,180,900.0m,"122.300",
+"Gruibingen",GRUIBI,DE,4837.267N,00939.317E,706.0m,2,80,520.0m,"129.97","De"
+"GRUYERES",GRUYER LSGT,CH,4635.650N,00705.667E,689.0m,2,170,800.0m,"124.67","Fr"
+"Guenterode",GUENT,DE,5124.450N,01008.683E,361.0m,4,70,670.0m,"122.200",
+"GUENZBURG",GUENZB EDMG,DE,4829.233N,01017.017E,445.0m,2,60,590.0m,"118.12","GUENZBURG  DONAUDe"
+"Guestrow",GUEST,DE,5348.333N,01213.800E,15.0m,2,90,1040.0m,"122.000",
+"Guetersloh",GUETE,DE,5155.383N,00818.383E,73.0m,5,90,2240.0m,"124.250","MIL"
+"Gufelstock",GUFELS,CH,4701.450N,00908.800E,2436.0m,7,,,,
+"Guillaume",Guillume,FR,4436.067N,00626.267E,2552.0m,7,,,,
+"Gulmen",GULMEN,CH,4710.117N,00911.017E,1789.0m,7,,,,
+"GUNDELFINGEN",GUNDEL EDMU,DE,4834.167N,01021.533E,442.0m,2,100,470.0m,"122.50","De"
+"Gunzenhausen",GUNZE,DE,4906.717N,01046.917E,485.0m,5,60,710.0m,"118.550",
+"Hagen Hof",HAGEN,DE,5118.450N,00725.617E,200.0m,4,100,420.0m,"129.975",
+"HAGUENAU",HAGUEN LFSH,FR,4847.867N,00749.200E,149.0m,5,30,980.0m,"120.62","Fr"
+"HAHNWEIDE",HAHNWE,DE,4837.917N,00925.750E,345.0m,2,130,610.0m,"123.25","HAHNWEIDE  KIRCH"
+"HAITERBACH",HAITER,DE,4831.900N,00840.600E,595.0m,2,70,800.0m,"123.35","HAITERBACH  NAGO"
+"Halle",HALLE,DE,5133.117N,01203.167E,107.0m,5,110,1110.0m,"135.150","Halle Oppin"
+"HALLERTAU",HALLER,DE,4839.000N,01135.817E,385.0m,2,30,930.0m,"123.35","De"
+"Halltal-",Halltal-,AT,4745.920N,01520.960E,780.0m,3,300,350.0m,,"Der Anflug aus dem Westen ist durch einen Berg (Hollerriegel) blockiert. Kat 2"
+"Halver",HALVE,DE,5110.433N,00730.267E,418.0m,4,80,710.0m,"123.350","Halver Im Heede"
+"Hamburg Finkenw",HAMBF,DE,5332.117N,00950.133E,6.0m,5,50,2630.0m,"123.250",
+"Hamburg Fuhlsbu",HAMBU,DE,5337.817N,00959.300E,15.0m,5,150,3670.0m,"121.275","Hamburg Fuhlsbu"
+"Hamm",HAMML,DE,5141.400N,00749.000E,58.0m,5,60,890.0m,"122.625","Hamm Lippewiesen"
+"Hammelburg",LAGER,DE,5005.917N,00953.000E,345.0m,2,100,560.0m,"118.425","Lager Hammelburg"
+"Hanau",HANAU,DE,5010.150N,00857.700E,113.0m,5,100,920.0m,"122.100","MIL"
+"Hangensteinerhof",HANGEN,DE,4855.967N,00848.933E,295.0m,2,70,570.0m,"123.15","De"
+"Hannover",HANNO,DE,5227.617N,00941.017E,55.0m,5,90,3790.0m,"120.175",
+"Harle",HARLE,DE,5342.417N,00749.283E,3.0m,5,90,500.0m,"122.400",
+"Hartenholm",HARTE,DE,5354.900N,01002.433E,34.0m,5,50,740.0m,"118.125",
+"Hassfurt",HASSF,DE,5001.083N,01031.767E,220.0m,5,110,1110.0m,"119.800",
+"Hassloch",HASLO,DE,4921.300N,00817.217E,108.0m,4,80,800.0m,"123.500",
+"Hattorf",AUEBE,DE,5138.000N,01015.283E,188.0m,4,100,1050.0m,"122.200","Aue Bei Hattorf"
+"Hausen am Albis",HAUSEN LSZN,CH,4714.283N,00830.933E,592.0m,2,90,700.0m,"130.75","En/De"
+"Havlickuv Brod",HAVLI,CZ,4935.833N,01532.950E,463.0m,2,110,980.0m,"122.600",
+"HAYINGEN",HAYING,DE,4817.100N,00927.933E,715.0m,2,130,810.0m,"123.50","De"
+"Heide Buesum",HEIDE,DE,5409.200N,00854.100E,3.0m,5,110,710.0m,"122.600",
+"Heidelberg",HEIDM,DE,4923.617N,00839.133E,110.0m,5,80,1050.0m,"122.100",
+"Heilbronn",HEIBO,DE,4907.300N,00910.767E,156.0m,4,70,760.0m,"123.500","Heilbronn Boecki"
+"HEILIGENBERG",HEILIG,DE,4750.000N,00918.167E,760.0m,2,180,500.0m,"123.50","De"
+"Helgoland Duene",HELGO,DE,5411.117N,00754.950E,3.0m,5,150,400.0m,"122.450",
+"Hellenhagen",HELLE,DE,5201.517N,00933.867E,180.0m,4,100,260.0m,"123.150",
+"Hellingst",HELNS,DE,5322.500N,00851.000E,23.0m,4,130,1000.0m,"123.500",
+"Helm",HELMGI,IT,4642.917N,01223.233E,2433.0m,7,,,,
+"Helmstedt",HELMS,DE,5214.050N,01058.700E,111.0m,4,80,940.0m,"122.475","Helmstedt Rote"
+"Hengsen",HENGS,DE,5128.400N,00738.700E,125.0m,4,80,540.0m,"123.450","Hengsen Opherdic"
+"Heppenheim",HEPPE,DE,4937.250N,00837.483E,95.0m,4,150,900.0m,"122.475",
+"Hepp-Ost",Hepp-Ost,DE,4940.517N,00842.317E,478.0m,1,,,,
+"HERBEVILLER",HERBEV,FR,4832.700N,00646.000E,283.0m,2,130,500.0m,"      ","Fr"
+"Herbrum",ALTEE,DE,5301.850N,00718.333E,2.0m,4,100,720.0m,"123.150","Alte Ems Herbrum"
+"Heringsdorf",HERIN,DE,5352.717N,01409.133E,28.0m,5,100,2300.0m,"132.825",
+"Hermuthausen",HERMU,DE,4918.867N,00944.717E,410.0m,4,80,1000.0m,"123.350",
+"Herrenteich",HERRE,DE,4920.733N,00829.267E,95.0m,2,40,620.0m,"132.050",
+"Hersbruck",HERSB,DE,4930.450N,01126.850E,338.0m,4,90,480.0m,"122.050",
+"HERTEN",HERTEN EDTR,DE,4733.600N,00744.900E,283.0m,2,60,720.0m,"123.25","HERTEN  RHEINFL"
+"Herzogenaurach",HERZO,DE,4934.950N,01052.683E,326.0m,5,80,680.0m,"122.850",
+"Hessisch Lichten",HESSI,DE,5111.333N,00944.567E,410.0m,4,90,800.0m,"123.500",
+"Hettstadt",HETTS,DE,4947.917N,00950.217E,320.0m,2,90,560.0m,"122.425",
+"Hetzleser Berg",HETZL,DE,4938.533N,01109.700E,534.0m,2,80,590.0m,"123.600",
+"HEUBACH",HEUBAC EDTH,DE,4848.167N,00955.667E,433.0m,5,70,750.0m,"123.02","De"
+"Heukuppe",HEUKUP,AT,4741.350N,01541.350E,2007.0m,7,,,,
+"HIENHEIM",HIENHE,DE,4852.683N,01145.600E,400.0m,2,110,540.0m,"123.50","De"
+"Hilden",HILDK,DE,5111.233N,00658.483E,90.0m,4,60,700.0m,"123.375","Hilden Kesselwei"
+"Hildesheim",HILDE,DE,5210.783N,00956.733E,88.0m,5,70,1230.0m,"118.300",
+"HILZINGEN",HILZIN,DE,4745.617N,00846.050E,453.0m,2,90,1100.0m,"123.37","De"
+"Hirschberg",HIRSCG,DE,4739.783N,01141.783E,1670.0m,7,,,,
+"Hirzenhain",HIRZE,DE,5047.283N,00823.567E,521.0m,2,110,650.0m,"118.325",
+"Hochalp",HOCHAL,CH,4716.483N,00915.250E,1530.0m,7,,,,
+"Hochfelln",HOCHFE,DE,4745.700N,01233.550E,1664.0m,7,,,,
+"Hochgern",HOCHGG,DE,4745.033N,01230.950E,1748.0m,7,,,,
+"Hochgruendeck",HOCGRU,AT,4722.933N,01316.417E,1827.0m,7,,,,
+"Hockenheim",HOCKE,DE,4919.517N,00831.717E,98.0m,2,140,830.0m,"123.650",
+"Hodenhagen",HODEN,DE,5245.750N,00936.733E,24.0m,2,30,800.0m,"119.000",
+"Hodkovice",HODKO,CZ,5039.433N,01504.667E,451.0m,2,10,980.0m,"123.500","Hodkovice Nad Mo"
+"Hoelleberg",HOELL,DE,5136.667N,00923.850E,256.0m,2,80,530.0m,"122.000",
+"Hoepen",HOEPE,DE,5308.850N,00947.767E,73.0m,4,100,920.0m,"122.475",
+"Hoerbach",HOERB,DE,5040.100N,00815.633E,330.0m,4,50,310.0m,"130.125",
+"Hof",HOF,DE,5017.333N,01151.300E,598.0m,5,90,1470.0m,"124.350",
+"HOFKIRCHEN",HOFKIR LOLH,AT,4808.350N,01420.200E,357.0m,2,80,430.0m,"122.17","De"
+"Hohe Winde",HOHEWI,CH,4720.567N,00734.783E,1204.0m,7,,,,
+"HOHENEMS",HOHENE LOIH,AT,4723.083N,00942.033E,412.0m,5,50,620.0m,"121.20","De"
+"Hohenfels",HOHEN,DE,4912.983N,01150.117E,445.0m,5,90,670.0m,"122.100","MIL"
+"HOHENTANN",HOHENT,DE,4839.783N,01203.500E,592.0m,2,110,420.0m,"123.42","HOHENTANN LANDSH UL"
+"Hoherodskopf",HOHER,DE,5030.033N,00913.433E,643.0m,4,80,880.0m,"123.150",
+"Hohn",HOHN,DE,5418.733N,00932.300E,12.0m,5,80,2450.0m,"122.100","MIL"
+"Holesov",HOLES,CZ,4918.867N,01734.133E,232.0m,2,110,1810.0m,"122.500",
+"Holtorfsloh",HOLTO,DE,5319.333N,01004.467E,50.0m,4,150,690.0m,"123.350",
+"Holzdorf",HOLZD,DE,5146.067N,01310.050E,82.0m,5,90,2420.0m,"122.100","MIL"
+"Holzmin",HOEXT,DE,5148.383N,00922.700E,284.0m,5,140,800.0m,"123.625","Hoexter Holzmin"
+"Homberg",HOMBE,DE,5044.833N,00901.183E,330.0m,4,40,700.0m,"123.500","Homberg Ohm Kat 3"
+"Hoppstaedten",HOPPS,DE,4936.650N,00711.200E,332.0m,5,60,500.0m,"120.600",
+"Hopsten Mil",HOPST,DE,5220.317N,00732.483E,40.0m,5,10,2450.0m,"122.100",
+"Horice",HORIC,CZ,5021.433N,01534.600E,281.0m,2,130,740.0m,"123.500",
+"HORNBERG",HORNBE,DE,4844.683N,00951.750E,675.0m,2,170,650.0m,"123.50","De"
+"Hornisgrinde",Horninde,DE,4836.417N,00813.500E,1164.0m,7,,,,
+"Horovice",HOROV,CZ,4950.683N,01353.150E,369.0m,5,70,1170.0m,"122.600",
+"Hosin",HOSIN,CZ,4902.400N,01429.700E,494.0m,5,60,980.0m,"130.200",
+"Hoya",HOYA,DE,5248.733N,00909.783E,17.0m,4,120,650.0m,"122.475",
+"Hradec Kralove",HRADE,CZ,5015.200N,01550.717E,241.0m,5,160,2390.0m,"122.000",
+"Hranice",HRANI,CZ,4932.767N,01742.267E,244.0m,2,50,740.0m,"123.500",
+"HUELBEN",HUELBE,DE,4831.767N,00923.983E,726.0m,2,90,380.0m,"123.50","De"
+"Huensborn",HUENS,DE,5055.733N,00753.950E,399.0m,2,90,950.0m,"130.125",
+"HUETTEN",HUETTE,DE,4737.983N,00756.500E,873.0m,2,110,780.0m,"130.12","HUETTEN HOTZENWL"
+"Huettenbusch",HUETT,DE,5317.183N,00856.833E,3.0m,2,90,430.0m,"122.850",
+"Huhnrain",HUHNR,DE,5029.400N,00950.700E,420.0m,4,90,500.0m,"133.425",
+"Husum",HUSUM,DE,5430.600N,00908.300E,18.0m,5,30,1440.0m,"122.050",
+"HYERES",HYERES LFTH,FR,4305.833N,00608.767E,3.0m,5,50,2110.0m,"121.00","Fr"
+"Idar Oberstein",IDARO,DE,4943.933N,00720.217E,482.0m,2,70,650.0m,"122.850",
+"IL BORRO",IL BOR,IT,4332.450N,01142.150E,270.0m,2,20,900.0m,"123.45","It"
+"ILLERTISSEN",ILLERT EDMI,DE,4814.117N,01008.267E,512.0m,2,80,530.0m,"129.50","De"
+"Illesheim",ILLES,DE,4928.433N,01023.283E,329.0m,2,60,1500.0m,"122.100","MIL"
+"IMENO",IMENO,SI,4607.633N,01536.310E,189.0m,2,10,610.0m,"123.50",
+"Ingelfingen",INGEL,DE,4919.300N,00939.817E,421.0m,5,70,470.0m,"130.600","Ingelfingen Bue"
+"INGOLSTADT",INGOLS ETSI,DE,4842.933N,01132.033E,366.0m,5,70,2940.0m,"125.25","INGOLSTADT MANCH"
+"Innerhalbach",Innerach,AT,4755.940N,01541.390E,550.0m,3,50,300.0m,,"Baum im Endanflug 05!Kat 2"
+"INNSBRUCK",INNSBR LOWI,AT,4715.617N,01120.633E,579.0m,5,80,1990.0m,"120.10","120.100 TOWER _ 126.025 ATIS _ 119.275 RADAR"
+"Inowroclaw",INOWI,PL,5249.767N,01819.833E,79.0m,5,0,0.0m,"124.5",
+"Inowroclaw Gld",INOWR,PL,5248.383N,01817.150E,85.0m,4,80,740.0m,"122.6",
+"INTERLAKEN",INTERL LSMI,CH,4640.600N,00752.750E,576.0m,2,60,1900.0m,"130.15","En/De,Mil,NO GLD ACT"
+"Irsingen",IRSIN,DE,4902.300N,01030.183E,465.0m,4,260,560.0m,"122.475",
+"Iserlohn-R",ISERL,DE,5125.750N,00738.617E,192.0m,4,70,790.0m,"123.500","Iserlohn Rheiner"
+"Iserlohn-S",ISESU,DE,5126.183N,00741.983E,180.0m,4,40,800.0m,"122.425","Iserlohn Suemmer"
+"ISNY",ISNY R,DE,4742.000N,01001.250E,685.0m,2,80,450.0m,"123.50","ISNY ROTMOOS"
+"Ithwiesen",ITHWI,DE,5157.067N,00939.767E,375.0m,4,320,850.0m,"122.375",
+"Itzehoe",ITZEH,DE,5359.667N,00934.717E,24.0m,5,30,1050.0m,"122.500",
+"IVREA",IVREA,IT,4529.167N,00751.800E,246.0m,2,140,850.0m,"130.00","IVREA MONTLT DOR. It"
+"Jaromer",JAROM,CZ,5019.883N,01557.233E,271.0m,4,140,920.0m,"122.600",
+"Jauffenpass",JAUFFE,IT,4650.383N,01119.283E,2099.0m,6,,,,
+"Jelenia Gora",JELEN,PL,5053.933N,01547.133E,341.0m,2,110,620.0m,"122.900",
+"Jena",JENAS,DE,5054.933N,01142.850E,375.0m,5,20,1170.0m,"122.050","Jena Schoenglei"
+"JESENWANG",JESENW EDMJ,DE,4810.467N,01107.500E,567.0m,5,70,470.0m,"122.10","De,122.425Info"
+"Jever",JEVER,DE,5332.000N,00753.317E,6.0m,5,100,2480.0m,"118.725","MIL"
+"Jezow Sudecki",Jezowcki,PL,5056.867N,01545.683E,559.0m,2,0,500.0m,"122.900",
+"Jicin",JICIN,CZ,5025.800N,01519.983E,262.0m,2,120,980.0m,"122.200","Jicin Letiske"
+"Jihlava",JIHLA,CZ,4925.167N,01538.117E,555.0m,2,100,920.0m,"123.500",
+"Jindrichuv",JINDR,CZ,4909.050N,01458.300E,512.0m,5,70,740.0m,"123.600","Jindrichuv Hrad"
+"Johannisau",JOHAN,DE,5032.183N,00939.683E,250.0m,4,60,870.0m,"122.300",
+"JOINVILLE",JOINVI LFFJ,FR,4823.167N,00508.667E,311.0m,2,100,650.0m,"      ","JOINVILLE  MUSSE. Fr"
+"Jouere",Jouere,FR,4416.250N,00606.850E,1885.0m,7,,,,
+"Juist",JUIST,DE,5340.833N,00703.467E,3.0m,5,80,680.0m,"120.500",
+"Julierpass",JULIER,CH,4628.333N,00943.667E,2284.0m,6,,,,
+"Jungfrau",JUNGFR,CH,4632.183N,00757.767E,4158.0m,7,,,,
+"KAEGISWIL",KAEGIS LSPG,CH,4654.417N,00815.217E,470.0m,5,40,900.0m,"120.62","En/De"
+"Kamen Heeren",KAMEH,DE,5135.417N,00742.617E,62.0m,4,100,990.0m,"129.975",
+"Kamenz",KAMEN,DE,5117.817N,01407.650E,153.0m,5,30,1110.0m,"122.050",
+"Kamien Slaski",KAMIE,PL,5031.833N,01805.500E,207.0m,5,110,2300.0m,"120.300",
+"Kammermark",KAMME,DE,5311.717N,01209.850E,83.0m,4,80,1100.0m,"123.500",
+"Kamp Lintfort",KAMPL,DE,5131.733N,00632.167E,24.0m,2,70,770.0m,"123.000",
+"Kampenwand",KAMPEN,DE,4745.367N,01222.100E,1668.0m,7,,,,
+"Kandel",KANDEL,DE,4803.750N,00800.700E,1242.0m,7,,,,
+"KAPFENBERG",KAPFEN LOGK,AT,4727.450N,01519.867E,515.0m,2,70,580.0m,"119.70","W109"
+"Karlovy Vary",KARLV,CZ,5012.183N,01254.900E,607.0m,5,110,2140.0m,"121.225",
+"Karlshoefen",KARLH,DE,5319.967N,00901.717E,6.0m,5,120,690.0m,"118.925",
+"Karlsruhe  BADEN",KARLSR EDSB,DE,4846.750N,00804.833E,125.0m,5,30,2970.0m,"125.87","De"
+"Karlstadt",KARSA,DE,4958.283N,00947.483E,244.0m,4,90,540.0m,"123.475","Karlstadt Saupur"
+"Karwendel",KARWEW,DE,4725.817N,01117.800E,2364.0m,7,,,,
+"Kassel",KASSE,DE,5124.500N,00922.667E,277.0m,5,40,1500.0m,"118.100","Kassel Calden"
+"Katowice Much",KATOM,PL,5014.300N,01902.033E,277.0m,5,50,1110.0m,"122.900","Katowice Muchowiec"
+"Katowice Pyrz",KATOW,PL,5028.450N,01904.800E,302.0m,5,90,2790.0m,"129.250","Katowice Pyrzowice"
+"KAUFBEUREN",KAUFBE,DE,4751.733N,01036.883E,717.0m,5,20,1830.0m,"122.20","De"
+"Kbely",KBELY,CZ,5007.283N,01432.617E,287.0m,5,90,1990.0m,"135.500",
+"KEHL",KEHL S EDSK,DE,4833.517N,00751.017E,137.0m,2,30,680.0m,"122.75","KEHL SUNDHEIM"
+"Kell",KELL,DE,4937.300N,00650.417E,535.0m,4,50,820.0m,"123.150",
+"KEMPTEN",KEMPTE EDMK,DE,4741.567N,01020.300E,713.0m,2,170,890.0m,"122.00","KEMPTEN DURACH"
+"Ketrzyn",KETRZ,PL,5403.000N,02126.000E,140.0m,2,170,760.0m,"122.4",
+"Kiel",KIELH,DE,5422.767N,01008.717E,31.0m,5,80,1260.0m,"119.975","Kiel Holtenau"
+"Kielce Maslow",KIELC,PL,5053.800N,02043.900E,308.0m,5,110,890.0m,"122.2",
+"KIRCHDORF",KIRCHD EDNK,DE,4814.317N,01258.617E,348.0m,2,40,650.0m,"118.62","KIRCHDORF INN"
+"KIRCHZARTEN",KIRCHZ,DE,4757.100N,00757.350E,409.0m,2,20,700.0m,"122.47","De"
+"Kirn",KIRN,DE,4946.500N,00731.167E,420.0m,4,140,1000.0m,"122.375",
+"Kitzingen",KITZI,DE,4944.583N,01012.033E,210.0m,5,70,800.0m,"123.150","MIL"
+"Kladmo",KLADM,CZ,5006.767N,01405.383E,433.0m,2,130,890.0m,"123.475",
+"KLAGENFURT",KLAGEN LOWK,AT,4638.567N,01420.233E,448.0m,5,100,2720.0m,"118.10","En/De,NO GLD ACTW33 "
+"Klatovy",KLATO,CZ,4925.100N,01319.317E,396.0m,2,90,800.0m,"122.600",
+"Klausenpass",KLAUSE,CH,4652.050N,00851.350E,1948.0m,6,,,,
+"Klecany",KLECA,CZ,5011.017N,01424.967E,287.0m,2,0,0.0m,,"Klecany Letiute"
+"Klein",KLEIN,DE,5156.850N,01146.183E,52.0m,2,90,470.0m,"122.000","Klein Muehlingen"
+"Kleve",KLEVE,DE,5146.167N,00617.950E,18.0m,4,70,510.0m,"123.150","Kleve Wisseler D"
+"Klietz",KLIET,DE,5242.567N,01204.400E,31.0m,2,170,620.0m,"122.375","Klietz Scharlipp"
+"KLIPPENECK",KLIPPE,DE,4806.450N,00845.767E,980.0m,2,50,800.0m,"122.17","De"
+"KliX",KLIX,DE,5116.417N,01430.383E,149.0m,2,100,860.0m,"122.200",
+"Koblenz",KOBLE,DE,5019.533N,00731.717E,195.0m,5,60,1170.0m,"122.650","Koblenz Winninge"
+"Koeln Bonn",KOELN,DE,5051.950N,00708.567E,92.0m,5,140,3820.0m,"124.975",
+"Koemmelgupf",KOEMME,AT,4637.033N,01451.567E,1065.0m,7,,,,
+"KOENIGSDORF",KOENIG,DE,4749.717N,01127.900E,601.0m,5,100,740.0m,"118.27","De"
+"Koethen",KOETH,DE,5143.433N,01156.950E,91.0m,5,70,800.0m,"123.650",
+"Kolin",KOLIN,CZ,5000.117N,01510.400E,284.0m,2,30,830.0m,"123.500",
+"KONIN",KONIN,PL,5219.167N,01810.150E,110.0m,2,0,0.0m,"A-122.3",
+"KONSTANZ",KONSTA EDTZ,DE,4740.917N,00908.250E,396.0m,2,120,740.0m,"119.90","De"
+"Konz",KONZK,DE,4940.567N,00632.583E,215.0m,4,20,950.0m,"123.350","Konz Koenen"
+"KOPRIVNICA",KOPRIV LDVK,HR,4613.550N,01650.033E,134.0m,2,70,1140.0m,"      ","KOPRIVNICA DANIC"
+"Korbach",KORBA,DE,5115.233N,00852.567E,390.0m,2,30,590.0m,"119.975",
+"Korntauern",KORNTA,AT,4702.517N,01310.750E,2459.0m,7,,,,
+"Koschach",Koschach,AT,4658.600N,01328.140E,830.0m,3,160,530.0m,,"KOSCHACH-MALTAMan sollte bei dieser großen Wiese mindestens 50m östlich der Hochspannungsleitung landen, da im westlichen Teil Zäune stehen.Kat 1"
+"Koszalin",KOSZA,PL,5402.550N,01615.933E,76.0m,5,70,2510.0m,"124.500","Koszalin Zegrze"
+"Krakow Balice",KRAKO,PL,5004.667N,01947.083E,241.0m,5,70,2540.0m,"118.100",
+"Kranzhorn",KRANZH,DE,4742.033N,01211.083E,1367.0m,7,,,,
+"Krefeld",KREFE,DE,5123.067N,00635.133E,43.0m,2,50,450.0m,"122.850","Krefeld Egelsberg"
+"KREMS",KREMS  LOAG,AT,4826.767N,01538.017E,311.0m,5,110,740.0m,"122.70","KREMS LANGENLOIS"
+"KREPA",KREPA,PL,5425.000N,01705.167E,75.0m,2,0,0.0m,"A-122.2",
+"Kreuzbergpass",KREUZB,IT,4639.350N,01225.167E,1636.0m,6,,,,
+"Kreuzjoch",KREUZJ,AT,4715.117N,01159.000E,2558.0m,7,,,,
+"Krippau+",+Krippau,AT,4741.300N,01442.250E,505.0m,3,120,280.0m,,"Kat 1. Neu. Wiese beginnt von Westen mit Stacheldrahtzaun, von Osten mit 5m Hecke!"
+"Krizantov",KRIZA,CZ,4922.100N,01606.967E,558.0m,2,140,680.0m,"122.200",
+"Krizenec",KRIZE,CZ,4952.233N,01246.350E,634.0m,5,80,590.0m,"122.800","Krizenec Plana"
+"Krnov",KRNOV,CZ,5004.550N,01741.533E,369.0m,2,120,740.0m,"122.600",
+"Kromeritz",KROME,CZ,4917.133N,01724.950E,189.0m,2,30,770.0m,"122.200",
+"Kronach",KRONA,DE,5014.617N,01121.517E,453.0m,4,120,650.0m,"123.350","Kronach Kreuzberg"
+"Krosno",KROSN,PL,4940.983N,02144.017E,281.0m,2,110,1050.0m,"122.4","122.4"
+"Kuehrstedt",KUEHR,DE,5334.050N,00847.433E,9.0m,2,120,590.0m,"122.625","Kuehrstedt Beder"
+"KUFSTEIN",KUFSTE LOIK,AT,4733.850N,01207.650E,485.0m,2,60,800.0m,"122.37","W1De"
+"Kulmbach",KULMB,DE,5008.100N,01127.517E,506.0m,5,90,710.0m,"118.525",
+"Kunkelpass",KUNKEL,CH,4651.350N,00924.683E,1357.0m,6,,,,
+"Kunovice",KUNOV,CZ,4901.767N,01726.383E,177.0m,5,30,1990.0m,"120.100",
+"Kusel",KUSLA,DE,4928.667N,00718.583E,450.0m,4,100,590.0m,"123.350","Kusel Langenbach"
+"Kyjov",KYJOV,CZ,4858.800N,01707.483E,210.0m,2,150,980.0m,"123.600",
+"Kyritz",KYRIT,DE,5255.133N,01225.517E,40.0m,5,140,980.0m,"122.725",
+"LA COTE",LA COT LSGP,CH,4624.383N,00615.483E,412.0m,2,40,560.0m,"123.65","Fr, Verboten für Gld"
+"La Dole",LADOLE,CH,4625.517N,00605.967E,1677.0m,7,,,,
+"LA MOLE",LA MOL LFTZ,FR,4312.383N,00628.917E,18.0m,5,60,1170.0m,"118.12","Fr"
+"LA MOTTE-CA",LA MOTT,FR,4419.517N,00601.850E,650.0m,2,180,1170.0m,"123.50","F31 LA MOTTE DU CAIRE"
+"LA MOTTE-CH",LA MOT LFJE,FR,4430.200N,00523.633E,881.0m,2,30,590.0m,"130.00","LA MOTTE  CHALAN. Fr,Altiport"
+"Lachen",LACHE,DE,4919.800N,00812.767E,119.0m,2,110,1030.0m,"118.175","Lachen Speyerdorf"
+"LAHR",LAHR   EDTL,DE,4822.150N,00749.667E,156.0m,5,30,3000.0m,"125.17","De"
+"LAICHINGEN",LAICHI EDPJ,DE,4829.783N,00938.350E,741.0m,5,70,530.0m,"127.70","De"
+"LANANS",LANANS,FR,4718.050N,00626.750E,522.0m,2,30,400.0m,"      ","Fr"
+"Landau",LANDA,DE,4910.583N,00808.167E,160.0m,4,100,590.0m,"123.375","Landau Ebenberg"
+"LANDSBERG",LANDSB ETSA,DE,4804.233N,01054.367E,622.0m,5,70,2050.0m,"122.10","De"
+"LANDSHUT",LANDSH EDML,DE,4830.767N,01202.100E,399.0m,5,70,890.0m,"129.80","LANDSHUT ELLRM"
+"Langenberg",LANGB,DE,5047.867N,00933.750E,350.0m,4,200,880.0m,"123.500","Langenberg Hatte"
+"Langenfeld",LANWI,DE,5108.467N,00659.117E,86.0m,4,70,620.0m,"122.475","Langenfeld Wiesc"
+"Langenlonsheim",LANLO,DE,4954.500N,00754.467E,92.0m,2,10,880.0m,"122.875",
+"Langenselbold",LANSE,DE,5010.617N,00904.017E,120.0m,4,70,410.0m,"129.975",
+"LANGENTHAL",LANGEN LSPL,CH,4710.967N,00744.483E,482.0m,2,50,500.0m,"122.52","De"
+"Langeoog",LANGE,DE,5344.567N,00729.917E,3.0m,5,50,590.0m,"122.025",
+"Langhennersdorf",LANGH,DE,5056.833N,01315.700E,387.0m,2,50,890.0m,"122.300",
+"LANGRES",LANGRE LFSU,FR,4757.933N,00517.667E,421.0m,2,180,920.0m,"      ","LANGRES  ROLA. Fr"
+"LANZEN",LANZEN LOGL,AT,4733.400N,01519.317E,786.0m,2,70,670.0m,"122.50","W110 LANZEN TURNAUDe"
+"Lask",LASKM,PL,5133.100N,01910.750E,192.0m,5,110,2510.0m,"124.5","MIL"
+"Laucha",LAUCH,DE,5114.767N,01141.583E,226.0m,2,90,710.0m,"122.475","Laucha Dorndorf"
+"Lauenbrueck",LAUEN,DE,5312.433N,00934.433E,31.0m,2,110,590.0m,"123.650",
+"Laufenselden",LAUFE,DE,5013.300N,00759.917E,400.0m,4,50,510.0m,"122.475",
+"LAUPHEIM",LAUPHE ETHL,DE,4813.217N,00954.617E,540.0m,5,90,1660.0m,"122.10","De,Mil"
+"LAUSANNE",LAUSAN LSGL,CH,4632.717N,00637.000E,622.0m,5,180,860.0m,"118.82","LAUSANNE LA BLEC. Fr, NO GLD ACT, 123.20Afis"
+"Lauterbach",LAUTE,DE,5041.000N,00924.617E,369.0m,2,70,680.0m,"122.175",
+"Lavazze Passo",LAVAZZ,IT,4621.000N,01129.000E,1805.0m,6,,,,
+"LE CASTELLET",LE CAS LFMQ,FR,4315.200N,00547.200E,424.0m,5,130,1750.0m,"119.00","Fr"
+"LE LUC LE CANNET",LE LUC LFMC,FR,4323.083N,00623.217E,82.0m,5,130,1380.0m,"123.00","Fr,122.20App"
+"LE VALDAHON",LE VAL,FR,4710.000N,00621.017E,735.0m,2,100,500.0m,"      ","Fr"
+"LEBUNIA",LEBUNIA,PL,5424.983N,01745.917E,151.0m,2,0,0.0m,"W-124.5",
+"LECHFELD",LECHFE ETSL,DE,4811.133N,01051.667E,555.0m,5,30,2450.0m,"122.10","De,Mil"
+"Leck",LECK,DE,5447.400N,00857.683E,6.0m,2,120,800.0m,"122.600",
+"LECZYCA",LECZYCA,PL,5200.317N,01908.750E,120.0m,2,0,0.0m,"W-124.5",
+"LEGNAGO",LEGNAG LIDL,IT,4508.000N,01117.533E,9.0m,2,90,620.0m,"119.72","It"
+"Legnica",LEGNI,PL,5110.967N,01610.683E,125.0m,5,80,1590.0m,"125.550",
+"LEIBERTINGEN",LEIBER,DE,4802.633N,00901.817E,830.0m,2,80,700.0m,"129.97","De"
+"LEIPHEIM",LEIPHE,DE,4826.350N,01014.033E,477.0m,5,70,2000.0m,"122.50","De"
+"Leipzig",LEIPZ,DE,5125.450N,01214.183E,143.0m,5,80,3610.0m,"119.700",
+"Lemwerder",LEMWE,DE,5308.600N,00837.400E,6.0m,5,160,1900.0m,"118.500",
+"LENDAVA",LENDAV,SI,4636.250N,01626.400E,161.0m,2,150,480.0m,"      ","UL"
+"Les Diablerets",LESDIA,CH,4619.617N,00712.267E,2940.0m,7,,,,
+"LES EPLATURES",LES EP LSGC,CH,4705.050N,00647.617E,1027.0m,5,60,1110.0m,"118.12","Fr/En"
+"LESZNO",LESZNO,PL,5150.117N,01631.317E,95.0m,2,0,900.0m,"122.3","Direction 06L/24R+L and Direction 15L/33R+L"
+"Letkov",LETKO,CZ,4943.383N,01327.133E,418.0m,2,80,680.0m,"130.600","Letkov Plzenectw"
+"LEUTKIRCH",LEUTKI EDNL,DE,4751.533N,01000.867E,640.0m,5,60,1010.0m,"122.87","LEUTKIRCH  UNTER"
+"Leuzendorf",LEUZE,DE,4921.117N,01004.517E,461.0m,4,80,860.0m,"123.500",
+"Leverkusen",LEVER,DE,5100.917N,00700.367E,49.0m,2,150,920.0m,"122.425",
+"LIBELICE",LIBELI,SI,4637.417N,01457.317E,390.0m,2,40,330.0m,"      ","UL"
+"Liberec",LIBER,CZ,5046.100N,01501.500E,405.0m,2,160,1050.0m,"122.600",
+"Lichtenfels",LICHT,DE,5008.900N,01102.833E,259.0m,2,40,680.0m,"123.000",
+"LIENZ",LIENZ  LOKL,AT,4647.883N,01253.133E,637.0m,5,120,620.0m,"122.50","LIENZ NIKOLSDORF, W27"
+"Lillinghof",LAUFL,DE,4936.283N,01117.033E,546.0m,2,70,430.0m,"133.500","Lauf Lillinghof"
+"Lindlar",LINDL,DE,5059.833N,00722.650E,311.0m,4,50,1000.0m,"129.975",
+"Linkenheim",LINKE,DE,4908.467N,00823.683E,101.0m,2,50,740.0m,"122.600",
+"LINZ",LINZ   LOWL,AT,4814.000N,01411.283E,299.0m,5,90,2990.0m,"118.80","En/De,NO GLD ACT"
+"LINZ OST",LINZ O LOLO,AT,4817.967N,01420.050E,253.0m,2,150,920.0m,"122.37","De"
+"LJUBLJANA",LJUBLJ LJLJ,SI,4613.467N,01427.367E,387.0m,5,130,3300.0m,"118.00","LJUBLJANA BRNIK"
+"LOCARNO",LOCARN LSZL,CH,4609.650N,00852.717E,198.0m,5,80,800.0m,"134.82","It/En,133.45Atis,122.47Gld"
+"LOCE AD",LOCE A,SI,4618.450N,01529.150E,286.0m,2,0,0.0m,"      ",
+"LODRINO",LODRIN LSML,CH,4617.617N,00859.583E,259.0m,5,160,1000.0m,"119.62","It/En,Mil,NO GLD ACT"
+"Lodz",LODZL,PL,5143.317N,01923.883E,186.0m,5,70,1440.0m,"124.225",
+"Loechgau",LOECH,DE,4900.083N,00905.200E,266.0m,4,90,860.0m,"123.475",
+"Loiblpass",LOIBLP,AT,4626.367N,01416.017E,1368.0m,6,,,,
+"LOMMIS",LOMMIS LSZT,CH,4731.467N,00900.183E,469.0m,2,60,620.0m,"119.30","De,NO GLD ACT"
+"Longet Col",CLONGE,FR,4438.667N,00657.000E,2646.0m,6,,,,
+"LONS LE SAUNIER",LONS L LFGL,FR,4640.567N,00528.233E,232.0m,2,80,1110.0m,"123.50","Fr,Nil"
+"LOSINJ",LOSINJ LDLO,HR,4433.950N,01423.583E,46.0m,5,20,890.0m,"120.30",
+"Lubin",LUBIN,PL,5125.383N,01611.767E,156.0m,5,120,1110.0m,"122.4",
+"Lublin Radwiec",LUBLI,PL,5113.317N,02223.683E,241.0m,2,110,950.0m,"122.4",
+"LUCCA",LUCCA  LIQL,IT,4349.700N,01034.683E,12.0m,5,100,890.0m,"122.50","LUCCA TASSIGNANO. It"
+"LUCKO",LUCKO,HR,4545.817N,01551.350E,138.0m,2,0,0.0m,"      ",
+"LUDWIGSBURG",LUDWIG,DE,4851.850N,00913.483E,290.0m,2,110,800.0m,"122.10","De"
+"Ludwigshafen",LUDWI,DE,4924.733N,00821.050E,96.0m,4,50,1070.0m,"130.125","Ludwigshafen-Dannstadt"
+"Luebeck",LUEBE,DE,5348.317N,01043.150E,15.0m,5,70,2080.0m,"128.700","Luebeck Blankens"
+"Luechow",LUECH,DE,5301.067N,01108.650E,15.0m,5,160,480.0m,"122.500","Luechow Rehbec"
+"Lueneburg",LUENE,DE,5314.900N,01027.517E,49.0m,2,70,700.0m,"122.175",
+"Luenen",LUELI,DE,5137.017N,00730.067E,49.0m,4,90,1070.0m,"123.500","Luenen Lippeweid"
+"Luesse",LUESS,DE,5208.650N,01240.183E,64.0m,2,70,1010.0m,"129.975",
+"LUGANO",LUGANO LSZA,CH,4600.217N,00854.617E,281.0m,5,10,1350.0m,"119.70","En,NO GLD ACT"
+"LUGO",LUGO D LIDG,IT,4423.883N,01151.283E,18.0m,5,90,800.0m,"119.65","LUGO DI ROMAGNA. It"
+"Lukmanier Pass",LUKMAN,CH,4633.767N,00848.050E,1916.0m,6,,,,
+"LUNEVILLE",LUNEVI LFQC,FR,4835.683N,00632.567E,241.0m,5,90,1050.0m,"123.50","Fr,Nil"
+"Lure",Lure,FR,4407.183N,00548.183E,1826.0m,7,,,,
+"LURE-MAL",LURE M LFYL,FR,4742.183N,00632.683E,318.0m,5,40,2400.0m,"      ","LURE MALBOUHANS. Fr"
+"Lusen",LUSENG,DE,4856.333N,01330.417E,1371.0m,7,,,,
+"LUXEUIL",LUXEUI LFSX,FR,4747.233N,00621.900E,277.0m,5,110,2420.0m,"122.10","LUXEUIL ST SAUVE. Fr"
+"LUZERN",LUZERN LSZO,CH,4711.400N,00812.283E,655.0m,2,160,500.0m,"122.45","LUZERN BEROMUNST. En/De"
+"LYON",LYON S LFLL,FR,4543.533N,00504.867E,250.0m,5,180,4010.0m,"127.57","Fr,119.25Info,131.20Atis"
+"Lysice",LYSIC,CZ,4927.733N,01630.833E,436.0m,2,0,0.0m,,"Lysice Ul Plocha"
+"Magdeburg",MAGDE,DE,5204.417N,01137.583E,82.0m,5,90,980.0m,"119.300",
+"Mainbullau",MAINB,DE,4941.700N,00910.917E,457.0m,5,50,710.0m,"122.375",
+"Mainz",MAINZ,DE,4958.117N,00808.883E,232.0m,5,80,980.0m,"122.925","Mainz Finthen"
+"MALAPEZ",MALAPE,FR,4433.200N,00526.300E,1006.0m,2,50,210.0m,"      ","Fr"
+"Malaup",Malauo,FR,4422.817N,00602.217E,1561.0m,7,,,,
+"Malbork",MALBO,PL,5401.617N,01908.050E,6.0m,5,80,2510.0m,"124.500",
+"Malbun Pass",MALBUN,CH,4705.650N,00937.533E,2000.0m,6,,,,
+"MALMSHEIM",MALMSH,DE,4846.967N,00855.100E,450.0m,2,80,800.0m,"122.20","De"
+"Maloja Pass",MALOJA,CH,4624.167N,00941.733E,1809.0m,6,,,,
+"Malsch",MALSC,DE,4914.233N,00840.700E,128.0m,4,70,920.0m,"129.975",
+"Mannheim",MANNH,DE,4928.367N,00830.783E,95.0m,5,90,1010.0m,"118.400",
+"Marburg",MARBU,DE,5052.433N,00848.883E,253.0m,2,40,740.0m,"123.000","Marburg Schoen"
+"Margunet",MARGUN,CH,4640.383N,01014.350E,2340.0m,7,,,,
+"Marianske",MARSK,CZ,4955.367N,01243.483E,540.0m,2,150,1010.0m,"120.900","Marianske Lazne"
+"MARIAZELL",MARIAZ LOGM,AT,4747.367N,01518.017E,860.0m,5,150,500.0m,"122.10","W121 MARIAZELLDe"
+"MARIBOR",MARIBO LJMB,SI,4628.800N,01541.167E,268.0m,5,150,2510.0m,"119.20","W105 MARIBOR"
+"MARKDORF",MARKDO,DE,4742.567N,00923.400E,425.0m,2,130,700.0m,"123.35","De"
+"Marl",MARLL,DE,5138.817N,00709.817E,73.0m,5,70,830.0m,"122.000","Marl Loemuehle"
+"MAROTTA",MAROTT,IT,4345.250N,01309.367E,15.0m,2,40,400.0m,"      ","UL, It"
+"Marpingen",MARPI,DE,4927.167N,00702.367E,360.0m,4,100,780.0m,"123.475",
+"MARSEILLE",MARSEI LFML,FR,4326.200N,00512.900E,21.0m,5,140,3490.0m,"127.92","MARSEILLE PROVEN. Fr"
+"MASERA",MASERA,IT,4608.383N,00818.717E,280.0m,5,20,800.0m,"130.00","It"
+"MASSA",MASSA  LILQ,IT,4359.167N,01008.567E,3.0m,2,50,710.0m,"120.35","MASSA CINQUALE. It"
+"Matterhorn",MATTER,CH,4558.517N,00739.517E,4478.0m,7,,,,
+"MAUTERNDORF",MAUTER LOSM,AT,4707.917N,01341.767E,1110.0m,2,70,800.0m,"122.85","De"
+"MAYERHOFEN",MAYERH LOKM,AT,4658.533N,01422.250E,646.0m,2,80,400.0m,"122.85","W19"
+"Medlamky",MEDLA,CZ,4914.250N,01633.500E,284.0m,2,150,920.0m,"123.600",
+"MEGEVE",MEGEVE LFHM,FR,4549.467N,00638.550E,1469.0m,2,160,400.0m,"118.50","Fr,Altiport"
+"Meiersberg",MEIER,DE,5117.933N,00657.450E,146.0m,4,120,800.0m,"130.125",
+"Meinerzhagen",MEINE,DE,5105.983N,00735.967E,472.0m,5,70,1170.0m,"130.600",
+"MEIRINGEN",MEIRIN LSMM,CH,4644.483N,00806.550E,576.0m,5,60,2420.0m,"130.15","En/De,Mil,NO GLD ACT"
+"Melle",MELLE,DE,5212.050N,00822.667E,73.0m,5,90,770.0m,"122.400","Melle Groenegau"
+"MEMMINGEN",MEMMIN ETSM,DE,4759.333N,01014.367E,634.0m,5,60,2390.0m,"122.10","De"
+"Mendelpass",MENDEL,IT,4625.083N,01112.600E,1360.0m,6,,,,
+"Menden",MENDE,DE,5127.583N,00750.167E,207.0m,4,240,920.0m,"123.500","Menden Barge"
+"Mendig",MENDI,DE,5021.950N,00718.917E,183.0m,5,80,1630.0m,"122.100","MIL"
+"MENGEN",MENGEN EDTM,DE,4803.233N,00922.367E,555.0m,5,80,1590.0m,"122.37","MENGEN HOHENTENG"
+"Mengeringhausen",MENGH,DE,5122.583N,00858.867E,363.0m,2,120,530.0m,"121.025",
+"MENTON",BAIE D,FR,4346.700N,00731.500E,5.0m,2,0,0.0m,"      ","BAIE DE MENTON. Fr"
+"Meppen",MEPPE,DE,5243.400N,00719.583E,21.0m,2,60,590.0m,"122.100","MIL"
+"MERIBEL",MERIBE LFKX,FR,4524.417N,00634.800E,1719.0m,5,150,400.0m,"118.75","Fr,Altiport"
+"Merseburg",MERSE,DE,5121.783N,01156.450E,104.0m,5,80,1140.0m,"122.900",
+"Meschede",MESCH,DE,5118.167N,00814.367E,439.0m,5,40,900.0m,"122.050","Meschede Schuer"
+"METZ NANCY",METZ N LFJL,FR,4858.700N,00614.800E,265.0m,5,40,2510.0m,"118.20","METZ NANCY LORR. Fr"
+"MEURTHE",MT SUR,FR,4831.617N,00624.400E,293.0m,2,70,400.0m,"      ","MT SUR MEURTHE. Fr"
+"MICHALKOW",OSTRO,PL,5142.150N,01750.800E,143.0m,4,110,890.0m,"122.200",
+"Michelbach",MICHB,DE,5013.900N,00804.617E,301.0m,4,70,600.0m,"123.375",
+"MICHELDORF",MICHEL LOLM,AT,4752.217N,01407.450E,460.0m,2,130,470.0m,"122.40","De"
+"Michelstadt",MICHE,DE,4940.683N,00858.433E,348.0m,5,80,590.0m,"123.650",
+"Mielec",MIELE,PL,5019.333N,02127.733E,168.0m,5,90,2480.0m,"119.100",
+"Mikulovice",MIKUL,CZ,5018.100N,01717.850E,421.0m,2,50,980.0m,"123.500","Mikulovice Jesen"
+"MILANO BRESSO",MILANO LIMB,IT,4532.483N,00912.133E,146.0m,5,180,1080.0m,"122.00","It"
+"MILANO LINATE",MILANO LIML,IT,4526.967N,00916.700E,107.0m,5,180,2450.0m,"118.10","It"
+"MILANO MALPENSA",MILANO LIMC,IT,4537.783N,00843.383E,235.0m,5,170,3910.0m,"119.00","It"
+"MILLES",AIX LE LFMA,FR,4330.100N,00522.250E,113.0m,5,150,1590.0m,"118.75","AIX LES MILLES. Fr"
+"Milovice",MILOV,CZ,5014.167N,01455.417E,199.0m,2,0,0.0m,,
+"MINDELHEIM",MINDEL EDMN,DE,4806.533N,01031.467E,567.0m,5,150,710.0m,"122.97","MINDELHEIM MATTS"
+"Minsk Mazowiecki",MINSM,PL,5211.733N,02139.350E,183.0m,5,90,2510.0m,"124.500",
+"Miroslawice",MIRSV,PL,5058.000N,01647.000E,153.0m,5,0,0.0m,"122.6",
+"Miroslawiec",MIROS,PL,5323.700N,01604.967E,153.0m,5,120,2510.0m,"124.500",
+"Mlada Boleslav",MLADA,CZ,5023.900N,01453.900E,238.0m,2,160,890.0m,"123.600",
+"Mnichovo",MNICH,CZ,5032.400N,01500.400E,244.0m,5,70,1530.0m,"130.200","Mnichovo Hradist"
+"MODENA",MODENA LIPM,IT,4438.100N,01048.617E,55.0m,5,90,800.0m,"119.55","MODENA MARZAGLIA. It"
+"MODLIN",MODLIN,PL,5227.067N,02039.033E,105.0m,2,0,0.0m,"W-124.5",
+"Moeckmuehl",MOECK,DE,4920.650N,00924.017E,339.0m,4,80,670.0m,"129.975","Moeckmuehl Korb"
+"Moenchengladbach",MOENC,DE,5113.817N,00630.267E,40.0m,5,130,1200.0m,"118.125",
+"Moenchsheide",MOENH,DE,5030.500N,00715.333E,205.0m,4,100,690.0m,"122.000",
+"MOLLIS",MOLLIS LSMF,CH,4704.717N,00903.900E,448.0m,5,20,1000.0m,"134.82","En/De,Civ/Mil,NO GLD ACT"
+"MONACO",MONACO LNMC,FR,4343.617N,00725.183E,6.0m,2,50,0.0m,"123.02","Fr"
+"MONESTIER",MONEST,FR,4455.400N,00536.900E,901.0m,2,90,320.0m,"      ","MONESTIER DE CLE. Fr"
+"Mont Blanc",MONTBL,FR,4549.900N,00651.850E,4807.0m,7,,,,
+"Mont D Or",MODORF,FR,4643.617N,00621.417E,1463.0m,7,,,,
+"Montabaur",MONBA,DE,5025.383N,00749.617E,261.0m,4,40,1200.0m,"123.350",
+"MONTBELIARD",MONTBE LFSM,FR,4729.200N,00647.483E,317.0m,5,80,1690.0m,"132.02","Fr"
+"Monte Rosa",MONTGK,CH,4556.150N,00752.000E,4634.0m,7,,,,
+"MONTEGALDELLA",MONTEG,IT,4526.667N,01139.067E,23.0m,2,100,650.0m,"130.00","It"
+"MONTEMARENZO",MONTEM,IT,4546.000N,00926.500E,200.0m,5,180,300.0m,"130.00","MONTEMARENZO KONA. W136. Asphatl strip 300m"
+"MonteViso",VISOGI,IT,4440.000N,00705.500E,3841.0m,7,,,,
+"MONTRICHER",MONTRI LSTR,CH,4635.483N,00624.050E,664.0m,2,30,630.0m,"123.05","Fr"
+"Moosberg",MOOSBE,DE,4827.167N,00805.617E,871.0m,7,,,,
+"MOOSBURG",MOOSBU EDPI,DE,4827.400N,01156.483E,421.0m,2,40,850.0m,"123.65","MOOSBURG AUF KIP"
+"Moravsca",MORAV,CZ,4947.900N,01641.267E,402.0m,2,80,710.0m,"130.550","Moravsca Trebova"
+"MORESTEL",MOREST LFHI,FR,4541.267N,00527.183E,244.0m,2,130,800.0m,"123.50","Fr,Nil"
+"Morgon",Morgon,FR,4428.200N,00625.683E,2327.0m,7,,,,
+"MORZINE",MORZIN,FR,4612.000N,00645.800E,1752.0m,2,90,250.0m,"      ","MORZINE AVORIAZ. Fr"
+"Mosbach",MOSBA,DE,4923.933N,00907.433E,332.0m,5,150,620.0m,"122.850","Mosbach Lohrbach"
+"Mosenberg",MOSEN,DE,5103.767N,00925.317E,402.0m,2,70,500.0m,"123.050",
+"Most",MOST,CZ,5031.500N,01340.983E,332.0m,2,20,1140.0m,"123.500",
+"MOTIERS",MOTIER LSTO,CH,4655.000N,00636.900E,732.0m,2,50,560.0m,"126.65","Fr,NO GLD ACT"
+"Mt d'Aujour",Mtd'Aour,FR,4426.233N,00550.783E,1834.0m,7,,,,
+"Mt Poum",Mt Poum,FR,4530.767N,00652.250E,3779.0m,7,,,,
+"Mt Ventoux",MtVenoux,FR,4410.433N,00516.700E,1909.0m,7,,,,
+"MUEHLDORF",MUEHLD EDMY,DE,4816.733N,01230.283E,405.0m,5,80,830.0m,"119.77","De"
+"Muehlhausen",MUEHL,DE,5112.783N,01032.933E,247.0m,2,80,910.0m,"122.850",
+"Muelben",MUEBN,DE,4927.183N,00906.333E,515.0m,4,340,750.0m,"130.125",
+"MUELLHEIM",MUELLH,DE,4749.517N,00738.450E,290.0m,2,160,700.0m,"129.97","De"
+"MUENCHEN",MUENCH EDDM,DE,4821.233N,01147.167E,454.0m,5,80,4010.0m,"123.12","MUENCHEN ERDING. 118.70N,120.50S"
+"MUENSINGEN",MUENSI,DE,4824.567N,00926.467E,725.0m,2,80,450.0m,"123.50","MUENSINGEN EISBR"
+"MUENSTER",MUENST LSPU,CH,4628.817N,00815.800E,1350.0m,5,50,960.0m,"122.07","En/De, NO GLD ACT"
+"Muenster-O",MUENS,DE,5208.083N,00741.083E,49.0m,5,70,2170.0m,"129.800","Muenster Osnabruck"
+"Muenster-T",MUENT,DE,5156.683N,00746.367E,55.0m,5,100,680.0m,"122.850","Muenster Telgte"
+"MULHOUSE",BALE M LFSB,FR,4735.400N,00731.750E,271.0m,5,160,3880.0m,"118.30","BALE MULHOUSE. Fr"
+"MULHOUSE HABS",MULHOU LFGB,FR,4744.467N,00725.950E,241.0m,5,20,980.0m,"125.25","Fr"
+"Mundin",MUNDIN,CH,4655.700N,01026.967E,2975.0m,7,,,,
+"MUSBACH",MUSBAC,DE,4830.167N,00828.717E,705.0m,2,170,1000.0m,"130.12","De"
+"Muttler",MUTTLE,CH,4654.050N,01022.717E,3294.0m,7,,,,
+"NABERN",NABERN EDTN,DE,4836.750N,00928.633E,372.0m,2,140,560.0m,"118.32","NABERN TECK"
+"Namest",NAMES,CZ,4910.000N,01607.567E,473.0m,5,90,2390.0m,,
+"NANCY AZELOT",NANCY  LFEX,FR,4835.567N,00614.433E,293.0m,2,60,980.0m,"123.50","Fr,Nil"
+"NANCY ESSEY",NANCY  LFSN,FR,4841.533N,00613.567E,229.0m,5,30,1380.0m,"119.60","Fr"
+"NANCY OCHEY",NANCY  LFSO,FR,4834.983N,00557.267E,338.0m,5,20,2420.0m,"122.10","Fr,Mil"
+"Nannhausen",NANNH,DE,4958.200N,00728.683E,372.0m,2,60,560.0m,"130.600",
+"Nardt",NARDT,DE,5127.000N,01411.967E,116.0m,2,80,470.0m,"123.000",
+"Nassfeld Pass",NASSFE,AT,4633.617N,01316.533E,1530.0m,6,,,,
+"Nastaetten",NASTA,DE,5011.883N,00753.333E,366.0m,4,80,1020.0m,"126.500",
+"Nauen",NAUEN,DE,5237.583N,01254.850E,34.0m,2,110,830.0m,"119.750",
+"NEGRA",CA NEG,IT,4504.967N,01209.333E,1.0m,2,50,660.0m,"120.20","CA NEGRA. It"
+"NERESHEIM",NERESH,DE,4844.483N,01019.533E,541.0m,2,80,700.0m,"130.12","De"
+"Neu Guelze",NEUGU,DE,5322.900N,01048.300E,12.0m,4,70,800.0m,"123.500",
+"Neubrandenburg",NEUBR,DE,5336.133N,01318.367E,70.0m,5,90,2300.0m,"119.175",
+"NEUBURG  EGWEIL",NEUBUR EDNJ,DE,4846.950N,01113.250E,412.0m,2,80,650.0m,"123.47","De"
+"NEUBURG  ZELL",NEUBUR ETSN,DE,4842.667N,01112.700E,381.0m,5,90,2450.0m,"129.85","De"
+"NEUCHATEL",NEUCHA LSGN,CH,4657.450N,00651.883E,436.0m,5,50,680.0m,"123.60","NEUCHATEL COLOMI. Fr/En"
+"NEUFCHATEAU",NEUFCH LFFT,FR,4821.750N,00543.250E,372.0m,2,10,770.0m,"123.50","Fr,Nil"
+"Neuhardenberg",NEUHA,DE,5236.783N,01414.567E,12.0m,5,80,2390.0m,"119.125",
+"Neuhausen",NEUHS,DE,5141.083N,01425.383E,85.0m,2,90,800.0m,"122.725",
+"NEUHAUSEN ECK",NEUHAU EDSN,DE,4758.617N,00854.317E,808.0m,5,90,1230.0m,"130.50","NEUHAUSEN OB ECK. De"
+"Neujellingsdorf",NEUJE,DE,5427.400N,01106.600E,3.0m,2,110,590.0m,"122.050",
+"Neumagen",NEUMA,DE,4950.567N,00654.967E,268.0m,2,90,740.0m,"118.175","Neumagen Dhron"
+"Neumarkt",NEUMO,DE,4917.133N,01126.683E,424.0m,5,90,710.0m,"119.975","Neumarkt Oberpf"
+"Neumuenster",NEUMU,DE,5404.717N,00956.433E,21.0m,5,80,590.0m,"123.000",
+"Neunkirchen",NEUNK,DE,4920.400N,00715.200E,272.0m,4,60,460.0m,"123.050",
+"Neuruppin",NEURU,DE,5256.567N,01246.767E,43.0m,4,100,1260.0m,"123.350",
+"Neustadt Aisch",NEUSA,DE,4935.267N,01034.650E,366.0m,5,90,590.0m,"118.925",
+"Neustadt Glewe",NEUST,DE,5321.750N,01136.867E,37.0m,2,90,1200.0m,"123.375",
+"NICE",NICE C LFMN,FR,4339.917N,00712.900E,3.0m,5,40,2970.0m,"118.70","Fr,120.85App,129.60Atis"
+"Nidda",NIDDA,DE,5024.317N,00859.267E,166.0m,4,40,770.0m,"123.375","Nidda Auf D Helm"
+"NIEDEROEBLARN",NIEDER LOGO,AT,4728.717N,01400.467E,652.0m,5,40,710.0m,"122.70","W13 NIEDEROEBLARN"
+"Niederrhein",NIEDE,DE,5136.150N,00608.533E,34.0m,5,90,2450.0m,"129.400",
+"Niederstette",NIEDM,DE,4923.500N,00957.500E,469.0m,5,70,1010.0m,"122.100",
+"Niederthai",Niedehai,AT,4707.800N,01058.330E,1560.0m,3,4,300.0m,,"Kat B"
+"Nienburg",NIENB,DE,5242.583N,00909.750E,24.0m,2,80,830.0m,"122.000","Nienburg Holzbal"
+"Nittenau",NITTE,DE,4913.350N,01217.783E,354.0m,5,10,560.0m,"118.925","Nittenau Bruck"
+"NOERDLINGEN",NOERDL EDNO,DE,4852.367N,01030.317E,421.0m,5,40,500.0m,"133.07","De"
+"Noervenich",NOERV,DE,5049.867N,00639.500E,119.0m,5,70,2450.0m,"122.100","MIL"
+"NOETSCH",NOETSC LOKN,AT,4634.833N,01337.700E,549.0m,2,90,710.0m,"122.40","W35 NOETSCH"
+"Norden",NORDN,DE,5337.983N,00711.367E,1.0m,5,160,710.0m,"120.500","Norden Nordeich"
+"Nordenbeck",NORDB,DE,5114.117N,00849.133E,442.0m,2,80,650.0m,"122.500",
+"Norderney",NORDE,DE,5342.417N,00713.717E,3.0m,5,90,980.0m,"122.600",
+"Nordhausen",NORDH,DE,5129.533N,01050.267E,210.0m,2,100,890.0m,"118.625",
+"Nordholz Etmn",NORDM,DE,5346.050N,00839.500E,21.0m,5,80,2450.0m,"122.100",
+"Nordholz Spieka",NORDS,DE,5346.017N,00838.617E,21.0m,2,80,860.0m,"121.025",
+"Nordhorn",NORDL,DE,5227.467N,00711.100E,28.0m,5,60,890.0m,"122.650","Nordhorn Lingen"
+"Northeim",NORTH,DE,5142.383N,01002.400E,122.0m,2,110,690.0m,"118.700",
+"Nove Mesto",NOVEM,CZ,5021.850N,01606.817E,305.0m,2,80,920.0m,"123.400",
+"Nove Sady",NOVES,CZ,4917.633N,01610.983E,504.0m,2,0,0.0m,,"Nove Sady Prauka"
+"NOVI LIGURE",NOVI L LIMR,IT,4446.800N,00847.183E,186.0m,2,180,1050.0m,"122.50","It"
+"NOVO MESTO LETAL",NOVO M,SI,4548.700N,01506.850E,167.0m,2,50,2000.0m,"123.50",
+"NOWE MIASTO",NOWEMSTO,PL,5137.667N,02032.250E,162.0m,2,0,0.0m,"W-124.5",
+"Nowy Sacz",NOWYS,PL,4944.733N,02037.417E,253.0m,2,40,800.0m,"122.2",
+"Nowy Targ",NOWYT,PL,4927.767N,02003.017E,628.0m,2,120,1690.0m,,
+"Nuernberg",NUERN,DE,4929.917N,01104.667E,320.0m,5,100,2690.0m,"118.300",
+"Nufenenpass",NUFENE,CH,4628.650N,00823.183E,2478.0m,6,,,,
+"Nymburk",NYMBU,CZ,5010.167N,01503.267E,185.0m,2,0,0.0m,"123.475","Nymburk Ul Ploch"
+"Obdacher Sattel",OBDACH,AT,4703.083N,01442.900E,962.0m,6,,,,
+"Ober Moerlen",OBERM,DE,5021.717N,00842.683E,247.0m,2,50,470.0m,"122.850",
+"Oberalppass",OBERAP,CH,4639.483N,00840.267E,2044.0m,6,,,,
+"Oberems",OBEEM,DE,5014.517N,00823.950E,400.0m,4,130,710.0m,"123.350",
+"OBERHINKOFEN",OBERHI,DE,4857.100N,01208.800E,396.0m,2,60,500.0m,"122.30","De"
+"Obermehler",OBRME,DE,5116.067N,01038.083E,277.0m,5,110,1440.0m,"122.900",
+"OBERPFAFFENHOFEN",OBERPF EDMO,DE,4804.883N,01116.983E,594.0m,5,40,2300.0m,"119.55","De"
+"Oberrissdorf",OBERR,DE,5132.633N,01135.683E,226.0m,2,140,590.0m,"122.200",
+"OBERSCHLEISSHEIM",OBERSC EDNX,DE,4814.333N,01133.550E,488.0m,5,80,800.0m,"129.40","De"
+"Obertauern Pass",OBERTA,AT,4714.933N,01333.417E,1738.0m,6,,,,
+"Ochsenfurt",OCHSE,DE,4940.450N,01004.300E,247.0m,2,100,500.0m,"123.000",
+"OCHSENHAUSEN",OCHSEN,DE,4803.183N,00954.933E,650.0m,2,80,320.0m,"123.50","De"
+"Oerlinghausen",OERLI,DE,5155.950N,00839.717E,171.0m,5,40,590.0m,"122.175",
+"Oeventrop",OEVEN,DE,5123.750N,00808.850E,211.0m,4,120,1020.0m,"123.350","Oeventrop Ruhrwi"
+"Ofenpass",OFENPA,CH,4638.383N,01017.550E,2149.0m,6,,,,
+"OFFENBURG",OFFENB EDTO,DE,4826.983N,00755.483E,156.0m,5,20,890.0m,"119.75","OFFENBURG  BADEN"
+"OHLSBACH",OHLSBA,DE,4826.100N,00758.367E,160.0m,2,160,320.0m,"123.42","OHLSBACH OFFENBU UL"
+"Oksywie",OKSYW,PL,5434.767N,01831.033E,43.0m,5,140,2510.0m,"124.500","MIL"
+"Oldenburg",OLDEN,DE,5304.133N,00818.817E,9.0m,2,60,770.0m,"118.175","Oldenburg Hatte"
+"OLESNICA",OLESNICA,PL,5112.933N,01726.533E,159.0m,2,0,0.0m,"W-124.5","A.8"
+"Olomouc",OLOMO,CZ,4935.267N,01712.650E,265.0m,2,100,890.0m,"118.000",
+"OLSZTYN",OLSZTYN,PL,5346.383N,02024.900E,133.0m,2,0,0.0m,"A-122.9",
+"OLTEN",OLTEN  LSPO,CH,4720.600N,00753.317E,418.0m,2,50,820.0m,"118.77","De"
+"Opole",OPOLE,PL,5038.000N,01746.900E,189.0m,2,70,740.0m,"122.2",
+"Oppenheim",OPPEN,DE,4950.433N,00822.617E,85.0m,2,20,800.0m,"122.000",
+"Oppershausen",OPPER,DE,5235.733N,01013.383E,43.0m,4,90,1090.0m,"122.475",
+"OPPINGEN",OPPING,DE,4833.417N,00949.333E,680.0m,2,100,690.0m,"123.15","De"
+"Ortler",ORTLER,IT,4630.433N,01032.550E,3905.0m,7,,,,
+"Oschatz",OSCHA,DE,5117.767N,01304.700E,153.0m,2,80,830.0m,"122.200",
+"Oschersleben",OSCHE,DE,5202.300N,01112.333E,104.0m,2,110,590.0m,"129.400",
+"Osnabrueck",OSNAB,DE,5217.183N,00758.400E,88.0m,5,90,800.0m,"118.675","Osnabrueck Atter"
+"Osterholz",OSTER,DE,5312.783N,00848.600E,2.0m,4,130,810.0m,"130.125","Osterholz Scharm"
+"Ostrava",ZABRE,CZ,4955.700N,01804.700E,241.0m,5,100,890.0m,"123.600","Zabreh Ostrava"
+"Ostrava",OSTRA,CZ,4941.767N,01806.650E,256.0m,5,40,3490.0m,"120.800","Ostrava Mosnov"
+"OTOCAC",OTOCAC LDRO,HR,4450.750N,01517.600E,469.0m,2,150,1630.0m,"123.50",
+"Otrokovice",OTROK,CZ,4911.900N,01731.067E,183.0m,5,170,650.0m,"122.400","Otrokovice Zlin"
+"Ottenberg",OTTEN,DE,4919.733N,01128.767E,545.0m,4,160,800.0m,"122.200","Ottenberg Pilsac"
+"Ottengruener",OTTEG,DE,5013.550N,01143.950E,573.0m,2,100,650.0m,"123.000","Ottengruener Hei"
+"OTTENSCHLAG",OTTENS LOAA,AT,4825.100N,01512.917E,875.0m,2,30,490.0m,"122.30","De"
+"OYONNAX",OYONNA LFLK,FR,4616.750N,00540.017E,537.0m,5,40,860.0m,"123.50","OYONNAX ARBENT. Fr"
+"P701L",701L,PL,5212.500N,01447.500E,59.0m,3,0,0.0m,,"Cybinka"
+"P702L",702L,PL,5211.000N,01508.000E,90.0m,3,0,0.0m,,"Dobrosulow"
+"P703L",703L,PL,5127.500N,01506.167E,148.0m,3,0,0.0m,,"Gozdnica 130.3"
+"P704L",704L,PL,5154.000N,01516.333E,100.0m,3,0,0.0m,,"Grabowiec"
+"P705G",705G,PL,5147.000N,01459.500E,85.0m,3,0,0.0m,,"Lubsko"
+"P706L",706L,PL,5146.000N,01447.000E,100.0m,3,0,0.0m,,"Marianka"
+"P707L",707L,PL,5148.000N,01548.000E,70.0m,3,0,0.0m,,"Przyborow"
+"P708L",708L,PL,5219.367N,01449.333E,70.0m,3,0,0.0m,,"Rzepin 130.3"
+"P709L",709L,PL,5220.250N,01539.667E,80.0m,3,0,0.0m,,"StaryDwor"
+"P710L",710L,PL,5200.000N,01448.000E,55.0m,3,0,0.0m,,"Walowice"
+"P711L",711L,PL,5216.000N,01522.000E,110.0m,3,0,0.0m,,"Zagorze"
+"P712P",712P,PL,5147.433N,01916.200E,190.0m,3,0,0.0m,,"Aleksandrow"
+"P713P",713P,PL,5334.550N,01631.667E,152.0m,3,0,0.0m,,"BorneSul"
+"P714A",714A,PL,5050.100N,01724.283E,154.0m,3,0,0.0m,,"Brzeg .3"
+"P715P",715P,PL,5219.500N,01702.667E,82.0m,3,0,0.0m,,"Gadki"
+"P716P",716P,PL,5147.950N,01829.583E,136.0m,3,0,0.0m,,"Goszczanow"
+"P717P",717P,PL,5228.800N,01601.200E,85.0m,3,0,0.0m,,"Kaliska"
+"P718L",718L,PL,5243.117N,01530.983E,45.0m,3,0,0.0m,,"LipkiW 130.3"
+"P719P",719P,PL,5231.667N,01543.717E,60.0m,3,0,0.0m,,"Lubikowo"
+"P720P",720P,PL,5247.933N,01547.717E,48.0m,3,0,0.0m,,"Trzebicz"
+"P721W",721W,PL,5352.783N,01452.300E,20.0m,3,0,0.0m,,"Sniatowo"
+"P722W",722W,PL,5345.500N,01517.500E,40.0m,3,0,0.0m,,"Makowice"
+"P723W",723W,PL,5328.500N,01544.000E,130.0m,3,0,0.0m,,"DrawskoPom"
+"P724W",724W,PL,5352.500N,01700.333E,170.0m,3,0,0.0m,,"Pienieznica"
+"P725W",725W,PL,5327.667N,01629.117E,130.0m,3,0,0.0m,,"Nadarzyce"
+"P726W",726W,PL,5331.167N,01617.500E,150.0m,3,0,0.0m,,"Czaplinek"
+"P727W",727W,PL,5335.667N,01643.000E,170.0m,3,0,0.0m,,"Lotyn"
+"P728W",728W,PL,5440.000N,01744.833E,90.0m,3,0,0.0m,,"Lebien"
+"P729W",729W,PL,5331.350N,01714.917E,160.0m,3,0,0.0m,,"Debrzno"
+"P730W",730W,PL,5349.500N,01721.500E,150.0m,3,0,0.0m,,"Sapolno"
+"P731W",731W,PL,5317.100N,01457.917E,30.0m,3,0,0.0m,,"Kluczewo"
+"P732W",P-732W,PL,5118.500N,01543.500E,210.0m,3,0,0.0m,,"Krzywa"
+"P733W",733W,PL,5232.267N,01712.117E,108.0m,3,0,0.0m,,"Bednary 130.3"
+"P734W",734W,PL,5357.250N,01755.667E,135.0m,3,0,0.0m,,"Borsk"
+"P735L",735L,PL,5256.367N,01425.567E,58.0m,3,0,0.0m,,"Chojna"
+"P736W",736W,PL,5213.900N,01615.567E,91.0m,3,0,0.0m,,"Kakolewo"
+"P737G",737G,PL,5133.733N,01533.967E,125.0m,3,0,0.0m,,"Szprotawa"
+"P738P",P-738P,PL,5113.500N,01924.800E,310.0m,3,0,0.0m,"130.4","OrlaG 130.4"
+"P739W",739W,PL,5234.667N,02052.500E,110.0m,3,0,0.0m,,"Chrcynno-Nasielsk"
+"P740W",740W,PL,5300.500N,02056.000E,110.0m,3,0,0.0m,,"Przasnysz"
+"P742W",742W,PL,5137.167N,02206.333E,170.0m,3,0,0.0m,,"Ulez"
+"P743W",743W,PL,5145.167N,02237.833E,160.0m,3,0,0.0m,,"Marynin"
+"P744W",744W,PL,5407.500N,02005.500E,70.0m,3,0,0.0m,,"Orneta"
+"P746G",746G,PL,5211.233N,01642.667E,66.0m,3,0,0.0m,,"Gluchowo I"
+"P747P",747P,PL,5210.667N,01642.500E,66.0m,3,0,0.0m,,"Gluchowo II"
+"P748P",748P,PL,5240.067N,01646.217E,62.0m,3,0,0.0m,,"Oborniki"
+"P749L",749L,PL,5254.117N,01608.283E,95.0m,3,0,0.0m,,"Herburtowo"
+"P750L",750L,PL,5246.583N,01709.883E,82.0m,3,0,0.0m,,"Wagrowiec"
+"P751L",751L,PL,5254.717N,01643.450E,84.0m,3,0,0.0m,,"Gebice"
+"P752L",752L,PL,5312.550N,01608.017E,86.0m,3,0,0.0m,,"Tuczno"
+"P753L",753L,PL,5248.000N,01751.000E,100.0m,3,0,0.0m,,"Annowo"
+"P754L",754L,PL,5219.583N,01440.367E,50.0m,3,0,0.0m,,"Brojce"
+"P755L",755L,PL,5315.050N,01645.133E,80.0m,3,0,0.0m,,"Krepsko 130.3"
+"P756L",756L,PL,5335.250N,01829.667E,100.0m,3,0,0.0m,,"Kwiatki"
+"P757W",757W,PL,5336.833N,01541.667E,90.0m,3,0,0.0m,,"Lobez"
+"P758L",758L,PL,5344.333N,01751.000E,130.0m,3,0,0.0m,,"Rytel"
+"P759L",759L,PL,5335.717N,01643.083E,160.0m,3,0,0.0m,,"WilczeLaski"
+"P760P",760P,PL,5306.417N,02321.817E,154.0m,3,0,0.0m,,"Bobrowa"
+"Paderborn Lippst",PADEL,DE,5136.850N,00836.983E,213.0m,5,60,2170.0m,"133.375",
+"Paderborn-H",PADER,DE,5141.300N,00846.483E,244.0m,2,60,1200.0m,"125.275","Paderborn Haxter"
+"PADOVA",PADOVA LIPU,IT,4523.767N,01150.883E,12.0m,5,40,1170.0m,"123.25","It"
+"Palade Passo",PALADE,IT,4631.917N,01106.767E,1512.0m,6,,,,
+"Papenburg",LEERN,DE,5316.333N,00726.583E,1.0m,5,80,1200.0m,"130.775","Leer Papenburg"
+"Parchim",PARCK,DE,5325.250N,01148.483E,44.0m,4,70,750.0m,"123.500","Parchim Kl Platz"
+"Pardubice",PARDU,CZ,5000.800N,01544.317E,226.0m,5,90,2510.0m,"120.200",
+"PARMA",PARMA  LIMP,IT,4449.283N,01017.683E,49.0m,5,20,1900.0m,"118.45","It"
+"Pasewalk",PASEW,DE,5330.333N,01356.900E,21.0m,2,90,890.0m,"123.650","Pasewalk Franzfe"
+"Pass La Roc",PASSAV,FR,4758.133N,00602.183E,345.0m,6,,,,
+"Pass Thurn",PASSTP,AT,4718.550N,01224.533E,1305.0m,6,,,,
+"Pass Trasi",PASSIG,IT,4311.250N,01208.150E,290.0m,6,,,,
+"Passo Della Cisa",PASSOC,IT,4428.500N,00956.333E,1039.0m,6,,,,
+"Passo Delle Capa",PASSOB,IT,4227.367N,01321.083E,1300.0m,6,,,,
+"Passo Di Gaviao",PASSGA,IT,4620.583N,01029.417E,2620.0m,6,,,,
+"Passo Di Viamagg",PASSOV,IT,4340.533N,01207.083E,983.0m,6,,,,
+"Passoagnel",PASSOA,FR,4446.117N,00700.967E,2369.0m,6,,,,
+"PATERZELL",PATERZ,DE,4750.950N,01103.717E,610.0m,2,180,800.0m,"      ","De"
+"PAVULLO",PAVULL LIDP,IT,4419.350N,01049.900E,683.0m,2,90,800.0m,"      ","It"
+"PAYERNE",PAYERN LSMP,CH,4650.583N,00654.933E,445.0m,5,50,3100.0m,"128.67","En/Fr/De,Mil,NO GLD ACT"
+"Peenemuende",PEENE,DE,5409.467N,01346.367E,3.0m,5,130,2390.0m,"122.475",
+"Pegnitz",PEGNI,DE,4945.733N,01134.483E,546.0m,2,90,890.0m,"132.025","Pegnitz Zip"
+"Peine Eddesse",PEINE,DE,5224.150N,01013.733E,76.0m,5,70,890.0m,"122.600",
+"Peine Glindbruch",PEING,DE,5219.433N,01010.917E,70.0m,4,90,640.0m,"123.350",
+"Pellworm",PELLW,DE,5432.200N,00840.800E,1.0m,2,110,530.0m,"123.000",
+"Pennewitz",PENNE,DE,5040.167N,01103.050E,457.0m,2,60,890.0m,"123.050",
+"Perleberg",PERLE,DE,5304.233N,01149.100E,31.0m,4,110,1400.0m,"122.300",
+"PEROUGES",PEROUG LFHC,FR,4552.183N,00511.200E,213.0m,2,170,680.0m,"120.00","Fr"
+"PERUGIA",PERUGI,IT,4306.583N,01223.917E,360.0m,2,0,0.0m,"      ","It"
+"PERUGIA  SAN EGI",PERUGI LIRZ,IT,4305.833N,01230.617E,210.0m,5,10,1690.0m,"118.10","It"
+"PEYRUS",PEYRUS,FR,4453.900N,00507.900E,882.0m,2,0,0.0m,"      ","UL. Fr"
+"PFARRKIRCHEN",PFARRK EDNP,DE,4825.217N,01251.883E,387.0m,2,70,680.0m,"119.97","De"
+"Pfingstweide",PFING,DE,5026.150N,00837.167E,335.0m,4,100,510.0m,"123.475",
+"PFULLENDORF",PFULLE EDTP,DE,4754.500N,00915.100E,698.0m,2,20,590.0m,"123.25","De"
+"PHALSBOURG",PHALSB LFQP,FR,4846.083N,00712.300E,311.0m,5,60,2210.0m,"129.80","Fr"
+"PIACENZA",PIACEN LIMS,IT,4454.833N,00943.383E,140.0m,5,120,3000.0m,"122.10","It"
+"PIANFEI UL",PIANFE,IT,4423.500N,00743.600E,435.0m,2,70,300.0m,"      ","It"
+"PIAZZOLA",PIAZZO,IT,4533.000N,01145.000E,26.0m,2,70,780.0m,"130.40","PIAZZOLA SUL BRE. It"
+"Pic De Bure",BUREPI,FR,4437.583N,00555.933E,2600.0m,7,,,,
+"PILA",PILA,PL,5310.200N,01642.750E,83.0m,2,0,0.0m,"A-122.4","EPPI"
+"PINCZOW",PINCZOW,PL,5032.000N,02032.000E,186.0m,2,0,0.0m,"A-122.3",
+"PINKAFELD",PINKAF LOGP,AT,4723.217N,01606.767E,408.0m,2,150,610.0m,"122.85","De"
+"Pinnow",PINNO,DE,5336.917N,01133.667E,43.0m,2,10,800.0m,"122.500",
+"Piotrkow",PIOTR,PL,5122.983N,01941.300E,204.0m,2,30,1010.0m,"122.4",
+"Pirmasens",PIRMA,DE,4915.867N,00729.300E,381.0m,5,50,800.0m,"122.350",
+"Pirna",PIRNA,DE,5058.683N,01354.900E,122.0m,2,120,890.0m,"118.625","Pirna Pratzschwi"
+"PISA",PISA S LIRP,IT,4341.017N,01023.650E,3.0m,5,40,3000.0m,"119.10","PISA SAN GIUSTO. It"
+"Piz Bernina",PIZBER,CH,4622.917N,00954.483E,4049.0m,7,,,,
+"Piz D Err",PIZDER,CH,4632.683N,00941.500E,3378.0m,7,,,,
+"Piz Kesch",PIZKES,CH,4637.250N,00952.367E,3418.0m,7,,,,
+"Piz Linard",PIZLIN,CH,4647.900N,01004.300E,3411.0m,7,,,,
+"Piz Nuna",PIZNUN,CH,4643.350N,01009.267E,3124.0m,7,,,,
+"Plaetzer",PLAET,DE,5042.550N,00944.333E,340.0m,4,160,540.0m,"122.200",
+"Planei",PLANEI,AT,4722.167N,01343.567E,1905.0m,7,,,,
+"Plasy",PLASY,CZ,4955.217N,01322.617E,436.0m,2,30,830.0m,"123.600",
+"PLEIDELSHEIM",PLEIDE,DE,4857.400N,00911.517E,188.0m,2,20,480.0m,"123.50","De"
+"PLESO",PLESO,HR,4544.167N,01603.517E,115.0m,2,0,0.0m,"      ",
+"Plettenberg",PLETT,DE,5111.517N,00747.367E,299.0m,2,110,430.0m,"122.925",
+"Plock",PLOCK,PL,5233.733N,01943.283E,101.0m,2,130,680.0m,"122.8",
+"Ploeckenpass",PLOECK,AT,4636.233N,01256.717E,1357.0m,6,,,,
+"Plzen Bory",PLZEB,CZ,4943.683N,01320.900E,408.0m,2,0,0.0m,,
+"Plzen Line",PLZEN,CZ,4940.517N,01316.467E,363.0m,5,60,1440.0m,"121.275",
+"Pobiednik Wielki",POBIE,PL,5005.383N,02012.100E,198.0m,2,120,1050.0m,,
+"Podhoramy",PODHO,CZ,4956.350N,01532.983E,381.0m,2,70,710.0m,"123.600",
+"PODPEC",PODPEC,SI,4558.500N,01425.083E,288.0m,2,80,900.0m,"123.500","W101"
+"Pohlheim",POHLH,DE,5031.933N,00844.033E,236.0m,4,80,870.0m,"123.150",
+"Policka",POLIC,CZ,4944.367N,01615.533E,604.0m,2,150,1500.0m,"122.600",
+"POLTRINGEN",POLTRI,DE,4832.817N,00856.767E,401.0m,5,170,500.0m,"123.05","De"
+"PONTARLIER",PONTAR LFSP,FR,4654.333N,00619.600E,817.0m,5,20,980.0m,"135.70","Fr"
+"PONTEDERA",PONTED,IT,4339.467N,01037.050E,13.0m,5,0,1130.0m,"123.50","It"
+"PORRENTRUY",PORREN LSZY,CH,4724.633N,00703.100E,436.0m,2,70,620.0m,"122.05","Fr"
+"Porta Westfalica",PORTA,DE,5213.267N,00851.583E,46.0m,5,60,860.0m,"122.500",
+"PORTOROZ",PORTOR LJPZ,SI,4528.400N,01336.900E,3.0m,5,150,1200.0m,"129.32",
+"POSTOJNA",POSTOJ,SI,4545.017N,01411.683E,528.0m,2,20,750.0m,"123.50","W100 POSTOJNA LETALIS"
+"POURRIERES",POURRI,FR,4327.900N,00541.900E,345.0m,2,0,0.0m,"      ","UL. Fr"
+"Powidz",POWID,PL,5222.750N,01751.133E,113.0m,5,110,3520.0m,"124.500",
+"Poznan Kobylnica",POZNK,PL,5226.033N,01702.650E,85.0m,2,70,740.0m,"122.900",
+"Poznan Krzesiny",POZNA,PL,5219.917N,01658.000E,85.0m,2,120,2510.0m,"124.500",
+"Poznan Lawica",POZNL,PL,5225.267N,01649.583E,95.0m,5,110,2510.0m,"118.225",
+"Prachaval",Prachval,FR,4443.133N,00639.733E,2454.0m,7,,,,
+"Pragelpass",PRAGEL,CH,4659.933N,00852.167E,1550.0m,6,,,,
+"Prague Letnany",LETNA,CZ,5007.883N,01431.533E,277.0m,2,50,800.0m,"120.325",
+"Prague Ruzyne",PRAGU,CZ,5006.050N,01415.600E,381.0m,5,60,3700.0m,"118.100",
+"Prague Tocna",TOCNA,CZ,4959.117N,01425.533E,314.0m,2,100,800.0m,"123.400",
+"PRATI",PRATI  LIDV,IT,4447.417N,01140.150E,6.0m,2,100,680.0m,"122.60","PRATI VECCHI AGU. It"
+"PREBOLD",PREBOL,SI,4614.083N,01504.367E,190.0m,2,80,250.0m,"      ","UL"
+"Prerov",PRERO,CZ,4925.550N,01724.300E,207.0m,5,60,2510.0m,"118.825","MIL"
+"Pribram",PRIBR,CZ,4943.200N,01406.017E,466.0m,5,60,1440.0m,"123.500",
+"Pribyslav",PRIBY,CZ,4934.833N,01545.767E,530.0m,2,80,770.0m,"123.600",
+"Pritzwalk",PRITZ,DE,5310.800N,01211.067E,88.0m,2,80,820.0m,"122.600",
+"Prostejov",PROST,CZ,4926.867N,01708.033E,213.0m,2,120,980.0m,"123.600",
+"Pruszcz Gdanski",PRUSZ,PL,5414.883N,01840.283E,6.0m,5,100,1990.0m,"124.500",
+"PTUJ MOSKANJCI",PTUJ M,SI,4625.533N,01559.117E,214.0m,2,110,1100.0m,"123.50",
+"PUGET",PUGET,FR,4344.817N,00503.683E,133.0m,2,0,0.0m,"      ","PUGET SUR DURANC. Fr"
+"PUIMOISSON",PUIMOI LFTP,FR,4352.217N,00609.850E,768.0m,2,80,800.0m,"123.50","Fr,Nil"
+"PULA",PULA   LDPL,HR,4453.617N,01355.333E,85.0m,5,90,2940.0m,"120.00",
+"PUNITZ",PUNITZ LOGG,AT,4708.817N,01619.033E,290.0m,5,150,790.0m,"123.20","PUNITZ GUESSING. De"
+"PUSZTACSALAD",PUSZTA,HU,4730.700N,01653.933E,156.0m,2,130,800.0m,"      ","Hu"
+"Quakenbrueck",QUAKE,DE,5239.767N,00755.667E,25.0m,4,100,320.0m,"122.300",
+"Racovnik",RACOV,CZ,5005.650N,01341.333E,387.0m,2,90,920.0m,"123.500",
+"Radevormwald",RADEV,DE,5112.983N,00722.917E,389.0m,4,90,350.0m,"123.475",
+"RADOM",RADOM,PL,5123.350N,02112.800E,186.0m,2,0,0.0m,,"W-124.5"
+"Radom Piastr",RADOM,PL,5128.733N,02106.600E,146.0m,4,60,710.0m,"122.9",
+"Ramstein",RAMST,DE,4926.217N,00736.017E,238.0m,5,90,2820.0m,,"Tower 133.200  GCA 124.275 (hier melden EN) 15 NM von RAMSTEIN Position, höhe und Flugrichtung melden"
+"Rana",RANAL,CZ,5024.233N,01345.117E,268.0m,2,110,830.0m,"122.600","Rana Loumy"
+"RARON",RARON  LSTA,CH,4618.117N,00749.983E,638.0m,5,100,1200.0m,"120.42","En/Fr,NO GLD ACT"
+"RAVENNA",RAVENN LIDR,IT,4422.050N,01213.383E,1.0m,5,90,1200.0m,"123.50","It"
+"RAVENSBURG",BERG R,DE,4750.000N,00932.817E,501.0m,2,30,280.0m,"120.97","BERG RAVENSBURG UL"
+"Rawilpass",RAWILP,CH,4623.000N,00726.517E,2429.0m,6,,,,
+"Rechlin Laerz",RECHL,DE,5318.317N,01245.133E,67.0m,5,80,2390.0m,"129.975",
+"REGEN",REGEN,DE,4857.433N,01308.917E,397.0m,2,120,300.0m,"      ","UL. De"
+"Regensburg",REGEN,DE,4908.517N,01204.917E,396.0m,5,100,650.0m,"118.625",
+"REGGIO EMILIA",REGGIO LIDE,IT,4441.950N,01039.750E,46.0m,5,120,1380.0m,"127.15","It"
+"Reichelsheim",REICH,DE,5020.150N,00852.683E,122.0m,5,180,710.0m,"119.000",
+"REICHENBACH",REICHE LSGR,CH,4636.783N,00740.683E,720.0m,5,40,900.0m,"123.65","En/De,Mil,NO GLD ACT"
+"Reinheim",REINH,DE,4950.367N,00851.050E,155.0m,4,10,720.0m,"123.475",
+"Reinsdorf",REINS,DE,5154.067N,01311.667E,104.0m,2,100,1260.0m,"122.850",
+"REISELFINGEN",REISEL,DE,4751.117N,00822.333E,738.0m,2,70,630.0m,"123.00","De"
+"Rendsburg",RENDS,DE,5413.100N,00936.200E,6.0m,5,30,950.0m,"123.650",
+"Renneritz",RENNE,DE,5135.583N,01214.233E,95.0m,2,70,980.0m,"123.475",
+"Rerik Zweedorf",RERIK,DE,5404.933N,01139.300E,9.0m,2,80,650.0m,"126.500",
+"Reschenpass",RESCHE,AT,4650.833N,01030.333E,1458.0m,6,,,,
+"REUTTE",REUTTE LOIR,AT,4728.217N,01041.533E,854.0m,2,50,500.0m,"122.40","W122 REUTTE HOEFENDe"
+"Rheine Eschendorf",RHEIE,DE,5216.550N,00729.483E,40.0m,2,110,920.0m,"122.100",
+"Rheine-Bentlage",RHEIB,DE,5217.467N,00723.217E,40.0m,5,90,500.0m,"122.100",
+"Rheinstetten",RHEIN,DE,4858.667N,00820.550E,116.0m,2,30,830.0m,"123.350",
+"Rheinwaldhorn",RHEINW,CH,4629.433N,00902.283E,3402.0m,7,,,,
+"Richetlipass",RICHET,CH,4653.867N,00904.133E,2261.0m,6,,,,
+"RIED KIRCHHEIM",RIED K LOLK,AT,4812.750N,01320.700E,421.0m,5,120,590.0m,"122.65","De"
+"Riedelbach",RIEDE,DE,5018.150N,00823.050E,514.0m,4,50,800.0m,"130.125",
+"RIEDLINGEN",RIEDLI,DE,4808.667N,00928.000E,528.0m,2,50,700.0m,"129.97","De"
+"Riesa Canitz",RIESC,DE,5118.183N,01313.667E,123.0m,4,90,1050.0m,"123.500",
+"Riesa Goehlis",RIESA,DE,5117.583N,01321.433E,98.0m,5,120,980.0m,"122.600",
+"RIJEKA",RIJEKA LDRI,HR,4513.000N,01434.217E,85.0m,5,140,2510.0m,"119.00",
+"RIMINI",RIMINI LIPR,IT,4401.300N,01236.717E,12.0m,5,130,2540.0m,"119.10","RIMINI MIRAMARE. It"
+"Ring Schwalm",DERRI,DE,5054.183N,00914.433E,212.0m,4,30,660.0m,"123.375","Der Ring Schwalm"
+"Rinteln",RINTE,DE,5210.517N,00903.200E,55.0m,5,110,620.0m,"122.925",
+"Risserkogel",RISSKO,DE,4738.250N,01148.217E,1826.0m,7,,,,
+"RIVOLTO",RIVOLT LIPI,IT,4558.950N,01303.283E,55.0m,5,60,3000.0m,"122.10","It"
+"Roitzschjora",ROITZ,DE,5134.667N,01229.667E,88.0m,2,100,1200.0m,"122.000",
+"Rojetin",ROJET,CZ,4921.817N,01614.917E,498.0m,2,0,0.0m,,"Rojetin Ul Ploch"
+"Ronce",Ptedence,FR,4515.950N,00658.750E,3612.0m,7,,,,
+"RONCHI",RONCHI LIPQ,IT,4549.650N,01328.317E,12.0m,5,90,3000.0m,"130.20","RONCHI DEI LEGIO. It"
+"Rosenthal",ROSEN,DE,4951.783N,01147.267E,457.0m,5,90,740.0m,"127.450","Rosenthal Field7"
+"Rossbrand",ROSSBR,AT,4724.967N,01328.750E,1770.0m,7,,,,
+"ROSSFELD",ROSSFE,DE,4830.817N,00920.067E,800.0m,2,50,800.0m,"122.47","De"
+"Rossfeld",ROSSF,DE,4830.817N,00920.067E,797.0m,4,70,800.0m,"122.475",
+"Rostock",LAAGE,DE,5355.083N,01216.700E,43.0m,5,100,2510.0m,"118.425","Laage Rostock"
+"Rostock",PURKS,DE,5409.650N,01214.917E,21.0m,2,40,1110.0m,"122.400","Purkshof Rostock"
+"Rotenburg",ROTEN,DE,5307.700N,00920.917E,31.0m,5,80,800.0m,"122.050","Rotenburg Wuemme"
+"Roth",ROTHM,DE,4913.050N,01106.000E,387.0m,5,90,530.0m,"122.100","MIL"
+"Rothenberg",ROTHB,DE,4929.150N,00856.167E,467.0m,4,90,640.0m,"123.150",
+"Rothenburg OL",ROTHO,DE,5121.833N,01457.067E,159.0m,5,180,2510.0m,"123.250",
+"Rothenburg Taube",ROTHE,DE,4923.433N,01013.133E,399.0m,5,30,950.0m,"118.175",
+"ROTTWEIL",ROTTWE EDSZ,DE,4811.200N,00843.267E,744.0m,5,80,800.0m,"120.07","ROTTWEIL  ZEPFEN"
+"Roudnice",ROUDN,CZ,5024.633N,01413.567E,223.0m,2,130,1380.0m,"122.200","Roudnice Mad"
+"ROVIGO",ROVIGO,IT,4502.000N,01149.000E,7.0m,2,0,0.0m,"      ","It"
+"Rudolstadt",RUDOL,DE,5043.967N,01114.167E,469.0m,2,70,800.0m,"122.600",
+"Ruedesheim",RUEDE,DE,5001.017N,00753.567E,405.0m,4,360,420.0m,"123.500",
+"Ruegen",RUEGE,DE,5423.033N,01319.533E,21.0m,5,90,890.0m,"123.000","Ruegen Guettin"
+"Ruppiner Land",RUPPI,DE,5247.600N,01245.617E,41.0m,5,100,910.0m,"122.500",
+"Rybnik",RYBNI,PL,5004.250N,01837.700E,256.0m,4,90,650.0m,"122.400","Rybnik Gotar Gld"
+"Rzeszow",RZESZ,PL,5006.317N,02202.883E,201.0m,2,80,710.0m,"126.800",
+"Rzeszow Jasionka",RZESJ,PL,5006.600N,02201.133E,210.0m,5,90,3200.0m,"126.800",
+"S03+BUETSC",BUETSC    A,CH,4722.150N,00904.067E,620.0m,3,170,400.0m,"BUETSCHWIL","Kat 1. A38"
+"S04+FISCHENTHAL",FISCHE    A,CH,4719.567N,00855.183E,750.0m,3,0,0.0m,,"Kat 1"
+"S05-BAUMA",BAUMA     B,CH,4722.367N,00851.883E,640.0m,3,0,0.0m,,"Kat 2"
+"S06+SALAND",SALAND    A,CH,4723.517N,00851.417E,600.0m,3,0,0.0m,,"Kat 1"
+"S07+ZELL",ZELL      A,CH,4726.800N,00849.000E,530.0m,3,0,0.0m,,"leichte Hanglandung. Kat 1"
+"S10+WEESEN",WEESEN    A,CH,4707.433N,00906.100E,420.0m,3,0,0.0m,,"Kat 1"
+"S11+WALENSTADT",WALENS    A,CH,4707.033N,00918.533E,420.0m,3,0,0.0m,,"Kat 1"
+"S14-BLUDENZ",BLUDEN    B,AT,4708.667N,00950.333E,580.0m,3,90,0.0m,,"Kat 2. A28"
+"S15-Innerbraz",S15-Iraz,,4708.667N,00954.750E,700.0m,3,0,0.0m,,"Anflug 09/27. Kat 2"
+"S22xSchnann-N",S22xSn-N,,4709.083N,01022.017E,1190.0m,3,0,0.0m,,"Schnann-Nord. Kat 3"
+"S29-GALTUER",GALTUE    B,AT,4658.400N,01012.033E,1580.0m,3,50,300.0m,,"sehr enges Tal, in der Mitte sumpfiger Fleck mit ca. 10m Durchmesser! Kat 2. A78"
+"S46+ZERNEZ",ZERNEZ    A,CH,4641.535N,01005.596E,1470.0m,3,80,500.0m,,"Anflug 09/26.A329.  Kat 1"
+"S48-MALOJA",MALOJC    B,CH,4623.209N,00939.759E,1450.0m,3,20,0.0m,,"Kat 2. A165"
+"S50-Alvaneu",S50-ABad,,4640.067N,00939.517E,970.0m,3,0,0.0m,,"S50-Alvaneu Bad. Kat 2"
+"S64-Disentis",S64-Dest,,4642.000N,00851.150E,1170.0m,3,0,0.0m,,"Disentis West. Kat 2"
+"S70+PFAEFFIKON",PFAEFF    A,CH,4712.350N,00847.500E,410.0m,3,0,0.0m,,"Kat 1"
+"S71-FREIENBACH",FREIEN    B,CH,4712.117N,00845.833E,410.0m,3,0,0.0m,,"Kat 2"
+"S72+WAEDE_O",WAED_O    A,CH,4713.483N,00839.167E,580.0m,3,0,0.0m,"WAEDENSWIL-O","Kat 1"
+"S73+WAEDE-W",WAED_W    A,CH,4713.850N,00838.117E,580.0m,3,0,0.0m,"WAEDENSWIL-WEST","Kat 1"
+"S80+BENNAU",BENNAU    A,CH,4708.600N,00842.383E,900.0m,3,0,0.0m,,"Kat 1"
+"S81+EINSIEDELN",EINSIE    A,CH,4706.683N,00843.750E,910.0m,3,0,0.0m,,"Kat 1"
+"S82+LAUERZERSEE",LAUERZ    A,CH,4702.350N,00836.067E,470.0m,3,0,0.0m,,"Kat 1"
+"S83-Ibach Nord",S83Ibord,,4700.883N,00837.750E,460.0m,3,0,0.0m,,"Kat 2"
+"S84-IBACH SUED",IBACHS    B,CH,4700.500N,00838.467E,460.0m,3,0,0.0m,,"Kat 2"
+"S85-FLUEELEN",FLUEEL    B,CH,4653.250N,00836.733E,440.0m,3,0,0.0m,,"Kat 2"
+"S86-ALTDORF",ALTDOR    B,CH,4652.817N,00837.517E,444.0m,3,0,0.0m,,"Kat 2"
+"S90+SCHUEP_N",SCHUEN    A,CH,4657.683N,00801.233E,700.0m,3,0,0.0m,"SCHUEPFHEIM-N","Kat 1"
+"S91+SCHUEP_W",SCHUEW    A,CH,4656.217N,00759.500E,750.0m,3,0,0.0m,"SCHUEPFHEIM-W","Kat 1"
+"S92-TRUB",TRUB      B,CH,4656.283N,00752.283E,780.0m,3,0,0.0m,,"Kat 2"
+"S93+LANGNAU",LANGNA    A,CH,4656.117N,00748.150E,680.0m,3,0,0.0m,,"Kat 1"
+"S94-MARBACH",MARBAC    B,CH,4652.033N,00754.317E,830.0m,3,0,0.0m,,"Kat 2"
+"S95-WIMMIS",WIMMIS    B,CH,4639.833N,00736.200E,650.0m,3,0,0.0m,,"Kat 2"
+"Saal Kreuzberg",SAALK,DE,5018.533N,01022.400E,262.0m,4,120,590.0m,"122.475",
+"SAANEN",SAANEN LSGK,CH,4629.183N,00714.917E,1009.0m,5,80,1380.0m,"119.42","De"
+"Saarbruecken",SABRU,DE,4912.883N,00706.567E,323.0m,5,90,1990.0m,"118.350",
+"Saarlouis",SALOU,DE,4918.750N,00640.433E,341.0m,5,70,800.0m,"122.600","Saarlouis Dueren"
+"Saarmund",SAMUN,DE,5218.550N,01306.033E,52.0m,2,100,980.0m,"123.650",
+"SALEM UL",SALEM,DE,4746.950N,00915.933E,440.0m,2,60,300.0m,"      ","De"
+"SALGAREDA",SALGAR,IT,4542.200N,01232.183E,5.0m,2,150,700.0m,"118.00","It"
+"SALLANCHES",SALLAN LFHZ,FR,4557.233N,00638.317E,537.0m,5,170,590.0m,"123.50","Fr,Nil"
+"SALON",SALON  LFMY,FR,4336.167N,00506.483E,61.0m,5,160,1990.0m,"135.15","Fr"
+"SALON EYGUIER",SALON  LFNE,FR,4339.500N,00500.783E,76.0m,2,90,1290.0m,"119.57","Fr"
+"SALZBURG",SALZBU LOWS,AT,4747.667N,01300.200E,430.0m,5,160,2750.0m,"118.10","En/De,NO GLD ACT"
+"Salzgitter Druet",SALZG,DE,5209.250N,01025.600E,101.0m,5,70,620.0m,"122.850",
+"Salzgitter Scha",SALZS,DE,5201.850N,01021.733E,203.0m,2,110,950.0m,"122.500",
+"Salzgittersee",AMSAL,DE,5210.217N,01018.950E,81.0m,4,50,720.0m,"130.125",
+"Salzwedel",SALWE,DE,5249.683N,01118.983E,33.0m,4,90,810.0m,"122.200","Salzwedel Kgart"
+"SAMEDAN",SAMEDA LSZS,CH,4632.067N,00953.033E,1707.0m,5,30,1810.0m,"135.32","W115 En/De"
+"San Bernardi Pas",SABERG,CH,4629.767N,00910.250E,2065.0m,6,,,,
+"San Giacomo Pass",SAGIAC,IT,4627.500N,00827.150E,2313.0m,6,,,,
+"SAN MARCO",SAN MA,IT,4546.300N,01159.800E,100.0m,2,0,0.0m,"      ","UL. It"
+"San Maur",W84Saaur,IT,4604.017N,01322.217E,110.0m,2,90,500.0m,"121.900","W84 San Maur"
+"SAN VINCENZO",SAN VI,IT,4303.050N,01033.067E,13.0m,2,90,700.0m,"123.45","It"
+"SAN VITTORE",SAN VI LSXV,CH,4614.183N,00906.050E,261.0m,2,80,800.0m,"122.07","En/De,Mil,NO GLD ACT"
+"Sanetsch Pass",SANETP,CH,4619.900N,00717.167E,2252.0m,6,,,,
+"SANOK",SANOK,PL,4934.700N,02012.050E,280.0m,2,0,0.0m,"S-122.2",
+"Sarentino",Sarenino,IT,4636.060N,01133.780E,770.0m,2,170,380.0m,,
+"SARRE",SARRE  LFQU,FR,4857.083N,00704.633E,256.0m,5,90,860.0m,"123.50","SARRE UNION. Fr"
+"SARREBOURGBUH",SARREB LFGT,FR,4843.133N,00704.733E,265.0m,5,40,740.0m,"123.50","Fr,Nil"
+"SARZANA",SARZAN LIQW,IT,4405.283N,00959.283E,15.0m,5,180,890.0m,"119.65","It"
+"SAULDORF",SAULDO,DE,4757.417N,00902.083E,630.0m,2,10,300.0m,"120.97","SAULDORF BOLL UL"
+"SAULGAU",SAULGA EDTU,DE,4801.767N,00930.433E,582.0m,5,130,430.0m,"123.60","De"
+"SAVERNE",SAVERN LFQY,FR,4845.250N,00725.550E,192.0m,2,160,740.0m,"123.50","Fr,Nil"
+"Sazena",SAZEN,CZ,5019.483N,01415.533E,232.0m,2,150,1320.0m,"116.650","Sazena Kralipy"
+"Sazomin",SAZUL,CZ,4930.317N,01558.417E,579.0m,2,0,0.0m,,"Sazomin Ul Ploch"
+"SCHAEFHALDE",SCHAEF,DE,4841.617N,01005.950E,630.0m,2,50,940.0m,"123.35","SCHAEFHALDE STEI"
+"SCHAENIS",SCHAEN LSZX,CH,4710.283N,00902.367E,416.0m,5,160,520.0m,"120.60","De"
+"SCHAERDING",SCHAER LOLS,AT,4824.183N,01326.883E,326.0m,5,140,800.0m,"122.70","SCHAERDING SUBEN"
+"SCHAFFHAUSEN",SCHAFF LSPF,CH,4741.433N,00831.617E,463.0m,2,70,530.0m,"121.05","De"
+"Schaidasattel",SCHAID,AT,4628.800N,01428.083E,1075.0m,6,,,,
+"Schameder",SCHAM,DE,5100.000N,00818.417E,546.0m,2,100,740.0m,"122.025",
+"SCHARNSTEIN",SCHARN LOLC,AT,4753.883N,01356.317E,537.0m,2,50,590.0m,"122.50","Ge"
+"Scheuen",SCHEU,DE,5240.167N,01005.333E,55.0m,4,80,1120.0m,"123.500",
+"SCHLECHTENFELD",SCHLEC,DE,4817.050N,00940.433E,550.0m,2,320,160.0m,"123.50","De"
+"Schleswig Jagel",SCHLJ,DE,5427.567N,00930.983E,21.0m,5,50,2450.0m,"122.100",
+"Schleswig Kropp",SCHLE,DE,5425.533N,00932.517E,15.0m,2,90,760.0m,"118.675",
+"Schlierengrat",SCHLGR,CH,4655.317N,00808.083E,1748.0m,7,,,,
+"Schlierstadt",SCHLI,DE,4926.567N,00921.750E,335.0m,2,180,580.0m,"122.050",
+"Schmallenberg",SCHMA,DE,5109.683N,00815.633E,466.0m,2,100,860.0m,"122.425",
+"Schmidgaden",SCHMI,DE,4925.783N,01205.817E,381.0m,2,120,530.0m,"123.000",
+"Schmoldow",SCHMO,DE,5358.233N,01320.633E,34.0m,2,150,890.0m,"122.850",
+"Schnuckenheirepk",SCHNU,DE,5242.967N,01032.000E,99.0m,4,110,980.0m,"123.475",
+"SCHOENBERG",SCHOEN EDPK,DE,4802.867N,01230.033E,542.0m,2,80,450.0m,"118.55","De"
+"Schoenebeck",SCHOZ,DE,5159.783N,01147.533E,52.0m,2,70,800.0m,"123.000",
+"Schoenhagen",SCHOE,DE,5212.483N,01309.383E,40.0m,5,70,1200.0m,"122.700",
+"Schoepfl",SCHOEG,AT,4804.950N,01555.250E,882.0m,7,,,,
+"Schotten",SCHTT,DE,5032.083N,00908.733E,500.0m,4,50,380.0m,"123.500",
+"Schreckhof",SCHRE,DE,4921.150N,00907.317E,274.0m,4,150,700.0m,"123.500","Schreckhof Mosb"
+"Schwabach",SCWAB,DE,4916.117N,01100.567E,360.0m,5,110,530.0m,"135.425","Schwabach Heidb"
+"SCHWABMUENCHEN",SCHWAB EDNS,DE,4810.767N,01042.183E,552.0m,2,90,830.0m,"122.50","De"
+"Schwaebisch Hall",SCHWH,DE,4907.100N,00947.033E,399.0m,5,100,1530.0m,"129.225",
+"Schwandorf",SCHWD,DE,4920.433N,01211.117E,387.0m,2,110,830.0m,"121.200",
+"SCHWANN",SCHWAN,DE,4850.300N,00832.567E,470.0m,2,70,330.0m,"122.30","SCHWANN CONNWEIL"
+"Schwarzheide",SCHWA,DE,5129.383N,01352.767E,101.0m,2,80,830.0m,"129.975",
+"Schweighofen",SCWEI,DE,4901.900N,00759.400E,149.0m,2,80,620.0m,"123.000",
+"Schweinfurt",SCHWT,DE,5002.833N,01010.250E,241.0m,5,90,680.0m,"122.100","MIL"
+"Schweinfurtsue",SCHWS,DE,5000.633N,01015.083E,210.0m,2,100,980.0m,"119.975",
+"SCHWENNINGEN",SCHWEN EDTS,DE,4803.950N,00834.283E,662.0m,5,50,800.0m,"122.85","De"
+"Schwerin Parchim",SCHWE,DE,5325.617N,01147.000E,52.0m,5,60,3000.0m,"128.900",
+"Seedorf",SEEDO,DE,5320.133N,00915.567E,21.0m,2,60,430.0m,"119.650",
+"Segeletz",SEGEL,DE,5249.583N,01232.517E,43.0m,2,110,920.0m,"123.500",
+"Seigno Pass",COLDSE,FR,4545.100N,00648.417E,2516.0m,6,,,,
+"SEITENSTETTEN",SEITEN LOLT,AT,4803.033N,01439.783E,320.0m,2,100,830.0m,"123.60","Ge"
+"SELESTAT",SELEST,FR,4815.400N,00724.167E,478.0m,2,20,500.0m,"      ","Fr"
+"Semmering Pass",SEMMEP,AT,4737.967N,01549.783E,984.0m,6,,,,
+"SENTVID",SENTVI,SI,4557.650N,01451.300E,314.0m,2,140,560.0m,"      ","UL"
+"SERRES",SERRES LFTM,FR,4427.500N,00543.667E,716.0m,2,180,650.0m,"123.50","Fr,Nil"
+"Sevelen-N",SEVEN,DE,5129.317N,00625.700E,27.0m,4,110,560.0m,"123.500","Sevelen Nord"
+"Sevelen-S",SEVSU,DE,5129.150N,00625.650E,30.0m,4,110,320.0m,"123.500","Sevelen Sued"
+"SEYSSEL",SEYSSE,FR,4557.750N,00549.000E,200.0m,2,160,400.0m,"      ","Fr"
+"Sieben",ANSIE,DE,5203.450N,00948.633E,125.0m,4,80,570.0m,"123.500","An Den Sieben Be"
+"Siegen",SIEEI,DE,5050.267N,00800.833E,388.0m,4,90,740.0m,"123.375","Siegen Eisernhar"
+"Siegerland",SIEGE,DE,5042.467N,00804.983E,601.0m,5,130,1630.0m,"124.900",
+"SIENA",SIENA  LIQS,IT,4315.517N,01115.283E,195.0m,5,180,1260.0m,"122.60","SIENA AMPUGNANO. It"
+"Sierksdorf",SIERK,DE,5404.067N,01044.583E,24.0m,2,30,500.0m,"122.000","Sierksdorf Hof A"
+"Siewisch",SIEWI,DE,5141.233N,01412.517E,86.0m,2,80,510.0m,"123.425","UL"
+"Simplonpass",SIMPLO,CH,4614.750N,00801.767E,1997.0m,6,,,,
+"Singhofen",SINGH,DE,5016.233N,00751.217E,300.0m,4,40,770.0m,"123.150",
+"SINJ",SINJ   LDSS,HR,4341.900N,01640.217E,296.0m,2,80,1110.0m,"      ",
+"Sinsheim",SINSH,DE,4914.833N,00853.633E,158.0m,4,120,980.0m,"122.475",
+"SION",SION   LSGS,CH,4613.150N,00719.617E,482.0m,5,70,1990.0m,"118.27","Fr/En,Civ/Mil"
+"SISTERON",SISTER LFNS,FR,4417.250N,00555.783E,540.0m,2,180,1170.0m,"120.05","Fr"
+"SITTERDORF",SITTER LSZV,CH,4730.533N,00915.767E,506.0m,2,80,470.0m,"118.35","De,NO GLD ACT"
+"Skutec",SKUTE,CZ,4949.667N,01600.350E,488.0m,2,130,860.0m,"123.500",
+"Slany",SLANY,CZ,5013.000N,01405.317E,329.0m,2,70,740.0m,"122.400",
+"Slupsk Krepa",SLUPK,PL,5424.500N,01705.733E,76.0m,5,100,710.0m,"122.200",
+"Slupsk Redzikowo",SLUPS,PL,5428.733N,01706.450E,64.0m,5,90,2210.0m,"124.500",
+"Sobeslav",SOBES,CZ,4914.800N,01442.817E,409.0m,2,180,740.0m,"122.200",
+"SOBOTA",MURSKA LJMS,SI,4637.900N,01610.800E,185.0m,2,90,1200.0m,"123.50","MURSKA SOBOTA"
+"SOCHACZEW",SOCHAZEW,PL,5211.917N,02017.567E,92.0m,2,0,0.0m,"W-124.5","W-124.5"
+"Soelkpass",SOELKP,AT,4716.317N,01404.800E,1788.0m,6,,,,
+"Soest",SOEST,DE,5134.683N,00812.883E,119.0m,2,70,800.0m,"122.600","Soest - Bad Sassendorf"
+"Soiernspitze",SOIERN,DE,4728.883N,01121.433E,2257.0m,7,,,,
+"SOLLIERES",SOLLIE LFKD,FR,4515.267N,00648.033E,1299.0m,2,20,620.0m,"123.50","SOLLIERES SARDIE. Fr"
+"Sommerda",SOEMM,DE,5111.950N,01111.550E,137.0m,2,70,770.0m,"124.000",
+"SONDRIO",SONDRI,IT,4609.250N,00947.883E,282.0m,5,70,680.0m,"129.50","W119 SONDRIO CAIOLOIt"
+"SONNEN",SONNEN EDPS,DE,4840.967N,01341.750E,823.0m,5,20,400.0m,"122.05","De"
+"Sontra",SONTR,DE,5105.250N,00954.933E,390.0m,4,120,500.0m,"123.500","Sontra Dornberg"
+"Spangdahlem",SPANG,DE,4958.367N,00641.550E,366.0m,5,50,3060.0m,"122.200",
+"Speck",SPECK  LSZK,CH,4722.583N,00845.450E,537.0m,2,120,590.0m,"120.35","Speck Fehraltorf"
+"Speyer",SPEYE,DE,4918.283N,00827.100E,95.0m,5,170,1230.0m,"118.075",
+"SPITZERBERG",SPITZE LOAS,AT,4806.100N,01656.050E,189.0m,2,150,680.0m,"122.37","En/De"
+"Spitzingsattel",SPITZS,DE,4740.350N,01153.200E,1127.0m,6,,,,
+"SPLIT",SPLIT  LDSP,HR,4332.333N,01617.883E,24.0m,5,50,2540.0m,"124.67","SPLIT KASTELA"
+"Spluegen Pass",SPLUEP,CH,4630.333N,00919.817E,2115.0m,6,,,,
+"Spremberg",SPREM,DE,5134.617N,01408.217E,116.0m,5,40,1990.0m,"134.850","Spremberg Welzow"
+"Sprenica?",?Spreica,SI,4617.680N,01329.650E,0.0m,3,300,0.0m,,"Leichte Geländestufe in der Wiese!"
+"Sprossen",SPROS,DE,5102.583N,01213.983E,204.0m,2,90,740.0m,"120.975",
+"ST AUBAN",ST AUB LFMX,FR,4403.600N,00559.450E,460.0m,2,30,1200.0m,"122.30","Fr,123.65Gld,129.900Gld"
+"St Bernhard Pass",STBERP,CH,4552.150N,00710.317E,2469.0m,6,,,,
+"St Bonnet Col",STBOBA,FR,4441.000N,00604.500E,1248.0m,6,,,,
+"ST CHRISTOL",ST CHR LFXI,FR,4403.150N,00529.633E,835.0m,5,160,1690.0m,"122.10","ST CHRISTOL URGE. Fr"
+"ST CLAUDE",ST CLA LFKZ,FR,4623.333N,00546.300E,625.0m,2,50,500.0m,"123.50","ST CLAUDE PRATZ. Fr,Anflug 23"
+"ST CREPIN",MT DAU LFNC,FR,4442.100N,00635.983E,902.0m,5,160,860.0m,"123.50","Fr"
+"ST DIE REMOME",ST DIE LFGY,FR,4816.033N,00700.483E,360.0m,5,70,860.0m,"123.50","Fr,Nil"
+"ST DONATH",ST DON,AT,4644.500N,01424.417E,536.0m,2,80,300.0m,"      ","UL"
+"ST GALLEN",ST GAL LSZR,CH,4729.100N,00933.717E,399.0m,5,100,1500.0m,"118.65","ST GALLEN ALTENRHEIN. En/De,123.775Atis"
+"St Genis",St Genis,FR,4423.233N,00550.733E,1270.0m,7,,,,
+"ST GEORGEN",ST GEO LOLG,AT,4806.200N,01457.067E,253.0m,2,40,460.0m,"122.40","Ge"
+"ST GIUSTINA",ST GIU,IT,4605.267N,01203.150E,290.0m,2,70,300.0m,"      ","UL. It"
+"ST JEAN AVELAN",ST JEA LFKH,FR,4531.000N,00540.833E,300.0m,2,30,500.0m,"123.50","Fr,Nil"
+"ST JEAN EN ROYAN",ST JEA LFKE,FR,4501.667N,00518.600E,264.0m,2,130,650.0m,"123.50","Fr,Nil"
+"ST JOHANN",ST JOH LOIJ,AT,4731.217N,01226.967E,671.0m,5,130,740.0m,"120.35","W2Ge"
+"St Jorio Pass",STJORI,IT,4609.983N,00909.567E,2014.0m,6,,,,
+"St Michaelisdonn",STMIC,DE,5358.700N,00908.600E,37.0m,5,80,680.0m,"122.500",
+"St Peter",STPET,DE,5418.533N,00841.200E,3.0m,5,70,650.0m,"119.150","St Peter Ording"
+"ST RAPHAE",FREJUS LFTU,FR,4325.050N,00644.183E,2.0m,5,170,1200.0m,"130.20","FREJUS ST RAPHAE. Fr"
+"ST REMY",ST REM,FR,4825.000N,00621.600E,303.0m,2,90,400.0m,"123.50","ST REMY AUX BOIS. Fr"
+"ST STEPHAN",ST STE LSMH,CH,4630.050N,00724.617E,1008.0m,5,150,1400.0m,"120.05","De,NO LD ACT"
+"St Victoire",STVICT,FR,4331.650N,00534.700E,963.0m,7,,,,
+"Stade",STADE,DE,5333.667N,00929.950E,18.0m,5,110,660.0m,"123.000",
+"Stadtlohn",STADT,DE,5159.750N,00650.433E,49.0m,5,110,980.0m,"119.200","Stadtlohn Vreden"
+"STAHRINGEN",STAHRI,DE,4748.217N,00858.767E,411.0m,2,40,800.0m,"130.12","STAHRINGEN WAHLW"
+"Stalowa Wola",STALO,PL,5037.650N,02159.900E,149.0m,2,100,890.0m,"122.2",
+"Stankov",STANK,CZ,4934.000N,01302.917E,427.0m,2,70,650.0m,"123.600",
+"Stauffenberg",AMSTA,DE,5121.700N,00937.767E,350.0m,4,90,330.0m,"123.500",
+"Stauffenbuehl",STAUF,DE,5109.583N,01002.833E,245.0m,4,20,920.0m,"123.500",
+"Stechow",STECH,DE,5239.033N,01229.267E,46.0m,2,40,500.0m,"122.200","Stechow Ferchesa"
+"Steinberg",STESU,DE,5257.400N,00733.417E,30.0m,4,90,860.0m,"123.500","Steinberg Surwol"
+"Steinberg Wessel",STEIW,DE,5205.033N,01001.117E,190.0m,4,90,770.0m,"123.500",
+"Stendal",STEND,DE,5237.733N,01149.200E,55.0m,5,80,1990.0m,"122.400","Stendal-Borstel"
+"STERZING",STERZI,IT,4653.217N,01126.433E,927.0m,2,140,300.0m,"      ","W21 VipitenoIt"
+"Stichovice",STICH,CZ,4929.167N,01703.333E,256.0m,2,130,860.0m,"120.675","Stichovice Pluml"
+"Stilfserjoch Pass",STILFS,IT,4631.717N,01027.183E,2750.0m,6,,,,
+"STILLBERGHOF",STILLB,DE,4843.850N,01050.117E,504.0m,2,90,710.0m,"123.47","De"
+"STOCKERAU",STOCKE LOAU,AT,4824.550N,01611.467E,210.0m,5,70,790.0m,"122.85","En/De"
+"Stoelln",STOEL,DE,5244.467N,01223.400E,40.0m,2,80,830.0m,"123.500","Stoelln Rhinow"
+"Stojen",Stojen,AT,4739.475N,01539.140E,750.0m,3,90,320.0m,,"Kat 2"
+"Stolberg",STOLB,DE,5046.233N,00616.917E,260.0m,4,30,770.0m,"123.500","Stolberg Diepenl"
+"Strakonice",STRAK,CZ,4915.100N,01353.567E,421.0m,2,30,890.0m,"123.600",
+"Stralsund",STRAL,DE,5420.150N,01302.617E,15.0m,2,50,890.0m,"118.625",
+"STRASBOURG",STRASB LFST,FR,4832.433N,00737.933E,156.0m,5,50,2390.0m,"126.87","Fr"
+"STRASBOURGNEU",STRASB LFGC,FR,4833.267N,00746.650E,140.0m,2,180,800.0m,"119.25","Fr"
+"STRASSHAM",STRASS,DE,4810.783N,01155.633E,515.0m,2,30,400.0m,"123.42","UL"
+"STRAUBING",STRAUB EDMS,DE,4854.067N,01231.100E,320.0m,5,90,1350.0m,"127.15","STRAUBING  WALLM"
+"Strausberg",STRAU,DE,5234.817N,01354.900E,79.0m,5,50,1200.0m,"123.050",
+"Strunkovice",STRUN,CZ,4904.950N,01404.550E,479.0m,2,150,890.0m,"123.500",
+"Stuede",STUED,DE,5233.817N,01041.050E,75.0m,4,110,920.0m,"123.150","Stuede Bernstein"
+"Stuppach+",Stuppch+,AT,4741.030N,01558.460E,420.0m,3,60,520.0m,,"Dieses Feld wird am Westende durch einen gebäudehohen Abhang begrenzt. Es gibt keine Quergräben zwischen den Sektionen des Feldes, der Bewuchs kann aber verschieden sein wie in den Photos.Kat 1"
+"STUTTGART",STUTTG EDDS,DE,4841.400N,00913.317E,387.0m,5,70,3330.0m,"118.80","De,119.200App"
+"Suhl",SUHLG,DE,5037.950N,01043.567E,588.0m,2,100,560.0m,"122.725","Suhl Goldlauter"
+"Sultmer Berg",SULTM,DE,5143.767N,00959.533E,220.0m,4,180,550.0m,"123.150",
+"SULZ",SULZ,DE,4820.500N,00838.500E,454.0m,2,40,350.0m,"123.42","De"
+"Sumperk",SUMPE,CZ,4957.633N,01701.067E,335.0m,2,60,680.0m,"122.600",
+"Sundern",SUNDE,DE,5118.167N,00758.750E,350.0m,4,80,460.0m,"123.500","Sundern Seidfel"
+"Surava-",Surava-,CH,4639.808N,00936.995E,905.0m,3,190,200.0m,,"Liegt zwischen Tiefencastel und Alvaneu-Bad. Gelände steigt wahrscheinlich nach Süd-West an. Kat 2"
+"Susa+",Susa+,IT,4506.750N,00717.230E,380.0m,3,90,350.0m,,"Talwind kommt meist aus Osten. Kat 1"
+"Susten Pass",SUSTEN,CH,4643.733N,00826.850E,2224.0m,6,,,,
+"Suwalki",SUWAL,PL,5404.367N,02253.950E,177.0m,2,60,650.0m,"122.8","A-122.8"
+"Swidnik",SWIDN,PL,5113.917N,02241.417E,201.0m,2,60,1110.0m,"126.000",
+"Swidwin",SWIDW,PL,5347.433N,01549.583E,116.0m,5,110,2510.0m,"124.500",
+"Swiebodzice",Swiebice,PL,5028.550N,16316.650E,0.0m,2,0,0.0m,,
+"Szczecin Dabie",SZCZD,PL,5323.533N,01438.033E,1.0m,2,90,890.0m,"122.2",
+"Szczecin Golenio",SZCZE,PL,5335.083N,01454.133E,46.0m,5,130,2510.0m,"118.500","TWR-118.5"
+"SZOMBATHELY",SZOMBA LHSY,HU,4717.000N,01638.000E,223.0m,2,160,1600.0m,"      ","Hu"
+"Szprotawa",SZPRO,PL,5133.900N,01534.967E,125.0m,5,80,2000.0m,,"MIL"
+"Szymany",SZYMA,PL,5328.900N,02056.267E,140.0m,5,20,1990.0m,"118.025","TWR-118.025 W-124.5 126.3"
+"Tabor",TABOR,CZ,4923.467N,01442.500E,439.0m,2,120,1110.0m,"122.600",
+"Tabor Vsechov",TABOV,CZ,4926.183N,01437.250E,492.0m,2,0,0.0m,,"UL"
+"Tachov",TACHO,CZ,4947.867N,01242.417E,500.0m,2,90,1100.0m,"123.400","Tachov Oldrichov"
+"TANNHEIM",TANNHE EDMT,DE,4800.650N,01006.050E,579.0m,2,90,1010.0m,"122.82","De"
+"Tarmstedt",TARMS,DE,5315.083N,00906.533E,39.0m,4,50,700.0m,"123.150",
+"Tauberbischofshe",TAUBE,DE,4938.900N,00937.933E,282.0m,4,120,890.0m,"122.200",
+"Taucha",TAUCH,DE,5123.683N,01232.217E,149.0m,2,70,590.0m,"122.000",
+"TECHEN-",TECHEN,AT,4642.670N,01317.950E,935.0m,3,150,290.0m,"?TECHENDORF","Kat 2"
+"Teisendorf",TEISE,DE,4749.600N,01250.700E,578.0m,4,150,250.0m,"123.500","Teisendorf Pank"
+"Templin",TEMPL,DE,5301.917N,01332.550E,61.0m,5,90,980.0m,"123.475","Templin Gr Doel"
+"test 2",,,4614.367N,00747.583E,2753.0m,1,,,,
+"test 3",test 3,,4551.483N,00650.533E,3403.0m,1,,,,
+"test1",,,4622.583N,00748.567E,3020.0m,1,,,,
+"TETE DES CHAM",LA TET,FR,4755.133N,00649.167E,342.0m,2,90,560.0m,"      ","LA TETE DES CHAM. Fr"
+"Thalmaessing",THALM,DE,4903.867N,01112.567E,576.0m,2,170,400.0m,"123.650","Thalmaessing Wai"
+"THANNHAUSEN",THANNH EDNU,DE,4817.233N,01026.650E,491.0m,2,80,500.0m,"118.17","De"
+"THIENE",THIENE LIDH,IT,4540.533N,01129.783E,104.0m,2,90,890.0m,"126.90","W93It"
+"THILLOT",THILLO,FR,4753.667N,00645.117E,700.0m,2,0,0.0m,"      ","UL. Fr"
+"THUN",THUN A LSZW,CH,4645.383N,00736.033E,561.0m,2,140,800.0m,"123.25","THUN ALLMEND"
+"TIL CHATEL",TIL CH LFET,FR,4732.850N,00512.683E,287.0m,2,20,1050.0m,"123.50","Fr,Nil"
+"TIMMERSDORF",TIMMER LOGT,AT,4722.783N,01457.850E,620.0m,2,120,620.0m,"122.30","W108 TIMMERSDORFDe"
+"Tirschenreuth",TIRSC,DE,4952.417N,01219.500E,490.0m,4,90,640.0m,"123.500",
+"Titschendorf",TITSC,DE,5023.833N,01131.367E,660.0m,4,10,480.0m,"122.300",
+"TOBLACH",TOBLAC,IT,4643.633N,01213.633E,1240.0m,2,120,1000.0m,"      ","It,Mil"
+"TOMASZOW",TOMASOWM,PL,5135.083N,02005.933E,183.0m,2,0,0.0m,"W-124.5","TOMASZOW Mazowiecki"
+"Torgau",TORGA,DE,5134.267N,01303.133E,82.0m,2,80,800.0m,"122.300","Torgau Beilrode"
+"TORINO",TORINO LIMA,IT,4505.167N,00736.217E,290.0m,5,100,1050.0m,"119.15","TORINO AERIT. It"
+"TORINO CASELLE",TORINO LIMF,IT,4512.100N,00738.967E,302.0m,5,180,3300.0m,"118.50","It"
+"Torun",TORUN,PL,5301.750N,01832.750E,49.0m,5,20,1260.0m,"122.2",
+"Touain",TOUAI,CZ,5005.183N,01257.167E,652.0m,2,80,1290.0m,"122.600",
+"TOUL",TOUL R LFSL,FR,4846.800N,00558.800E,287.0m,5,40,2390.0m,"122.10","TOUL ROSIERES CD. Fr"
+"TOULON",TOULON LFTR,FR,4304.967N,00556.033E,1.0m,5,70,400.0m,"118.82","Fr"
+"TOUR DU PIGLD",LA TOU LFKP,FR,4533.600N,00523.083E,320.0m,2,120,560.0m,"123.50","LA TOUR DU PIGLD. Fr,Nil"
+"Traben",TRABE,DE,4958.067N,00706.700E,275.0m,2,180,700.0m,"123.000","Traben Trarbach"
+"Tre Croci Pass",TRECRO,IT,4633.533N,01212.117E,1805.0m,6,,,,
+"Treffen",Treffen,AT,4639.600N,01352.000E,515.0m,3,140,500.0m,,"Kat A."
+"TRENTO",TRENTO LIDT,IT,4601.317N,01107.533E,186.0m,5,90,980.0m,"119.65","W70 TRENTO MATTARELLIt"
+"TREUCHTLINGEN",TREUCH EDNT,DE,4859.750N,01053.100E,412.0m,2,150,650.0m,"122.60","De"
+"TREVISIO ISTRANA",TREVIS LIPS,IT,4541.100N,01204.967E,43.0m,5,80,3000.0m,"122.10","It"
+"TREVISO S ANGELO",TREVIS LIPH,IT,4539.133N,01211.917E,18.0m,5,70,2480.0m,"118.70","It"
+"TRIEBEN",TRIEBE LOGI,AT,4729.617N,01429.800E,695.0m,5,110,770.0m,"122.50","W14 TRIEBENDe"
+"TRIENGEN",TRIENG LSPN,CH,4713.600N,00804.683E,485.0m,5,150,370.0m,"124.52","De,NO GLD ACT"
+"Trier",TRIER,DE,4951.817N,00647.283E,204.0m,5,50,1200.0m,"122.050",
+"Troestau",TROES,DE,5001.200N,01155.867E,570.0m,4,130,480.0m,"123.350",
+"Tschirgant",TSCHIR,AT,4714.533N,01047.817E,2370.0m,7,,,,
+"TULLN",TULLN  LOXT,AT,4819.250N,01607.100E,177.0m,2,90,400.0m,"118.90","TULLN LANGENLEBA. En/De,Mil"
+"Turnen",TURNEN,CH,4637.667N,00729.583E,2079.0m,7,,,,
+"TURTMANN",TURTMA LSMJ,CH,4618.150N,00742.833E,625.0m,2,80,800.0m,"120.42","En/Fr,Mil,NO GLD ACT"
+"Tutow",TUTOW,DE,5355.317N,01313.133E,6.0m,5,170,2210.0m,"130.125","Tutow Demmin"
+"Tynec",PANEN,CZ,5018.383N,01356.050E,368.0m,2,80,400.0m,"130.550","Panensky Tynec A"
+"UDBINA",UDBINA LDZU,HR,4433.333N,01546.917E,750.0m,5,130,2750.0m,"118.20",
+"UDINE",UDINE  LIPD,IT,4601.933N,01311.217E,95.0m,5,40,710.0m,"119.05","It, Left downwind for thrs 04W83 UDINE CAMPOFORMI"
+"UEBERSBERG",UEBERS,DE,4827.550N,00917.833E,780.0m,2,80,1020.0m,"123.15","De"
+"Uelzen",UELZE,DE,5259.017N,01027.933E,76.0m,5,90,700.0m,"130.900",
+"Uetersen",UETER,DE,5338.817N,00942.250E,6.0m,2,90,1110.0m,"122.700",
+"Ulm",FRIUL,DE,5301.767N,00748.000E,7.0m,2,80,340.0m,"124.000","Friesoythe Ulm"
+"ULRICHEN",ULRICH,CH,4630.200N,00818.217E,1340.0m,2,50,500.0m,"      ","geschlossen"
+"Umbrail",UMBRAI,IT,4633.017N,01024.850E,3033.0m,7,,,,
+"Ummern",UMMER,DE,5237.200N,01024.617E,65.0m,4,130,560.0m,"123.500",
+"UNIJE",UNIJE  LDPN,HR,4437.900N,01414.967E,12.0m,2,50,830.0m,"      ",
+"Unterschuepf",UNTES,DE,4930.933N,00940.100E,351.0m,2,80,650.0m,"122.600",
+"Untert-",Untert-,AT,4801.925N,01555.365E,450.0m,3,340,350.0m,"UNTERTRIESTING ","Kat 2"
+"UNTERWOESSEN",UNTERW,DE,4743.783N,01226.283E,555.0m,2,60,800.0m,"122.30","De"
+"URMATT",URMATT,FR,4831.900N,00718.967E,415.0m,2,80,500.0m,"      ","Fr"
+"Urspring",URSPR,DE,4833.233N,00954.167E,640.0m,4,150,640.0m,"123.500",
+"URSPRING",URSPRI,DE,4833.233N,00954.167E,640.0m,2,150,640.0m,"      ","De"
+"Uslar",USLAR,DE,5139.733N,00936.317E,260.0m,4,70,550.0m,"129.975",
+"Usti",USTIM,CZ,4958.717N,01625.583E,409.0m,2,140,890.0m,"122.200","Usti Mad Orlici"
+"Utscheid",UTSCH,DE,4959.850N,00620.600E,424.0m,4,60,740.0m,"123.350",
+"VAIHINGEN",VAIHIN,DE,4856.183N,00858.717E,312.0m,2,80,1000.0m,"123.37","De"
+"VAL DI CHIENTI",VAL DI,IT,4312.233N,01148.917E,344.0m,5,90,1200.0m,"      ","It"
+"VALBREMBO",VALBRE LILV,IT,4543.250N,00935.600E,232.0m,2,90,680.0m,"122.60","W135It"
+"VALLE GAFFARO",VALLE,IT,4450.000N,01213.933E,2.0m,2,160,900.0m,,"It"
+"VALLOIRE",VALLOI,FR,4507.267N,00625.100E,1700.0m,5,180,300.0m,"      ","Fr"
+"VARAZDIN",VARAZD LDVA,HR,4617.567N,01623.083E,183.0m,5,0,0.0m,"121.80",
+"VARESE",VARESE LILN,IT,4544.500N,00853.300E,320.0m,5,180,1410.0m,"128.55","VARESE VENEGONO. It"
+"Varrelbusch",VARRE,DE,5254.417N,00802.433E,40.0m,2,90,920.0m,"123.000",
+"VELENJE",VELENJ LJVE,SI,4623.700N,01502.700E,381.0m,5,150,750.0m,"122.50","VELENJE LAJSE"
+"VELIKA GORICA",VELIKA LDZB,HR,4538.667N,01607.750E,104.0m,2,140,890.0m,"      ",
+"Velke Porici",VELKE,CZ,5028.067N,01612.333E,405.0m,2,90,740.0m,"122.200",
+"VENEZIA SAN NICO",VENEZI LIPV,IT,4525.733N,01223.283E,3.0m,2,60,1050.0m,"120.00","It"
+"VENEZIA TESSERA",VENEZI LIPZ,IT,4530.317N,01221.100E,3.0m,5,40,3300.0m,"120.20","It"
+"VERCELLI",VERCEL LILI,IT,4518.667N,00825.050E,128.0m,2,90,770.0m,"122.60","It"
+"Verden",VERDE,DE,5257.917N,00916.967E,43.0m,2,130,520.0m,"122.400","Verden Scharnh"
+"VERGIATE",VERGIA LILG,IT,4542.717N,00842.083E,262.0m,5,150,1300.0m,"119.77","It"
+"VERONA",VERONA LIPN,IT,4528.383N,01055.617E,88.0m,5,80,1010.0m,"122.05","It, Stay at N of the airfieldW95 VERONA BOSCOMANT"
+"VERONA VILLAFRAN",VERONA LIPX,IT,4523.767N,01053.233E,73.0m,5,50,2750.0m,"118.65","It"
+"Vert Col Frontie",VERTCO,FR,4503.233N,00535.383E,1766.0m,6,,,,
+"VERZEJ",VERZEJ,SI,4634.417N,01611.750E,179.0m,2,40,400.0m,"      ","UL"
+"VESOUL",VESOUL LFQW,FR,4738.367N,00612.283E,381.0m,5,80,1440.0m,"118.15","VESOUL FROTEY. Fr"
+"Viamaggio Passo",VIAMAG,IT,4340.900N,01207.033E,980.0m,6,,,,
+"VICENZA",VICENZ LIPT,IT,4534.417N,01131.767E,40.0m,5,180,1500.0m,"122.10","W99It"
+"Vielbrunn",VIELB,DE,4943.183N,00904.900E,460.0m,4,170,700.0m,"123.150",
+"VILSBIBURG",VILSBI EDMP,DE,4825.600N,01220.733E,442.0m,2,30,430.0m,"123.00","De"
+"Vilseck",VILSE,DE,4938.017N,01146.033E,412.0m,5,100,1080.0m,"122.100","Vilseck Grafenwo"
+"VILSHOFEN",VILSHO EDMV,DE,4838.100N,01311.733E,302.0m,5,120,1140.0m,"119.17","De"
+"VINON",VINON  LFNF,FR,4344.267N,00547.017E,274.0m,2,100,1260.0m,"118.15","Fr,130.12Gld"
+"Vinsebeck",VINSE,DE,5150.533N,00900.917E,247.0m,4,170,800.0m,"122.200","Vinsebeck Frankn"
+"VITTEL",VITTEL LFSZ,FR,4813.433N,00556.083E,329.0m,2,140,1200.0m,"123.50","VITTEL CAMPPDEEC. Fr"
+"VIZZOLA",VIZZOL,IT,4537.833N,00842.467E,232.0m,2,0,0.0m,"      ","It"
+"Vlasin",VLASI,CZ,4943.733N,01452.733E,433.0m,2,130,740.0m,"123.500",
+"Vodochody",VODOC,CZ,5013.000N,01423.733E,281.0m,5,100,2510.0m,"133.075",
+"Voelkleshofen",VOLKL,DE,4900.567N,00921.283E,399.0m,4,80,680.0m,"130.125",
+"VOELTENDORF",VOELTE LOAD,AT,4809.617N,01535.217E,323.0m,2,80,490.0m,"122.65","De"
+"VOESLAU",VOESLA LOAV,AT,4757.900N,01615.633E,235.0m,2,80,920.0m,"118.60","En/De"
+"VOGHERA",VOGHER LILH,IT,4457.633N,00900.583E,128.0m,5,160,980.0m,"119.65","VOGHERA RIVANAZZ. It"
+"VOGTAREUTH",VOGTAR EDNV,DE,4756.767N,01212.283E,469.0m,5,60,500.0m,"121.02","De"
+"Vrchlabi",VRCHL,CZ,5037.450N,01538.783E,491.0m,2,110,830.0m,"125.325",
+"VSAR",VSAR C LDPV,HR,4508.500N,01337.833E,37.0m,5,10,740.0m,"126.65","VSAR CRLJENKA"
+"Vyskov",VYSKO,CZ,4918.017N,01701.517E,281.0m,2,20,1260.0m,"123.500",
+"Vysoke Myto",VYSOK,CZ,4955.617N,01611.150E,302.0m,5,120,1200.0m,"130.600",
+"W.Aspres",Wv.N.res,FR,4430.183N,00544.583E,750.0m,1,,,,
+"W.Biberach",Wv.O.ach,DE,4820.150N,00803.967E,1100.0m,1,,,,"Wave Ost"
+"W.Chabre",Wv.N.bre,FR,4415.900N,00546.050E,1700.0m,1,,,,"Wave Nord"
+"W.GG1",Wv.O.BB1,DE,4849.400N,00820.200E,1400.0m,1,,,,"Gaggenau, Wave Ost"
+"W.GG2",Wv.O.BB2,DE,4848.083N,00819.900E,1400.0m,1,,,,"Gagenau, Wave Ost"
+"W.Kandel",Wv.O.el1,DE,4804.133N,00756.683E,1300.0m,1,,,,"Wave Ost"
+"W.Lure1",Wv.N.re1,FR,4404.367N,00551.317E,820.0m,1,,,,"Wave Nord"
+"W.Moosberg",Wv.O.erg,DE,4827.283N,00801.100E,1300.0m,1,,,,"Wave Ost"
+"W.NS1",Wv.W.,DE,4923.067N,00810.100E,1300.0m,1,,,,"Neustadt, Wave West"
+"W.NS2",Wv.W.dt2,DE,4917.000N,00806.433E,1400.0m,1,,,,"Neustadt, Wave West"
+"W.NS3",Wv.W.dt3,DE,4915.233N,00804.967E,218.0m,1,,,,"Neustadt, Wave West"
+"W.Oppenau",WV.O.nau,DE,4836.483N,00809.500E,2000.0m,1,,,,"Wave Ost"
+"W.PicBure",Wv.N.ure,FR,4436.150N,00557.933E,2500.0m,1,,,,"Wave Nord"
+"W.Selles",Wv.N.les,FR,4424.533N,00550.700E,1700.0m,1,,,,"Wave Nord"
+"W102 Primula",W102Pula,,4608.500N,01316.533E,130.0m,2,0,0.0m,,"Only for gliders haning 15 m wingspan."
+"W103 DIVACA",DIVACA,SI,4541.133N,01359.317E,420.0m,2,120,800.0m,"123.50",
+"W117 Bormio",,,4627.483N,01022.033E,1200.0m,3,0,0.0m,,"Attention to the waviness of the field after the factory."
+"W118 POSCHIAVO",POSCHI,CH,4618.100N,01004.433E,980.0m,3,0,0.0m,,
+"W120 SAMOLACO",SAMOLA,IT,4614.167N,00925.867E,210.0m,2,150,300.0m,"      ","UL. It"
+"W123?SONDALO",SONDAL,IT,4619.000N,01019.000E,880.0m,3,0,0.0m,,"Landing direction to N with Left downwind."
+"W125 Chiuro",W125Curo,,4609.617N,01000.867E,320.0m,3,0,0.0m,,"Having landing 270° touch down after 100m from the street."
+"W126 VEZZA",VEZZA,IT,4614.200N,01024.167E,1040.0m,3,0,0.0m,,"VEZZA-D-OGLI. Atterrare per 270 con circuito DX"
+"W127 PELLIZI",PELLIZ,IT,4618.583N,01046.200E,900.0m,3,0,0.0m,,
+"W128 MALONNO",MALONN,IT,4606.700N,01019.217E,600.0m,3,0,0.0m,,"Left downwind and Landing direction 220°"
+"W129 PIANCOGNO",PIANCO,IT,4555.000N,01013.000E,240.0m,3,0,0.0m,,
+"W130 LOVERE",LOVERE,IT,4549.000N,01004.650E,187.0m,3,0,0.0m,,
+"W131 ROVETTA",ROVETT,IT,4553.200N,00959.217E,630.0m,3,0,0.0m,,"Landing direction N."
+"W132 Pelugo",,,4605.600N,01043.800E,680.0m,3,0,0.0m,,"Landing direction N."
+"W133 Storo",,,4549.883N,01033.533E,395.0m,3,0,0.0m,,"Corn field land only during spring time."
+"W134 PASTURO",PASTUR,IT,4556.683N,00927.333E,600.0m,3,160,0.0m,,"Landing direction 160°."
+"W137 LA-PONCIA",LA-PON,IT,4547.783N,00919.183E,225.0m,3,0,0.0m,,
+"W139 Paré",,,4548.383N,00859.400E,350.0m,3,0,0.0m,,"The data are from the web site: www.acao.it."
+"W141 Arcisat",,,4550.967N,00853.100E,350.0m,3,0,0.0m,,"The data are from the web site: www.acao.it."
+"W142 Brebbia",,,4549.200N,00839.200E,260.0m,3,0,0.0m,,"DATI PROVENIENTI DAL SITO www.acao.it . The data are from the web site: www.acao.it."
+"W143 Brezzo",,,4557.983N,00842.000E,320.0m,3,0,0.0m,,"The data are from the web site: www.acao.it."
+"W144 PORLEZ2",PORLE2,IT,4602.200N,00908.750E,280.0m,3,0,0.0m,,
+"W62 Enemonzo",W62Ennzo,,4623.000N,01253.000E,380.0m,2,0,0.0m,,"Downwind for glider at N of the field."
+"W63 CARNIA",CARNIA    A,IT,4622.550N,01307.817E,200.0m,3,110,200.0m,,"Landing direction 115°. Kat 1. A40"
+"W64 Rivoli",W64Rilid,,4614.150N,01304.400E,170.0m,2,0,0.0m,"122.600","Left downwind for landinding direction 03"
+"W71 BARCO",BARCO,IT,4600.000N,01119.000E,430.0m,2,90,300.0m,"      ","UL. It, Landing direction 06"
+"W80 Laghi",,,4558.367N,01211.550E,180.0m,3,0,0.0m,,
+"W85 Gagliano",,,4603.333N,01325.667E,100.0m,2,0,0.0m,,
+"W87 GORIZIA",GORIZI LIPG,IT,4554.417N,01335.967E,64.0m,2,90,1110.0m,"199.85","It"
+"W91 Bassano",W91Baano,IT,4545.300N,01141.633E,110.0m,2,0,0.0m,,"Landing direction 10°."
+"W94 Caprino",W94Caino,,4535.800N,01046.450E,250.0m,2,180,600.0m,,"Landing direction from S to N."
+"W98 Montebel",,,4525.933N,01123.217E,150.0m,3,0,0.0m,,"www.landewiesen.org"
+"WAECHTERSBERG",WAECHT,DE,4836.900N,00845.433E,597.0m,2,70,620.0m,"123.47","De"
+"Wahlstedt",WAHLS,DE,5358.167N,01013.300E,40.0m,2,110,590.0m,"121.025",
+"Waldeck",WALDE,DE,5113.550N,00903.317E,408.0m,4,10,570.0m,"123.475",
+"Wallberg",WALLBE,DE,4739.950N,01147.800E,1722.0m,7,,,,
+"Walldorf",WALDO,DE,4918.233N,00839.533E,107.0m,2,180,500.0m,"118.275",
+"Wallduern",WALLD,DE,4934.900N,00924.133E,402.0m,5,60,800.0m,"122.750",
+"Walsrode",WALSR,DE,5253.300N,00936.050E,60.0m,4,80,640.0m,"123.500","Walsrode Luisenh"
+"WALXHEIM",WALXHE,DE,4857.300N,01019.383E,484.0m,2,90,400.0m,"120.97","WALXHEIM UNTERSC UL"
+"WANGEN  Kissleg",WANGEN,DE,4745.267N,00951.417E,640.0m,2,120,1100.0m,"123.50","De"
+"WANGEN Lachen",WANGEN LSPV,CH,4712.283N,00852.050E,409.0m,5,80,500.0m,"123.20","De,NO GLD ACT"
+"Wangerooge",WANGE,DE,5347.233N,00754.950E,3.0m,5,100,830.0m,"122.400",
+"Wanlo",WANLO,DE,5106.050N,00623.617E,76.0m,4,80,1000.0m,"123.500","Wanlo Niersquell"
+"Warburg",WARBU,DE,5129.883N,00905.150E,171.0m,4,130,910.0m,"123.500","Warburg Heinber"
+"Waren",WAREN,DE,5334.117N,01239.167E,85.0m,2,40,800.0m,"130.325","Waren Vielist"
+"WARNGAU",WARNGA,DE,4749.467N,01142.267E,708.0m,5,20,520.0m,"      ","WARNGAU TANNRIED"
+"Warsschau Okecie",WARSS,PL,5209.950N,02058.017E,110.0m,5,150,3700.0m,"118.300","TWR-118.3"
+"Warszawa Babice",WARSZ,PL,5216.150N,02054.433E,107.0m,5,100,1290.0m,"124.5","A.3"
+"WASENTEGERNBACH",WASENT,DE,4816.417N,01213.167E,457.0m,2,60,280.0m,"123.42","UL"
+"Wasserkuppe",WAKU,DE,5029.867N,00956.967E,902.0m,5,60,650.0m,"133.425",
+"Watorowo",745P,PL,5317.917N,01824.850E,91.0m,3,0,0.0m,,"WatorowoP745P"
+"Weiden",WEIDE,DE,4940.733N,01207.000E,405.0m,5,140,560.0m,"118.200","Weiden Oberpfalz"
+"Weimar",WEIMA,DE,5057.883N,01124.017E,299.0m,2,100,650.0m,"122.400","Weimar Umpferstedt"
+"Weinheim",WEINH,DE,4934.050N,00836.667E,98.0m,2,170,770.0m,"123.600",
+"Weipertshofen",WEIPE,DE,4905.200N,01007.533E,440.0m,4,110,490.0m,"123.350",
+"Weissenburg",WEISS,DE,4901.533N,01101.117E,615.0m,4,50,570.0m,"123.050",
+"WEISSENHORN",WEISSE EDNW,DE,4817.367N,01008.417E,500.0m,2,80,650.0m,"119.42","De"
+"WEIZ",WEIZ U LOGW,AT,4710.217N,01539.850E,396.0m,2,180,430.0m,"122.17","WEIZ UNTERFLADNI"
+"WELS",WELS   LOLW,AT,4810.867N,01402.250E,317.0m,5,90,1380.0m,"119.70","De"
+"WELZHEIM",WELZHE,DE,4852.583N,00939.200E,518.0m,2,80,530.0m,"123.15","De"
+"Wenzendorf",WENZE,DE,5320.183N,00946.700E,66.0m,4,40,390.0m,"123.500",
+"Weper",WEPER,DE,5142.750N,00948.167E,355.0m,4,350,450.0m,"123.500",
+"Werdohl",WERDO,DE,5117.817N,00749.000E,317.0m,2,70,800.0m,"118.000","Werdohl Kuentrop"
+"Werneuchen",WERNE,DE,5237.983N,01346.017E,79.0m,5,80,1500.0m,"122.600",
+"Wershofen",WERSH,DE,5027.017N,00647.083E,482.0m,2,70,620.0m,"122.400","Wershofen Eifel"
+"Wesel Romerwardt",WESEL,DE,5139.767N,00635.750E,21.0m,2,90,710.0m,"122.025",
+"Weser Wuemme",WESER,DE,5303.233N,00912.517E,18.0m,2,180,830.0m,"122.600",
+"Westerland",WESTE,DE,5454.700N,00820.550E,15.0m,5,150,2110.0m,"119.750",
+"Westerstede",WESTS,DE,5317.333N,00755.800E,9.0m,5,70,560.0m,"123.650",
+"WIEN",WIEN S LOWW,AT,4806.617N,01634.183E,183.0m,5,160,3610.0m,"124.40","WIEN SCHWECHAT. En/De,NO GLD ACT"
+"Wiesbaden",WIESB,DE,5002.983N,00819.517E,140.0m,5,70,2140.0m,"122.100","MIL"
+"Wildberg",WILDB,DE,4736.017N,00944.517E,520.0m,4,30,370.0m,"118.550","Wildberg Bodensee"
+"WILDBERGKENGEL",WILDBE,DE,4838.167N,00843.900E,509.0m,2,80,850.0m,"123.00","De"
+"Wildspitze",WILDSP,AT,4653.133N,01052.050E,3768.0m,7,,,,
+"Wildstrubel",WILDST,CH,4623.983N,00731.717E,3244.0m,7,,,,
+"Wilhelmshavn",WILHE,DE,5330.283N,00803.200E,6.0m,5,20,1440.0m,"129.250",
+"Wilsche",WILSC,DE,5231.450N,01027.767E,55.0m,4,90,990.0m,"129.975",
+"WINTERTHUR",WINTER LSPH,CH,4730.983N,00846.383E,460.0m,2,20,690.0m,"134.97","De"
+"WINZELN",WINZEL EDTW,DE,4816.767N,00825.733E,671.0m,5,150,710.0m,"123.65","WINZELN  SCHRAMB"
+"Wipperfuerth",WIPPE,DE,5107.417N,00722.450E,262.0m,2,110,590.0m,"122.500",
+"Wismar",WISMA,DE,5354.867N,01129.967E,12.0m,2,80,650.0m,"123.050","Wismar Mueggnbu"
+"Wittmundhafen",WITTM,DE,5332.867N,00740.033E,9.0m,5,80,2450.0m,"118.725","MIL"
+"Witts Berlinchen",WITBE,DE,5313.567N,01234.033E,79.0m,4,50,700.0m,"122.200",
+"Witzenhausen",WITZE,DE,5121.017N,00949.467E,199.0m,4,350,500.0m,"123.500","Witzenhausen Bur"
+"WLOCLAWEK",WLOCLWEK,PL,5235.083N,01900.933E,66.0m,2,0,0.0m,"A-122.4",
+"Woerishofen",WOERR,DE,4801.617N,01036.100E,627.0m,4,80,850.0m,"123.350",
+"Wolfhagen",WOLFH,DE,5118.417N,00910.517E,314.0m,2,150,500.0m,"127.450","Wolfhagen Graner"
+"WOLFSBERG",WOLFSB LOKW,AT,4649.067N,01449.533E,445.0m,2,19,740.0m,"122.50","W106"
+"Worms",WORMS,DE,4936.383N,00822.000E,92.0m,5,60,800.0m,"124.600",
+"WR. NEUSTADT",WR. NE LOXN,AT,4750.417N,01613.283E,287.0m,2,180,1000.0m,"130.15","W112  Wiener Neustadt(En),De,Mil"
+"Wroclaw Strachow",WROCL,PL,5106.167N,01653.150E,122.0m,5,120,2510.0m,"124.75","TWR-124.75"
+"Wroclaw Szymanow",WROCZ,PL,5112.367N,01659.917E,119.0m,2,140,770.0m,"122.8","A-122.8"
+"Wuerzburg",WUERZ,DE,4949.083N,00953.833E,302.0m,5,110,650.0m,"122.175",
+"Wunstorf",WUNST,DE,5227.433N,00925.633E,58.0m,5,80,1870.0m,"122.100","MIL"
+"Wurzenpass",WURZEN,AT,4631.100N,01345.100E,1069.0m,6,,,,
+"Wustweiler",WUSTW,DE,4924.633N,00703.300E,371.0m,4,70,360.0m,"122.475",
+"Wyk Auf Foehr",WYKAU,DE,5441.117N,00831.917E,9.0m,2,20,650.0m,"118.250",
+"xABFALTERSBACH",ABFALT    C,AT,4645.500N,01232.317E,1000.0m,3,70,200.0m,,"Viele, viele Zaunstempel in der Wiese. Das naheliegende Sillian ist besser!"
+"xHOLZGAU",HOLZGA    C,AT,4715.600N,01021.800E,1100.0m,3,0,0.0m,,
+"xSCHWARZSEE",SCHWAR    C,CH,4639.093N,00717.047E,1046.0m,3,0,0.0m,,
+"xST-ANTON",STANTO    C,AT,4706.533N,00951.950E,620.0m,3,170,160.0m,,"ST-ANTON-MONTAFON. Nur im nördlichen Teil Landen"
+"xTHAL",THAL      C,AT,4646.780N,01238.309E,750.0m,3,0,0.0m,,"quasi unlandbar Kat 3"
+"xVORAU",VORAU     C,AT,4724.115N,01552.875E,690.0m,3,120,0.0m,,"Kat 3"
+"YVERDON",YVERDO LSGY,CH,4645.717N,00636.800E,433.0m,5,50,860.0m,"130.30","YVERDON LES BAINS. Fr"
+"ZADAR",ZADAR  LDZD,HR,4406.500N,01520.800E,88.0m,5,140,2510.0m,"119.60",
+"ZAGORJE",ZAGORJ,SI,4608.600N,01500.683E,332.0m,2,40,450.0m,"      ",
+"ZAGREB",ZAGREB LDZA,HR,4544.583N,01604.117E,107.0m,5,50,3240.0m,"118.30",
+"ZAGREB",ZAGREB LDZL,HR,4546.150N,01551.433E,122.0m,2,100,830.0m,"      ","ZAGREB LUCKO CRO"
+"ZALAEGERSZEG",ZALAEG LHZA,HU,4652.750N,01647.317E,208.0m,2,0,0.0m,"      ","Hu"
+"Zamberk",ZAMBE,CZ,5005.033N,01626.633E,430.0m,2,130,710.0m,"122.600",
+"Zamosc",ZAMOS,PL,5042.100N,02312.267E,229.0m,2,120,800.0m,"122.8",
+"Zar",ZAR,PL,4946.267N,01913.083E,384.0m,2,50,370.0m,"122.800",
+"Zatec Macerka",ZATEC,CZ,5019.050N,01330.767E,268.0m,2,110,1110.0m,"125.425",
+"Zbraslavice",ZBRAS,CZ,4948.850N,01512.100E,494.0m,2,150,770.0m,"122.600",
+"Zeiritzkampel",ZEIRIT,AT,4729.467N,01443.633E,2125.0m,7,,,,
+"ZELL AM SEE",ZELL A LOWZ,AT,4717.550N,01247.250E,753.0m,5,80,650.0m,"119.70","W10 ZELL AM SEEEn/De"
+"Zell Haidberg",ZELLH,DE,5008.200N,01147.667E,579.0m,2,60,800.0m,"123.375",
+"Zellendorf",OEHNA,DE,5153.950N,01303.350E,88.0m,5,80,830.0m,"122.500","Oehna Zellendorf"
+"Zellhausen",ZELHS,DE,5001.233N,00859.017E,113.0m,4,170,880.0m,"122.300",
+"ZELTWEG",ZELTWE LOXZ,AT,4712.217N,01444.750E,677.0m,5,80,2750.0m,"118.70","En/De, Military AirportW107 ZELTWEG"
+"Zerbst",ZERBS,DE,5159.850N,01208.217E,82.0m,5,70,1290.0m,"123.050",
+"ZGORNJA",ZGORNJ,SI,4615.500N,01535.000E,255.0m,2,0,300.0m,"      ","UL"
+"ZGORZELEC",ZGORZLEC,PL,5112.000N,01506.500E,210.0m,2,0,0.0m,,
+"Zielona Gora",ZIELO,PL,5158.733N,01527.833E,76.0m,2,60,860.0m,"122.800",
+"Zierenberg",ZIERE,DE,5121.800N,00920.500E,430.0m,4,170,700.0m,"122.300","Zierenberg Dornb"
+"Znojmo",ZNOJM,CZ,4849.067N,01603.950E,253.0m,2,80,860.0m,"130.600",
+"Zruc",ZRUCN,CZ,4944.400N,01506.317E,457.0m,2,0,0.0m,,"Zruc Nad Sazavou"
+"ZUERICH",ZUERIC LSZH,CH,4727.483N,00832.883E,433.0m,5,160,3700.0m,"118.10",
+"ZUG",ZUG       C,AT,4711.983N,01006.233E,1600.0m,3,0,0.0m,,"Kat C"
+"Zweibruecken",ZWEIB,DE,4912.567N,00724.033E,345.0m,5,30,2940.0m,"129.675",
+"ZWEISIMMEN",ZWEISI LSTZ,CH,4633.050N,00722.867E,935.0m,5,170,670.0m,"121.22","De"
+"Zwickau",ZWICK,DE,5042.183N,01227.567E,320.0m,2,60,800.0m,"122.900",
+-----Related Tasks-----
