@@ -448,7 +448,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "CARNIA_NORD_8",CARN_N8,IT,4622.133N,01307.783E,260.0m,3,180,350.0m,,,"LUNGHEZZA 350M. ATTENZIONE POSSIBILI COLTIVAZIONI, BUONO E  PREFERIBILE (SE NON COLTIVATO) A CARNIA SUD. ATTENZIONE A META' CAMPO AVVALLAMENTO ATTERRARE PREFERIBILMENTE DIREZIONE SUD. CVNE  s:ENE20",,"N092E013_carnia_1.jpg;N092E013_carnia_2.jpg"
 "CARNIA_SUD_6",CARNI_s6,IT,4621.700N,01307.933E,250.0m,3,0,200.0m,,,"PREFERIBILE IN DIREZIONE NORD ENTRATA SENZA OSTACOLI ATTERRARE CORTI PRIMA DELL'ALBERELLO. SE IN DIREZIONE S ATTENZIONE ALL'ENTRATA: LINEA ELETTRICA A E E ALBERELLO: E' NECESSARIO ENTRARE BASSI TRA ALBERELLO E LINEA ELETTRICA (40 MT) CVNE  s:ENE20",,"N092E013_carnia_1000.jpg;N092E013_carnia_2000.jpg"
 "CIMOLAIS_ul9",CIMO_UL9,IT,4615.883N,01228.067E,565.0m,3,350,250.0m,,,"AVIOSUPERFICIE: ATTERRARE SOLO PER 35 CAMPO IN SALITA AL 6% VERSO NORD. CVNE  s:ENE20",,"N092E012_cimolais_1.jpg;N092E012_cimolais_2.jpg;N092E012_cimolais_3.jpg"
-"CORTINA_CAM_6",CORca6,IT,4631.200N,01208.000E,1150.0m,3,0,300.0m,,,"DISCRETO: dir. 0/- CAMPO IN SALITA usare solo la parte sud  prima della stradina. finale sopra il campeggio altri campi in forte salita piu' a nord con brezza da sud usare aeroporto. visto 2019 leo-paolo CVNE  s:ENE20",,"IMGB195.jpg;IMGDD38.jpg"
+"CORTINA_CAM_6",CORca6,IT,4631.200N,01208.000E,1150.0m,3,0,300.0m,,,"SOLO CON VENTO DA NORD. DISCRETO: dir. 0/- CAMPO IN SALITA usare solo la parte sud  prima della stradina. finale sopra il campeggio altri campi in forte salita piu' a nord con brezza da sud usare aeroporto. visto 2019 leo-paolo CVNE  s:ENE20",,"IMGB195.jpg;IMGDD38.jpg"
 "SOVERZENE_6",SOVERZ_6,IT,4612.967N,01217.817E,408.0m,3,180,180.0m,,,"in leggera discesa attacco a 0 dopo toccare corti campo corto usato da aeromodellisti cinesini e manica a vento - alternativa se longarone non disponibile. CVNE  s:ENE20",,"N092E012_soverzene_1.jpg;N092E012_soverzene_2.jpg"
 "SMartino_Badia_5",SMBadi_5,IT,4640.683N,01153.567E,1200.0m,3,270,450.0m,,,"in salita attacco a 0 sopra strada atterrare solo verso OVEST paralleli alla linea telefonica - campo lungo e regolare. visto 2019 leo-paolo. CVNE  s:ENE20",,"N093E011_sanmartino1.jpg;N093E011_sanmartino2.jpg;N093E011_sanmartino3.jpg"
 "CORVARA_7",CORVA_7,IT,4633.150N,01151.833E,1550.0m,3,270,300.0m,,,"BUONO: 27/- atterrare SOLO verso Ovest in leggera salita - nel 2015 presenti cinesini delimitatori di testa pista ovest . Occhio alla  visto 2019 leo-paolo CVNE  s:ENE20",,"N093E011_corvara_1.jpg;N093E011_corvara_2.jpg;IMG7C16.jpg"
@@ -526,7 +526,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "BRESCIA_6",BRESCIA6,IT,4534.367N,01012.767E,195.0m,3,200,,,,"Ingresso N, circuito SX? Scheda http://www.ava-valbrembo.it 2020",,"N091E010_BRESCIA_1.png;N091E010_BRESCIA_2.png"
 "BRIVIO_ZA8",BRIV_ZA8,IT,4543.867N,00927.033E,190.0m,3,180,300.0m,,,"Brivio Scheda http://www.ava-valbrembo.it 2020",,"N091E009_BRIVIO_1.png;N091E009_BRIVIO_2.png"
 "PIANCOGNO_8",PIANC_8,IT,4554.517N,01012.717E,221.0m,3,45,400.0m,,,"Piancogno. Ingresso per recupero alla chiesa direzione cimitero Scheda http://www.ava-valbrembo.it 2020",,"N091E010_PIANCOGNO_1.png;N091E010_PIANCOGNO_2.png"
-"PoggiRidenti_7",POGGIR_7,IT,4609.900N,00956.050E,273.0m,3,90,300.0m,,,"Poggi Ridenti Scheda http://www.ava-valbrembo.it 2020",,"N092E009_POGGIRIDENTI_1.png;N092E009_POGGIRIDENTI_2.png"
+"PoggiRidenti_8",POGGIR_8,IT,4609.900N,00956.050E,273.0m,3,90,300.0m,,,"Poggi Ridenti Scheda http://www.ava-valbrembo.it 2020",,"N092E009_POGGIRIDENTI_1.png;N092E009_POGGIRIDENTI_2.png"
 "PORLEZZA_za7",PORL_ZA7,IT,4602.067N,00909.033E,275.0m,3,90,400.0m,,,"Ingresso N o W!, Scheda http://www.ava-valbrembo.it 2020",,"N092E009_PORLEZZA_1.png;N092E009_PORLEZZA_2.png"
 "POSCHIAVO_za8",POSC_ZA8,CH,4617.900N,01004.717E,980.0m,3,150,500.0m,,,"Poschiavo Scheda http://www.ava-valbrembo.it 2020",,"N092E010_POSCHIAVO_1.png;N092E010_POSCHIAVO_2.png"
 "PROVAGLIO_7",PROVAGL7,IT,4537.933N,01002.300E,300.0m,3,30,300.0m,,,"Provaglio, MAIS: SOLO A PRIMAVERA, Scheda http://www.ava-valbrembo.it 2020",,
@@ -575,7 +575,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "CAVALESE_7?",CAVAL_7?,IT,4616.738N,01126.915E,832.0m,3,80,2436.0m,,,"confirmed by seeyou, but unchecked source:SAN",,
 "COLLIEU_UL9",COLL_UL9,IT,4512.180N,01147.640E,7.0m,2,180,270.0m,,,"source:SAN",,
 "CORRY_9",CORRY9,IT,4531.140N,01022.800E,156.0m,2,150,400.0m,,,"source:SAN",,
-"CORT_AER_6?",CORae6?,IT,4634.533N,01206.883E,1300.0m,3,170,500.0m,,,"Cortina Ex Aeroporto It,Mil source:SAN",,
+"CORT_AER_6",CORae6,IT,4634.533N,01206.883E,1300.0m,3,170,500.0m,,,"SOLO CON VENTO DA SUD (vedi video). Campetto a EST disponibile. Cortina Ex Aeroporto It,Mil source:SAN",,
 "COSTERMANO_UL9",COS_ul9,IT,4535.200N,01045.433E,216.0m,4,150,710.0m,,"124.550","source:SAN",,
 "CUVIO_UL9",CUVI_UL9,IT,4553.933N,00843.367E,279.0m,5,80,300.0m,,"120.350","S:SEEYOU source:SAN",,
 "DILONATO_UL9",DILO_UL9,IT,4523.640N,01033.840E,202.0m,5,50,795.0m,,,"source:SAN",,
