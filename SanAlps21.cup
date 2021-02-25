@@ -575,7 +575,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "CAVALESE_7?",CAVAL_7?,IT,4616.738N,01126.915E,832.0m,3,80,2436.0m,,,"confirmed by seeyou, but unchecked source:SAN",,
 "COLLIEU_UL9",COLL_UL9,IT,4512.180N,01147.640E,7.0m,2,180,270.0m,,,"source:SAN",,
 "CORRY_9",CORRY9,IT,4531.140N,01022.800E,156.0m,2,150,400.0m,,,"source:SAN",,
-"CORT_AER_6",CORae6,IT,4634.533N,01206.883E,1300.0m,3,170,500.0m,,,"SOLO CON VENTO DA SUD (vedi video). Campetto a EST disponibile. Cortina Ex Aeroporto It,Mil source:SAN",,
+"CORT_AER_6",CORae6,IT,4634.533N,01206.883E,1300.0m,3,170,500.0m,,,"SOLO CON VENTO DA SUD (vedi video). Campetto a EST disponibile. Cortina Ex Aeroporto It,Mil utilizzare solo la meta' NORD della pista - sottovento sx per 16 - dx per 34. attenzione: possibile gente che passeggia in pista. source:ENE21",,
 "COSTERMANO_UL9",COS_ul9,IT,4535.200N,01045.433E,216.0m,4,150,710.0m,,"124.550","source:SAN",,
 "CUVIO_UL9",CUVI_UL9,IT,4553.933N,00843.367E,279.0m,5,80,300.0m,,"120.350","S:SEEYOU source:SAN",,
 "DILONATO_UL9",DILO_UL9,IT,4523.640N,01033.840E,202.0m,5,50,795.0m,,,"source:SAN",,
@@ -609,4 +609,5 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "TRENTO_A",TRENT_A,IT,4601.300N,01107.483E,189.0m,5,180,980.0m,,"119.650","Flugplatz source:SAN",,
 "TRISSINO_7",TRISS7,IT,4533.683N,01123.450E,150.0m,3,180,800.0m,,,"Trissino Appena a W delle colline. A295+W96. Kat 1 source:SAN",,
 "SALURN_ZA?",SALU_ZA?,IT,4613.427N,01109.273E,250.0m,3,180,500.0m,,,"A239+Kat 1  source:SAN",,
+"Stara fuzina_6",STARA_6,SI,4617.367N,01354.017E,542.0m,3,90,250.0m,,,"dir 09/27 a est del lago Nuovo 2021. Sembra buono",,"N092E013_stara_1.jpg;N092E013_stara_2.jpg;N092E013_stara_3.jpg;N092E013_stara_4.jpg"
 -----Related Tasks-----
