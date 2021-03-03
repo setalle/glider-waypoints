@@ -293,11 +293,11 @@ def addsuffixtodesc():
   command: addsuffixtodesc 
   usage:   work.py addsuffixtodesc mystr file1.cup 
 
-  like addsuffixtoname but the string mystr is appended to the 'name' field of each waypoint in file1
+  like addsuffixtoname but the string mystr is appended to the 'description' field of each waypoint in file1
   the result is stored in the file file1_withsuffix.cup 
   this can be useful to label "internally" the waypoints in a file, I use it to put in the record the source of the waypoint"""
   
-  mystring=sys.argv[2]
+  mystring=sys.argv[2]
   file1=sys.argv[3]
   df1 = pd.read_csv(file1, dtype=str)
   df1 = clean_dataframe(df1)
