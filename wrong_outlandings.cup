@@ -1,4 +1,6 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
+"COSTERMANO_ULX",COS_ul9,IT,4535.200N,01045.433E,216.0m,4,150,710.0m,,"124.550","Adesso e' una vigna, c'e' caprino vicino",,
+"vidor?_?",vidor_?,IT,4551.383N,01204.167E,140.0m,3,340,400.0m,,,"Pista chiusa, c'e' un altro atterraggio vicino",,
 "A326+WUERMLACH-?",WUER?,AT,4640.820N,01301.478E,680.0m,3,0,700.0m,,,"I DON'T THINK THERE IS ANYTHING HERE",,
 "W141 Arcisat",,,4550.967N,00853.100E,350.0m,3,0,0.0m,,,"DEPRECATED BY http://www.ava-valbrembo.it/campi-atterrabili/",,
 "W123?SONDALO",SONDAL,IT,4619.000N,01019.000E,880.0m,3,0,0.0m,,,"DEPRECATED BY http://www.ava-valbrembo.it/campi-atterrabili/",,
