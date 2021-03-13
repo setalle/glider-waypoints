@@ -211,7 +211,7 @@ def diff_compare(task):
     for i1, wp1 in df1.iterrows():
         a = 0
         for i2, wp2 in df2.iterrows():
-            if distance(wp1,wp2)<6:
+            if distance(wp1,wp2)<3:
                 print(wp1['name'],wp2['name'],str(distance(wp1,wp2)))
                 if task=='compare':
                      choice = print_compare(wp1,wp2)
@@ -227,6 +227,37 @@ def diff_compare(task):
     else:
       print('\nLandables in the first file having no match in the second file are:')
       print(solitarywps)
+      
+
+def diff_compare_self():
+    print('TEST')
+    file1=sys.argv[2]
+    #file2=sys.argv[3]
+    #load dataframe from csv
+    #here dtype=string should convert everything to string, but it does not, so we do the trimming
+    df1 = pd.read_csv(file1, dtype=str)
+    df1 = clean_dataframe(df1)
+    #df2 = pd.read_csv(file2, dtype=str)
+    #df2 = clean_dataframe(df2)
+    #filtering out everything that is non-landable
+    df1 = df1.query('style in ["2","3","4","5"]')
+    #df2 = df2.query('style in ["2","3","4","5"]')
+    removefrom1 = []
+    #removefrom2 = []
+    solitarywps = []
+    for i1, wp1 in df1.iterrows():
+        a = 0
+        for i2, wp2 in df1.iterrows():
+            if i2>i1:
+                if distance(wp1,wp2)<3:
+                    print(wp1['name'],wp2['name'],str(distance(wp1,wp2)))
+                    choice = print_compare(wp1,wp2)
+                    if choice==1:
+                       removefrom1.append(i1)
+                    elif choice==2:
+                       removefrom1.append(i2)
+    print('\nProcedure check_duplicates finished\n')
+    remove_from_dataframe(df1,file1,removefrom1)
 
 def diff():
   """ ==============
@@ -252,6 +283,16 @@ def compare():
   the results are then stored in the files file1_trimmed.cup and file2_trimmed.cup
   the originals file1.cup and file2.cup are left unchanged """
   diff_compare('compare')
+
+
+def check_duplicates():
+  """ ================
+  command: check_duplicates
+  usage: work.py check_duplicates file1.cup
+
+  like "compare" but checking with the same file and excluding the obvious duplicates (that is, fields with the same name)"""
+
+  diff_compare_self()
 
 
 def addprefixtoname():
@@ -297,7 +338,7 @@ def addsuffixtodesc():
   the result is stored in the file file1_withsuffix.cup 
   this can be useful to label "internally" the waypoints in a file, I use it to put in the record the source of the waypoint"""
   
-  mystring=sys.argv[2]
+  mystring=sys.argv[2]
   file1=sys.argv[3]
   df1 = pd.read_csv(file1, dtype=str)
   df1 = clean_dataframe(df1)
@@ -313,7 +354,7 @@ def addsuffixtodesc():
 print('Number of arguments:', len(sys.argv), 'arguments.')
 print('Argument List:', str(sys.argv))
 
-listofcommands=['split', 'diff', 'compare', 'check', 'addprefixtoname', 'addsuffixtoname', 'addsuffixtodesc']
+listofcommands=['split', 'diff', 'compare', 'check_duplicates', 'check', 'addprefixtoname', 'addsuffixtoname', 'addsuffixtodesc']
 
 if len(sys.argv)==1:
   # no arguments are passed, so the command is non-existent, in this case we show the help

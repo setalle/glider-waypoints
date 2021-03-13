@@ -271,8 +271,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "WACKERSBERG KatA_?",WACKER_A,DE,4744.062N,01133.115E,730.0m,3,90,400.0m,,,"Kat A 09/27  sourceAVS",,
 "WEGSCHEID KatA_?",WEGSCH_A,DE,4739.850N,01134.250E,700.0m,3,270,200.0m,,,"Kat A -/27   sourceAVS",,
 "WERTACH KatB_?",WERTAC_B,DE,4736.200N,01025.100E,890.0m,3,320,400.0m,,,"Kat B -/32  Leitungen im Anflug. Einzelwiesen, nach Bewuchs waehlen, dazwischen Pfaehle und Zaeune! sourceAVS",,
-"LA-FAURIE KatA_?",LA-FAU_A,FR,4433.810N,00545.530E,820.0m,3,120,320.0m,,,"Kat A 12/30 Laenge 320+70 Meter lang. sourceAVS",,
-"LE-CASSET KatA_?",L-CASS_A,FR,4459.000N,00629.630E,1500.0m,3,100,500.0m,,,"Kat A 10/28 Platzrunde im Sueden sourceAVS",,
 "TANINGES KatA_?",TANING_A,FR,4606.000N,00636.000E,625.0m,3,90,300.0m,,,"Kat A 09/27  sourceAVS",,
 "Arcisate_?",Arci_?,IT,4550.967N,00853.100E,350.0m,3,150,500.0m,,,"BUONO largh.100m pista aeromodelli. ingresso da nw verso se. mantenere la parte sx per evitare tombino. linea elettrica sul bordo stradina e testata sud  sourceAVS",,"N091E008_0141.jpg;N091E008_img1080.jpg;N091E008_img1083.jpg"
 "Auronzo KatB_?",Auronz_B?,IT,4633.900N,01224.383E,830.0m,3,130,160.0m,,,"Kat B 13/31 Sehr kurz! sourceAVS",,"N093E012_0044.jpg;N093E012_img471.jpg"

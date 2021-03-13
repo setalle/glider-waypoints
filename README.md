@@ -23,7 +23,8 @@ In some cases these symbols are combined:
 ### My files - USE AT YOUR OWN RISK
 
 - [SanAlps21.cup](./SanAlps21.cup) my file for the Alps
-- [SanAlps21.kml](./SanAlps21.kml) corresponding kml file for Google Earth 
+- [cu20san.cup](./cu20san.cup) file of Seeyou 2020 where I have removed the outlandings that are in SanAlps and/or wrong. 
+- [SanAlps21.kml](./SanAlps21.kml) corresponding kml file for Google Earth (not necessarily very updated)
 
 My file for the Rieti and the neigboorhood
 
