@@ -20,21 +20,19 @@ In some cases these symbols are combined:
 - ```_ul8``` ultralight field, but not ideal (e.g. very short or narrow)
 - ```_8?```  should be an 8, but the source is not one I consider reliable
 
-### My files - USE AT YOUR OWN RISK
-
-- [SanAlps21.cup](./SanAlps21.cup) my file for the Alps
-- [cu20san.cup](./cu20san.cup) file of Seeyou 2020 where I have removed the outlandings that are in SanAlps and/or wrong. 
-- [SanAlps21.kml](./SanAlps21.kml) corresponding kml file for Google Earth (not necessarily very updated)
-
-My file for the Rieti and the neigboorhood
-
 #### Wrong Outlandings
 
 One of the main problems in maintaining an up-to-date collection of outlandings is that it is difficult to eliminate from the waypoint files of those outlandings that are not up-to-date any longer. Old ultralight fields, for example, but also fields that are not suitable any longer because of new crops (also fields that were never meant to be a decent outplanding are commonly found in waypoint files). When you merge waypoints from different sources it these "deprecated" fields have the tendency to sneak in again. To this end, I maintain a list of "wrong" waypoints; that is, outlandings that I suspect are not suitable (any longer). 
 
-- [wrong_waypoints.cup](./wrong_waypoints.cup)
-
 If you have python, to find out whether your waypoint file contains any of the deprecated waypoints according to my list, you can use (at your own risk) the script `wptool.py` with the command `python wptool.py diff wrong_waypoints.cup yourfilename.cup`. See section "My script" below. 
+
+### My files - USE AT YOUR OWN RISK
+
+In the Directory [WP_Sandro](./WP_Sandro) There is the last version of the files I use, which are:
+- SAlps21v?.cup my file for the Alps
+- cu21san.cup file of Seeyou 2020 where I have removed the outlandings that are in SanAlps and/or wrong. 
+- wrong_waypoints.cup
+
 
 ### My scritpt - USE AT YOUR OWN RISK
 
