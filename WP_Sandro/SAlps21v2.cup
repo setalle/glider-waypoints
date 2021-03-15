@@ -1,7 +1,8 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
+"EX PAF???_4",EXPAF,IT,4529.603N,01053.202E,103.0m,3,,,,,"Emergenza vicino a verona. Da controllare le coordinate. Video di Andrea Salvadori",,
 "MONTORIO_6",MTOR_6,IT,4527.083N,01102.567E,59.0m,3,160,400.0m,,,"attenzione cavi telefono e bassa tensione testata 160 sourceAVS Check 2021 Salvadori",,
 "VIDOR_N_7",VIDN_7,IT,4551.417N,01202.513E,145.0m,3,280,300.0m,,,"SAN21 NUOVO VIDOR: source webinars",,
-"CAPRINO_7",CAPRI_7,IT,4535.391N,01045.615E,211.0m,3,10,,,,"SAN21 nuovo atterraggio di Caprino. atterrare verso NE Non atterrare a Costermano",,
+"CAPRINO_7",CAPRI_7,IT,4535.391N,01045.615E,211.0m,3,10,,,,"SAN21 nuovo atterraggio di Caprino. atterrare verso N Non atterrare a Costermano",,
 "BUSTI_7",BUSTI7,,4527.133N,01101.033E,50.0m,3,360,400.0m,,,"cavo telefono testata 360 sourceAVS e webinar",,
 "ABFALTERSBACH KatB_?",ABFALT_B,AT,4645.500N,01232.320E,1000.0m,3,70,200.0m,,,"Kat B 07/25 Viele, viele Zaunstempel in der Wiese. Das naheliegende Sillian ist besser! sourceAVS",,
 "ACHENKIRCH NORD KatB_?",ACHENN_B,AT,4732.240N,01142.400E,900.0m,3,170,200.0m,,,"Kat B 17/35 Achtung, versteckte Pfloecke in der Wiese! sourceAVS",,
@@ -428,7 +429,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "CAMPITELLO_FASSA_7",CAMPIT_7,IT,4628.047N,01143.658E,1383.0m,3,250,280.0m,,,"DIREZIONE MIGLIORE SW ATTERRARE DOPO LA STRADINA. CVNE AGGIUNTO IO  s:ENE20",,
 "Armentarola_5",Arment_5,IT,4633.209N,01158.010E,1653.0m,3,170,200.0m,,,"SOLO verso S leggera salita. Alberi alti in testata S, stradina ATTEMZIONE CNVE  s:ENE20",,
 "Laggio_5",Laggi5,IT,4630.083N,01228.717E,900.0m,3,180,180.0m,,,"Sehr kurz! Landing towrds S (180°). W45. Kat 2Checked A144 CVNE  s:ENE20",,
-"AVIANOST_7?",AVST7?,IT,4604.928N,01234.862E,200.0m,3,100,350.0m,,"122.100","Avianostella Nuovo Contattare Aviano 122.100 Fonte CVNE  s:ENE20 pictures:AVS",,"N092E012_AVIANO_STELLA.jpg;N092E012_AVIANO_STELLA_SK.jpg"
+"AVIANOST_7",AVST7,IT,4604.928N,01234.862E,200.0m,3,240,350.0m,,"120.965","Meglio verso SudOvest Avianostella Nuovo Contattare Aviano 120.965 Fonte CVNE  s:ENE21 pictures:AVS",,"N092E012_AVIANO_STELLA.jpg;N092E012_AVIANO_STELLA_SK.jpg"
 "AGORDO_7",AGORD7,IT,4616.783N,01201.783E,600.0m,3,160,400.0m,,,"Recomended landing direction 160, tra eliporto e fiume, paletti a meta' pista°. A06+W57. Kat 1 CVNE  s:ENE20 pictures:AVS",,"N092E012_AGORDO_SK.jpg;N092E012_img557.jpg;N092E012_img560.jpg"
 "Pieve_5",Pieve5,IT,4626.883N,01223.783E,740.0m,3,270,150.0m,,,"Sehr kurz! Land towards 270°. W46. Kat 2 Pieve di Cadore A212-CVNE  s:ENE20",,
 "Coccau_4",Coccau_4,IT,4631.000N,01336.533E,773.0m,3,310,190.0m,,,"campo corto ma in salita in erba ATTERRARE corti SOLO VERSO nord-ovest. utilizzare la parte destra del campo regolare CVNE  s:ENE20",,
