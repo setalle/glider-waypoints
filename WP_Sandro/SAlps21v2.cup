@@ -451,7 +451,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "CORTINA_CAM_6",CORca6,IT,4631.200N,01208.000E,1150.0m,3,0,300.0m,,,"SOLO CON VENTO DA NORD. DISCRETO: dir. 0/- CAMPO IN SALITA usare solo la parte sud  prima della stradina. finale sopra il campeggio altri campi in forte salita piu' a nord con brezza da sud usare aeroporto. visto 2019 leo-paolo CVNE  s:ENE20",,"IMGB195.jpg;IMGDD38.jpg"
 "SOVERZENE_6",SOVERZ_6,IT,4612.967N,01217.817E,408.0m,3,180,180.0m,,,"in leggera discesa attacco a 0 dopo toccare corti campo corto usato da aeromodellisti cinesini e manica a vento - alternativa se longarone non disponibile. CVNE  s:ENE20",,"N092E012_soverzene_1.jpg;N092E012_soverzene_2.jpg"
 "SMartino_Badia_5",SMBadi_5,IT,4640.683N,01153.567E,1200.0m,3,270,450.0m,,,"in salita attacco a 0 sopra strada atterrare solo verso OVEST paralleli alla linea telefonica - campo lungo e regolare. visto 2019 leo-paolo. CVNE  s:ENE20",,"N093E011_sanmartino1.jpg;N093E011_sanmartino2.jpg;N093E011_sanmartino3.jpg"
-"CORVARA_7",CORVA_7,IT,4633.150N,01151.833E,1550.0m,3,270,300.0m,,,"BUONO: 27/- atterrare SOLO verso Ovest in leggera salita - nel 2015 presenti cinesini delimitatori di testa pista ovest . Occhio alla  visto 2019 leo-paolo CVNE  s:ENE20",,"N093E011_corvara_1.jpg;N093E011_corvara_2.jpg;IMG7C16.jpg"
+"CORVARA_8",CORVA_8,IT,4633.150N,01151.833E,1550.0m,3,270,300.0m,,,"BUONO: 27/- atterrare SOLO verso Ovest in leggera salita - nel 2015 presenti cinesini delimitatori di testa pista ovest . Occhio alla  visto 2019 leo-paolo CVNE  s:ENE20",,"N093E011_corvara_1.jpg;N093E011_corvara_2.jpg;IMG7C16.jpg"
 "Tramonti_4",Tramon_4,IT,4617.117N,01248.133E,372.0m,3,350,170.0m,,,"CORTO!: STRADA A INIZIO DEL CAMPO attacco a 0 atterrare verso nord toccare almeno 10 mt dopo strada (fossato) - possibile anche atterraggio da Ovest a est paralleli a strada. Tramonti di Sotto CVNE  s:ENE20",,"N092E012_tramonti_1.jpg;N092E012_tramonti_2.jpg"
 "MANIAGO_UL9",MANI_UL9,IT,4607.500N,01243.833E,250.0m,3,170,1200.0m,,,"OTTIMO: AVIOSUPERFICIE ENORME. CONSIGLIATO ATTERRAGGIO PARALLELO ALLA STRADA VICINO LA MANICA A VENTOCVNE   s:ENE20",,"N092E012_maniago_1.jpg;IMGAF78.jpg"
 "OBERVINTL_7",OBERVI_7,IT,4648.683N,01145.017E,750.0m,3,100,400.0m,,,"Medio 10/28 CON ALTERNATIVE attenzione parzialmente coltivato con fossato divisorio vari campi verificare possibili coltivazioni. visto 2019 leo-paolo. Vandoies Obervintl CVNE  s:ENE20",,"N093E011_obervintl_1.jpg;N093E011_obervintl_2.jpg"
@@ -532,7 +532,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "PROVAGLIO_7",PROVAGL7,IT,4537.933N,01002.300E,300.0m,3,30,300.0m,,,"Provaglio, MAIS: SOLO A PRIMAVERA, Scheda http://www.ava-valbrembo.it 2020",,
 "ROVETTA_7",ROVETTA7,IT,4553.233N,00958.550E,600.0m,3,180,300.0m,,,"Rovetta, ingresso solo N, Scheda http://www.ava-valbrembo.it 2020",,"N091E009_0131.jpg;N091E009_img1024.jpg"
 "SANVALENTINO_7",SVALEN_7,IT,4644.717N,01032.000E,1470.0m,3,180,400.0m,,,"ATTERRAGGIO N-S Scheda http://www.ava-valbrembo.it 2020",,"N093E010_SVALENTINO_1.png;N093E010_SVALENTINO_2.png"
-"SLUDERNO_7",SLUDER_7,IT,4639.700N,01034.417E,900.0m,3,130,400.0m,,,"PALI IRRIGAZIONE A SW STARE A NE DELLA STRADA Scheda http://www.ava-valbrembo.it 2020",,"N093E010_SLUDERNO_1.png;N093E010_SLUDERNO_2.png"
+"SLUDERNO_?",SLUDER_?,IT,4639.700N,01034.417E,900.0m,3,130,400.0m,,,"RISCHIOSO: cambio destinazione. PALI IRRIGAZIONE A SW STARE A NE DELLA STRADA Scheda http://www.ava-valbrembo.it 2020",,"N093E010_SLUDERNO_1.png;N093E010_SLUDERNO_2.png"
 "SAMOLACO_UL",SAMO_UL9,IT,4614.167N,00925.867E,210.0m,2,140,300.0m,,,"STRETTINA AKA Somaggia, corrette le coordinate Scheda http://www.ava-valbrembo.it 2020",,"N092E009_SOMAGGIA_1.png;N092E009_SOMAGGIA_2.png"
 "Stadolina_5",Stadol_5,IT,4614.467N,01025.933E,1056.0m,3,270,300.0m,,,"PREFERIBILE ATTERRARE DA E Scheda http://www.ava-valbrembo.it 2020",,"N092E010_STADOLINA_1.png;N092E010_STADOLINA_2.png"
 "STORO_8",STORO_8,IT,4549.883N,01033.533E,395.0m,3,40,450.0m,,,"MAIS: USABILE SOLO PRIMAVERA Scheda http://www.ava-valbrembo.it 2020",,"N091E010_STORO_1.png;N091E010_STORO_2.png"
@@ -551,7 +551,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "LIVIGa_6",LIVIa6,IT,4632.117N,01008.250E,1810.0m,3,30,300.0m,,,"A158+Außerhalb der markierten Felder sind Bewässerungsgräben und Bodenwellen! W116. Kat 1 non sul CVA",,
 "LOVERE_ZA8",LOVE_za8,IT,4549.183N,01005.500E,190.0m,3,45,300.0m,,,"ZA, aviosuperficie corta vicinaScheda http://www.ava-valbrembo.it 2020",,"N091E010_LOVERE_1.png;N091E010_LOVERE_2.png"
 "LOVERE_ul8",LOVERul8,IT,4548.983N,01005.767E,182.0m,2,40,480.0m,22.0m,,"Iseo Aviosuperficie corta - aggiunta da sandro, non c'era in Valbrembo",,
-"MALE_8",MALE_8,IT,4620.367N,01054.267E,740.0m,3,70,400.0m,,,"Male - a S della strada, non distante dallo split  70-260 A164 Scheda CVA http://www.ava-valbrembo.it 2020",,"N092E010_MALE_1.png;N092E010_MALE_2.png;N092E010_0054.jpg"
+"MALE_7",MALE_7,IT,4620.367N,01054.267E,740.0m,3,70,400.0m,,,"Male - meglio Pellizzano, attenzione - a S della strada, non distante dallo split  70-260 A164 Scheda CVA http://www.ava-valbrembo.it 2020",,"N092E010_MALE_1.png;N092E010_MALE_2.png;N092E010_0054.jpg"
 "MUSCOLINE_7",MUSCOL_7,IT,4533.250N,01026.617E,187.0m,3,190,300.0m,,,"Solo da N Scheda CVA http://www.ava-valbrembo.it 2020",,"N091E010_MUSCOLINE_1.png;N091E010_MUSCOLINE_2.png"
 "PASTURO_7",PASTUR_7,IT,4556.467N,00927.217E,600.0m,3,160,250.0m,,,"NON UTILIZZABILE IN ESTATE SOLO 160 Scheda CVA http://www.ava-valbrembo.it 2020",,"N091E009_PASTURO_1.png;N091E009_PASTURO_2.png"
 "CIMOLAIS_6?",CIMOL7?,IT,4616.333N,01227.850E,570.0m,3,330,200.0m,,,"Cimolais Landing direction 330°. Kat 1. W60 A43 source:SAN",,
@@ -595,14 +595,14 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "PADOLAs_6?",PADLs6?,IT,4636.317N,01228.700E,1180.0m,3,160,200.0m,,,"Landing towards 160° after the street. The field slopes up to 160°.Paths at the same field level. Secondo W24. Kat 2 A200. source:SAN",,
 "Paulus_5",Paulu5,IT,4632.083N,01217.717E,1130.0m,3,100,280.0m,,,"ATTERRARE SOLO IN DIREZIONE 280 CASA E LINEE ELETTRICHE IN TESTATA 28. SENTIERI SENZA DISLIVELLI. Palus S Marco A164-Leitung im Anflug! PALUS-S-MARC  Kat 2 source:SAN pictures:AVS",,"N093E012_0043.jpg;N093E012_img470.jpg"
 "PRAPAVEIza?",PRAza?,IT,4607.560N,01207.560E,335.0m,3,160,400.0m,,,"source:SAN",,
-"PREDAZZO_8",PREDA8,IT,4617.533N,01135.350E,1000.0m,3,110,250.0m,,,"Downwind at S of the field. W56. Kat 1. A164 source:SAN pictures:AVS",,"N092E011_0056.jpg;N092E011_img548.jpg;N092E011_img550.jpg"
+"PREDAZZO_7",PREDA7,IT,4617.533N,01135.350E,1000.0m,3,110,250.0m,,,"Downwind at S of the field. W56. Kat 1. A164 source:SAN pictures:AVS",,"N092E011_0056.jpg;N092E011_img548.jpg;N092E011_img550.jpg"
 "SEDICO_ZA?",SEDza?,IT,4605.517N,01205.417E,292.0m,3,178,440.0m,,,"source:SAN",,
 "SGIUST_za5",SGIU_za5,IT,4604.533N,01203.433E,290.0m,3,30,300.0m,,,"Santa Giustina W77. Kat 1 ZA A236 source:SAN",,
 "SGIUST_UL8",SGIU_UL8,IT,4605.100N,01204.200E,290.0m,2,210,420.0m,,,"Campo UL 430x30 source:SAN",,
 "SILVIO_UL9",SILV_UL9,IT,4531.080N,01026.940E,182.0m,5,100,2462.0m,,,"source:SAN",,
 "SOLIMBER_UL7",SOLI_UL7,IT,4610.900N,01249.333E,200.0m,3,110,250.0m,,,"max 15 m wingspan. A262+W97. Kat 1 source:SAN",,
 "SORLINI_UL9",SORL_UL9,IT,4530.900N,01027.900E,195.0m,5,50,795.0m,,,"source:SAN",,
-"TERMON_UL8",TERM_UL8,IT,4616.246N,01101.550E,680.0m,3,240,300.0m,,,"solo 240? corto Landefeld source:SAN",,
+"TERMON_UL6",TERM_UL6,IT,4616.246N,01101.550E,680.0m,3,240,300.0m,,,"solo 240? corto Landefeld source:SAN+webinar21, vedi di rientrare a Trento prima",,
 "THIENE_A",THIEN_A,IT,4540.533N,01129.783E,104.0m,2,170,890.0m,,"121.205","LIDH 121.205 source:SAN",,
 "TIGNES_UL9",TIGN_UL9,IT,4609.240N,01220.880E,509.0m,2,150,300.0m,,,"source:SAN",,
 "TRENTO_A",TRENT_A,IT,4601.300N,01107.483E,189.0m,5,180,980.0m,,"119.650","Flugplatz source:SAN",,
