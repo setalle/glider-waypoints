@@ -29,9 +29,15 @@ If you have python, to find out whether your waypoint file contains any of the d
 ### My files - USE AT YOUR OWN RISK
 
 In the Directory [WP_Sandro](./WP_Sandro) There is the last version of the files I use, which are:
-- SAlps21v?.cup my file for the Alps
-- cu21san.cup file of Seeyou 2020 where I have removed the outlandings that are in SanAlps and/or wrong. 
-- wrong_waypoints.cup
+- SAlps21v?.cup my core file for the Alps
+- SAlpsCUv?.cup Alps core with the addition of the landing taken from cu21san_alps.cup (see below) and some tasks. 
+- SRieti20v?.cup my core file for the Rieti area - based on the one given at the 2020 Rieti competition
+- wrong_waypoints.cup: core file with the wrong outlandings. 
+Then there are 
+- SRietiAddv?.cup some landables I consider good for the Rieti area that I have added to the file provided by the Rieti competition
+- cu21san.cup file of Seeyou 2020 where I have removed the outlandings that are in SanAlps and/or wrong. cu21san_alps.cup: same file but then restricted to the Alps and northern Italy area. 
+- SKeys.cup: keypoint files with e.g. height of some mountains. Used to learn the areas
+
 
 
 ### My scritpt - USE AT YOUR OWN RISK

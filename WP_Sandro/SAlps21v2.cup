@@ -274,13 +274,13 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "WERTACH KatB_?",WERTAC_B,DE,4736.200N,01025.100E,890.0m,3,320,400.0m,,,"Kat B -/32  Leitungen im Anflug. Einzelwiesen, nach Bewuchs waehlen, dazwischen Pfaehle und Zaeune! sourceAVS",,
 "TANINGES KatA_?",TANING_A,FR,4606.000N,00636.000E,625.0m,3,90,300.0m,,,"Kat A 09/27  sourceAVS",,
 "Arcisate_?",Arci_?,IT,4550.967N,00853.100E,350.0m,3,150,500.0m,,,"BUONO largh.100m pista aeromodelli. ingresso da nw verso se. mantenere la parte sx per evitare tombino. linea elettrica sul bordo stradina e testata sud  sourceAVS",,"N091E008_0141.jpg;N091E008_img1080.jpg;N091E008_img1083.jpg"
-"Auronzo KatB_?",Auronz_B?,IT,4633.900N,01224.383E,830.0m,3,130,160.0m,,,"Kat B 13/31 Sehr kurz! sourceAVS",,"N093E012_0044.jpg;N093E012_img471.jpg"
+"Auronzo KatB_4",Auronz_4,IT,4633.900N,01224.383E,830.0m,3,130,160.0m,,,"Ce ne sono 2. Uno spesso occupato, l'altro cortissimo e stretto Kat B 13/31 Sehr kurz! sourceAVS e webinar",,"N093E012_0044.jpg;N093E012_img471.jpg"
 "Baldissero_8?",Baldi_8?,IT,4446.568N,00752.756E,310.0m,3,130,300.0m,,,"sourceAVS, confermato da seeyou",,
 "brezzo_?",brez_?,IT,4557.983N,00842.000E,320.0m,3,270,300.0m,,,"BUONO 50m ingresso da NW verso SE finale sopra casa isolata. passare il campo arato. spo da nord pali luce fondocampo fili alti (Campi della Contessa) sourceAVS",,"N091E008_0143.jpg;N091E008_img1094.jpg;N091E008_img1097.jpg"
 "campari_?",camp_?,IT,4604.945N,00816.518E,230.0m,3,0,200.0m,,,"verif coordinate (ACAO) sourceAVS",,
 "farra-d-soli KatA_?",FARRA_A,IT,4554.000N,01208.033E,160.0m,3,340,300.0m,,,"Kat A -/34   sourceAVS",,"N091E012_0079.jpg;N091E012_img697.jpg;N091E012_img700.jpg"
 "fondotoce_?",OVBTOCE,IT,4556.783N,00828.857E,195.0m,3,0,200.0m,,,"Tanti campi scegliere in base alle coltivazioni (ACAO) sourceAVS",,
-"forestale_?",Foresale,IT,4611.450N,01207.183E,467.0m,3,0,,,,"se molto bassi usendo dall'agordino. Recupero difficoltoso  sourceAVS",,
+"forestale_6",Foresale6,IT,4611.450N,01207.183E,467.0m,3,0,,,,"se molto bassi usendo dall'agordino. Recupero difficoltoso  sourceAVS",,
 "fornasette_?",forn_avs,IT,4600.008N,00847.619E,393.0m,3,0,200.0m,,,"ATTERR SUD! In svizzera piantonamento! (ACAO) sourceAVS",,
 "imer_?",IMER,IT,4608.800N,01147.700E,640.0m,3,70,450.0m,,,"sourceAVS",,"N000W001_0075.jpg;N092E011_img672.jpg;N092E011_img675.jpg"
 "maseera_?",mase_?,IT,4519.450N,01152.350E,9.0m,3,180,180.0m,,,"sourceAVS",,
@@ -465,8 +465,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "PATERNION_8",PATERN_8,AT,4643.152N,01338.341E,510.0m,3,120,300.0m,,,"FACILE 350 metri  atterrare per 12/30. In zona disponibili molti altri campi alternativi. CVNE COORDINATE MODIFICATE  s:ENE20",,"N093E013_paternon_4.jpg;N093E013_paternon_1.jpg;N093E013_paternon_2.jpg;N093E013_paternon_3.jpg"
 "KRANSKAGORA_7",KRANSK_7,SI,4629.276N,01346.927E,830.0m,3,90,300.0m,,,"Attenzione a LINEE ELETTRICHE paletti ostacoli fossati e recinzioni - per 09  campo lato SUD - paese - paralleli alla linea elettrica - campo un po stretto - manica a vento  preferibile RATECE ultima visita 2017. CVNE. COORDINATE MODIFICATE  s:ENE20",,"N092E013_kranskagora_1.jpg;N092E013_kranskagora_2.jpg;N092E013_kranskagora_4.jpg"
 "RATECE_7",RATEC2_7,SI,4629.402N,01343.346E,870.0m,3,180,300.0m,,,"Buono: 300 metri in salita 3-4% atterrare solo per 190 ingresso a 0: qualche ondulazione da EVITARE.  ultima visita 2017. CVNE COORDINATE MODIFICATE  s:ENE20",,"N092E013_ratece.jpg;N092E013_ratece2.jpg;N092E013_ratece3.jpg"
-"TOLMIN-OVEST_7",TOLOVE_7,SI,4611.050N,01343.167E,157.0m,3,150,290.0m,,,"PREFERIRE VOLARJE. ATTENZIONE POSSIBILI PALETTI DI RECINZIONE MOBILI! - ATTERRABILE SOLO PER 150 CON ATTACCO QUASI A 0 ultima visita 2017. CVNE. Eventuale emergenza a N con In alternativa si piò atterrare - esclusivamente in direzione Nord! - sul campo para, avendo l'attenzione di NON atterrare corti, visto che la prima parte del campo è fortemente ondulata e ha anche un canale di scolo pericoloso. Dalla metà in poi ci sono almeno 250 metri utilizzabili.  s:ENE20",,"N092E013_tolmin_2.jpg;N092E013_tolmin_1.jpg"
-"VOLARJE_8",VOLARJ_8,SI,4612.283N,01340.517E,174.0m,3,270,330.0m,,,"BUONO: ATT PER 27/-TRA LA STATALE E IL FIUME - LEGGERE ONDULAZIONI NELLA PARTE NORD OVEST - ATTERRARE VERSO NO - LEGGERA SALITA - ENTRATA A 0 TRA LA STRADA E UN RUDERE PALETTI BASSI IN TESTATA ultima visita 2017. CVNE  s:ENE20",,"N092E013_volarje2.jpg;N092E013_volarje1.jpg;N092E013_volarie3.jpg;N092E013_volarie4.jpg"
+"TOLMIN-OVEST_6",TOLOVE_6,SI,4611.050N,01343.167E,157.0m,3,150,290.0m,,,"PREFERIRE VOLARJE. ATTENZIONE POSSIBILI PALETTI DI RECINZIONE MOBILI! - ATTERRABILE SOLO PER 150 CON ATTACCO QUASI A 0 ultima visita 2017. CVNE. Eventuale emergenza a N con In alternativa si piò atterrare - esclusivamente in direzione Nord! - sul campo para, avendo l'attenzione di NON atterrare corti, visto che la prima parte del campo è fortemente ondulata e ha anche un canale di scolo pericoloso. Dalla metà in poi ci sono almeno 250 metri utilizzabili.  s:ENE20",,"N092E013_tolmin_2.jpg;N092E013_tolmin_1.jpg"
+"VOLARJE_7",VOLARJ_7,SI,4612.283N,01340.517E,174.0m,3,270,330.0m,,,"BUONO: ATT PER 27/-TRA LA STATALE E IL FIUME - LEGGERE ONDULAZIONI NELLA PARTE NORD OVEST - ATTERRARE VERSO NO - LEGGERA SALITA - ENTRATA A 0 TRA LA STRADA E UN RUDERE PALETTI BASSI IN TESTATA ultima visita 2017. CVNE  s:ENE20",,"N092E013_volarje2.jpg;N092E013_volarje1.jpg;N092E013_volarie3.jpg;N092E013_volarie4.jpg"
 "Feffernitz_7",FEFFE2_7,AT,4641.550N,01341.733E,506.0m,3,40,350.0m,,,"MEDIO atterrare per 04. non superare la linea elettrica rullando perche' c'e' un FOSSO!  SIP 0367_s:ENE20",,"N093E013_feffernitz_1.jpg;N093E013_feffernitz_2.jpg"
 "Feldkirchen_AE",LOKF,AT,4642.517N,01404.617E,520.0m,2,200,700.0m,,"122.705","Att frequenza 8.33 per 20/200 sottovento alianti a E s:ENE20",,"IMG85AB.jpg;IMGDA9F.jpg"
 "Glanz_8",GLANZ2_8,AT,4644.433N,01302.933E,608.0m,3,270,400.0m,,,"FACILE: 400 metri atterrare per 28 s:ENE20",,
@@ -576,7 +576,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "COLLIEU_UL9",COLL_UL9,IT,4512.180N,01147.640E,7.0m,2,180,270.0m,,,"source:SAN",,
 "CORRY_9",CORRY9,IT,4531.140N,01022.800E,156.0m,2,150,400.0m,,,"source:SAN",,
 "CORT_AER_6",CORae6,IT,4634.533N,01206.883E,1300.0m,3,170,500.0m,,,"SOLO CON VENTO DA SUD (vedi video). Campetto a EST disponibile. Cortina Ex Aeroporto It,Mil utilizzare solo la meta' NORD della pista - sottovento sx per 16 - dx per 34. attenzione: possibile gente che passeggia in pista. source:ENE21",,
-"CUVIO_UL9",CUVI_UL9,IT,4553.933N,00843.367E,279.0m,5,80,300.0m,,"120.350","S:SEEYOU source:SAN",,
+"MASCIONI_UL9",MASCIONI_UL9,IT,4553.933N,00843.367E,279.0m,5,80,300.0m,,"120.350","S:SEEYOU source:SAN",,
 "DILONATO_UL9",DILO_UL9,IT,4523.640N,01033.840E,202.0m,5,50,795.0m,,,"source:SAN",,
 "DOMENICO_UL9",DOME_UL9,IT,4513.980N,01147.880E,8.0m,5,32,2100.0m,,,"source:SAN",,
 "FaiPagan_5?",Fai_5?,IT,4611.150N,01104.633E,927.0m,3,20,250.0m,,,"010 190 - 250m - Fai Della Paganella perhaps an old Ulm field, unchecked recently source:SAN",,

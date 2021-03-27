@@ -130,10 +130,17 @@ def remove_from_dataframe(df1,file1,removefrom1):
 #convert the N coordinates into DD
 def n_conv(mystr):
     return float(mystr[0:2])+(float(mystr[2:8])/60)
-
 def e_conv(mystr):
     return float(mystr[0:3])+(float(mystr[3:9])/60)
-    
+
+#same but without the conversion into decimal
+#i.e., what remains after the comma is at most 60
+def n_conv_nondecimal(mystr):
+    return float(mystr[0:2])+(float(mystr[2:8])/100)
+def e_conv_nondecimal(mystr):
+    return float(mystr[0:3])+(float(mystr[3:9])/100)
+
+
 #this distance is more or less in km, assuming a latitude of about 45 degrees
 def distance(wp1,wp2):
   dns = n_conv(wp1['lat'])-n_conv(wp2['lat'])
@@ -192,6 +199,28 @@ def check():
   print('the original file will stay unchanged \n')
   df1 = write_dataframe(df1,'test.cup')
 
+def trim_dataframe(df1,N,S,E,W):
+    file1=sys.argv[2]
+    print('\ncheck\n',str(N),str(S),str(E),str(W),file1)
+    toremove = []
+    for i1, wp1 in df1.iterrows():
+        mylat=n_conv_nondecimal(wp1['lat'])
+        mylon=e_conv_nondecimal(wp1['lon'])
+        if float(mylat)>N:
+            toremove.append(i1),
+            print(wp1)
+        elif float(mylat)<S:
+            toremove.append(i1)
+            print(wp1)
+        elif float(mylon)>E:
+            toremove.append(i1)
+            print(wp1)
+        elif float(mylon)<W:
+            toremove.append(i1)
+            print(wp1)
+    print('\ncheck\n')
+    print(toremove)
+    remove_from_dataframe(df1,file1,toremove)
 
 def diff_compare(task):
     file1=sys.argv[2]
@@ -346,7 +375,23 @@ def addsuffixtodesc():
   newfilename=file1[0:-4]+'_withsuffix.cup'
   write_dataframe(df1,newfilename)
 
+def trim():
+  """  ==============
+  command: trim
+  usage:   work.py trim file1.cup LatitudeN LatitudeS LongitudeE LongitudeW 
 
+  Used to remove waypoints outside the area delimited by LatitudeN LatitudeS LongitudeE LongitudeW
+  Latitude and longitude are in DEGREES.DECIMALMINUTES
+  For W longitudes we have to use negative numbers"""
+  
+  file1=sys.argv[2]
+  N=float(sys.argv[3])
+  S=float(sys.argv[4])
+  E=float(sys.argv[5])
+  W=float(sys.argv[6])
+  df1 = pd.read_csv(file1, dtype=str)
+  df1 = clean_dataframe(df1)
+  df1 = trim_dataframe(df1,N,S,E,W)
 
 ##########################################################
 # HERE WE START
@@ -354,7 +399,7 @@ def addsuffixtodesc():
 print('Number of arguments:', len(sys.argv), 'arguments.')
 print('Argument List:', str(sys.argv))
 
-listofcommands=['split', 'diff', 'compare', 'check_duplicates', 'check', 'addprefixtoname', 'addsuffixtoname', 'addsuffixtodesc']
+listofcommands=['split', 'diff', 'compare', 'check_duplicates', 'check', 'addprefixtoname', 'addsuffixtoname', 'addsuffixtodesc', 'trim']
 
 if len(sys.argv)==1:
   # no arguments are passed, so the command is non-existent, in this case we show the help
