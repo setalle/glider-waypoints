@@ -48,6 +48,7 @@ Typical usage is  ``$python wptool.py cmd file1.cup [file2.cup]``. To see the li
 
 ### My sources 
 
+To access the local version of my sources you have to look at github repository itself. 
 This directory contains the sources I have used to distill my own WP files. I have added the suffix SAN after converting a file to the new seeyou format and adapting it to my own labeling method. 
 
 ##### Enemonzo
