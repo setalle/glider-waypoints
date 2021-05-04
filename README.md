@@ -69,7 +69,8 @@ This is the file I got in 2020 from my friends in Verona. Lots of good stuff, bu
 ##### Seeyou
 Generated in November 2020 using the seeyou waypoint generator. My feeling is that the quality is very good (I haven't found any incorrect field); but  there are only very few outlandings here. 
 
-##### Rieti. Updated in 2020, the one given to participants to the CCR race.
+##### Rieti. 
+Updated in 2020, the one given to participants to the CCR race.
 
 ##### XCsoar
 These are the points downloaded from [https://www.xcsoar.org/download/waypoints/](https://www.xcsoar.org/download/waypoints/)I don't trust them: I found too many 'old' fields. The other source XCsoar refers to is the one of [soaringweb](https://soaringweb.org/), which contains a bunch of different files, mostly outdated  (but not all outdated: the French file there is excellent).
