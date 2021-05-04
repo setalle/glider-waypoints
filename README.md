@@ -28,7 +28,7 @@ If you have python, to find out whether your waypoint file contains any of the d
 
 ### My files - USE AT YOUR OWN RISK
 
-In the Directory [WP_Sandro](./WP_Sandro) There is the last version of the files I use, which are:
+In the Directory [WP_Sandro](./WP_Sandro/index.html) There is the last version of the files I use, which are:
 - SAlps21v?.cup my core file for the Alps
 - SAlpsCUv?.cup Alps core with the addition of the landing taken from cu21san_alps.cup (see below) and some tasks. 
 - SRieti20v?.cup my core file for the Rieti area - based on the one given at the 2020 Rieti competition
