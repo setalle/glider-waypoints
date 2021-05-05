@@ -28,6 +28,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Capodiponte_AVS?",OBSCAPO,IT,4602.616N,01021.100E,350.0m,3,200,350.0m,,,"WRONG? I DON'T THINK THERE IS ANYTHING HERE",,
 "PonteDocciola_AVS?",OMOPONTEOL,IT,4419.150N,01056.017E,320.0m,3,0,0.0m,,,"WRONG? I DON'T THINK THERE IS ANYTHING HERE sourceAVS",,
 "SANTA GIUSTINA ENE_AVS?",SANTAENE,IT,4632.083N,01208.833E,290.0m,3,210,300.0m,,,"WRONG? I DON'T THINK THERE IS ANYTHING HERE sourceAVS",,
+"La Carlona",LA CA,IT,4556.280N,01207.920E,146.0m,5,80,2993.0m,,,"SU seeyou ma manca su Avioportolano",,
+"Dream Fly",DREAM,IT,4555.800N,01215.480E,80.0m,2,160,380.0m,,,"SU seeyou ma manca su Avioportolano",,
 -----Related Tasks-----
 
 

@@ -1,4 +1,70 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
+"AIGENLOXA_AE",AIGENOXA,,4732.000N,01408.000E,700.0m,2,0,,,"118.00 sourceSAP",,,
+"ALZATE LILB",ALZATILB,,4546.167N,00909.667E,390.0m,2,0,,,,"3-21/123 sourceSAP",,
+"AMBRI LSPM",AMBRISPM,,4630.500N,00841.000E,1004.0m,2,0,,,"118.52 sourceSAP",,,
+"AOSTA LIMW",AOSTAIMW,,4544.317N,00721.750E,545.0m,2,0,,,,"7-09/119 sourceSAP",,
+"ASIAGO LIDA",ASIAGIDA,,4553.167N,01130.933E,1020.0m,2,0,,,,"8-26/122 sourceSAP",,
+"BADRAGAZLSZE",BADRASZE,,4700.900N,00928.900E,493.0m,2,0,,,"123.5 sourceSAP",,,
+"BIELLA_AE",BIELLILE,,4529.967N,00806.133E,282.0m,2,0,,,,"6-34/123 sourceSAP",,
+"BOSCO_AE",BOSCOAE,,4528.300N,01055.067E,91.0m,2,0,,,,"Aeroporto",,
+"CALCINATE_AE",CALCIATE,,4548.550N,00846.100E,242.0m,2,0,,,"128.45","0-28/128  sourceSAP",,
+"GRENOBLE_AE",GRENOFLG,,4521.800N,00520.000E,220.0m,2,0,,,"121.00","sourceSAP",,
+"KAPFENB_AE",KAPFEOGK,,4727.500N,01519.783E,515.0m,2,0,,,,"ANGAR/11  sourceSAP",,
+"KLAGENF_AE",KLAGEOWK,,4638.567N,01420.267E,448.0m,2,0,,,,"0-28/118 sourceSAP",,
+"LANZENT_AE",LANZE,,4733.400N,01519.400E,770.0m,2,0,,,"122.5",,,
+"LOCARNO_AE",LOCARSZL,,4609.417N,00852.167E,197.0m,2,0,,,"134.82 ",,,
+"LUGANO_AE",LUGANSZA,,4600.200N,00854.600E,277.0m,2,0,,,"120.25 ",,,
+"MASERA AVIO",MASERVIO,,4608.383N,00818.717E,297.0m,2,0,,,"130.00"," sourceSAP",,
+"NIEDEROBLOGO_AE",NIEDEOGO,,4728.700N,01400.500E,653.0m,2,0,,,"122.7",,,
+"SAMEDAN_AE",SAMEDSZS,,4631.500N,00953.633E,1709.0m,2,0,,,"119.42 ",,,
+"STJOHAN_AE",ST.JOOIJ,,4731.200N,01226.900E,670.0m,2,0,,,"120.35 ",,,
+"TIMMERS_AE",TIMMEOGT,,4722.800N,01458.100E,628.0m,2,0,,,"122.3  ",,,
+"TORINO_AE",TORINIMA,,4504.900N,00736.467E,288.0m,2,0,,,,"0-28/119",,
+"TRAUSDORF_AE",TRAUSORF,,4748.850N,01633.600E,150.0m,2,0,,,,"Aeroporto",,
+"TRIEBENLOGI",TRIEBOGI,,4729.600N,01429.800E,690.0m,2,0,,,"122.5  ",,,
+"VALBREMB_AE",VALBRILV,,4543.200N,00935.633E,230.0m,2,0,,,,"2-20/122",,
+"VENEGONO_AE",VENEGILN,,4544.433N,00853.217E,320.0m,2,0,,,,"6-18/128",,
+"VERGIATE_AE",VERGIILG,,4542.750N,00841.967E,263.0m,2,0,,,"119.65 ",,,
+"WIENERN_AE",WIENEOXN,,4750.400N,01613.200E,280.0m,2,0,,,"123.25 ",,,
+"WOLFSBER_AE",WOLFSOKW,,4649.100N,01449.583E,450.0m,2,0,,,"122.50 ",,,
+"ZELLAMSE_AE",ZELLAOWZ,,4717.600N,01247.200E,754.0m,2,0,,,"119.7  ",,,
+"Innsbruck_AE",LOWI,AT,4715.617N,01120.633E,581.3m,5,81,2000.0m,,"119.275","119.275 INNSBRUCK RADAR120.100 INNSBRUCK TOWER126.025 INNSBRUCK INFORMATION123.400 INNSBRUCK SEGELFLUG Transition Altitude for IFR as instructed by ATC",,
+"Kufstein_AE",LOIK,AT,4733.850N,01207.650E,484.0m,2,55,800.0m,,"122.380","122.380 KUFSTEIN INFO(GE/EN)",,
+"Šoštanj_AE",LJSO,SI,4623.870N,01502.707E,378.0m,5,150,700.0m,,"128.300","128.300 SOSTANJ AERODROME (EN/SLO) Intense glidin RC model flying. Without radio contact always land on RW 33! sourceSEEYOU",,
+"Celje_AE",LJCL,SI,4614.615N,01513.527E,244.0m,2,112,900.0m,,"128.800","128.800 CELJE AERODROME (EN/SLO) Itense Gliding activity RC model flying Flight school operations Winching",,
+"Slo_Gradec_AE",LJSG,SI,4628.285N,01507.055E,501.0m,5,142,1200.0m,,"123.500","123.500 SLOVENJ GRADEC AERODROME (EN/SLO) Winching Intense Gliding Aerobatics RC model flying.",,
+"Ferlach_AE",LOKG,AT,4632.000N,01419.899E,456.6m,2,140,618.0m,,"123.605","123.605 GLAINACH INFO",,
+"Grobnik_AE",LDRG,HR,4522.773N,01430.210E,308.5m,5,75,1598.0m,,,,,
+"Rijeka_AE",LDRI,HR,4513.013N,01434.216E,84.7m,5,144,2500.0m,,"119.000","119.000 TOWER125.425 TOWER121.500 TOWER",,
+"Podpec_UL",Podpec,SI,4558.467N,01425.083E,288.0m,2,80,500.0m,,"123.500","Private airfield. Not meant for public use. Use north air traffic pattern only.",,
+"Ljubljana_AE",LJLJ,SI,4613.467N,01427.367E,388.0m,5,126,3300.0m,,"118.000","118.000 LJUBLJANA TOWER118.750 LJUBLJANA TOWER135.275 LJUBLJANA APPROACH132.475 LJUBLJANA APPROACH128.175 LJUBLJANA ATIS112.700 LJUBLJANA ATIS121.925 LJUBLJANA GROUND131.400 LJUBLJANA HANDLING131.800 GENERAL AVIATION131.400 LJUBLJANA DE-ICING COORDINATOR131.700 LJUBLJANA DE-ICING",,
+"Zagorje_AE",Ruardi,SI,4608.550N,01459.917E,332.0m,2,40,450.0m,,"123.500",,,
+"Slovenske Konjice_AE",LJSK,SI,4618.717N,01529.483E,274.0m,2,159,600.0m,,"123.550","123.550 SLOVENSKE KONJICE AERODROME",,
+"Maribor_AE",LJMB,SI,4628.792N,01541.168E,267.0m,5,146,2500.0m,,"119.200","119.200 MARIBOR TOWER134.300 MARIBOR TOWER MON - SUN: 0630 - 1800 (0600 - 1800)",,
+"Chatelair_UL",CHATE,IT,4544.400N,00728.833E,503.0m,2,100,450.0m,,,"sourceSEEYOU,,",,
+"Montalto_UL",MONTA,IT,4529.400N,00750.500E,246.0m,2,140,620.0m,,,,,
+"Flying Tigers_UL",FLYIN,IT,4526.460N,00756.220E,235.0m,5,46,1750.0m,,,,,
+"Castellamonte_UL",CASTE,IT,4521.480N,00743.200E,311.0m,2,130,365.0m,,,,,
+"Busano_UL",BUSAN,IT,4518.650N,00739.917E,295.0m,2,180,400.0m,,,,,
+"Prealpi-Musinè_UL",PREAL,IT,4507.512N,00731.320E,331.0m,2,30,600.0m,,,,,
+"Rivoli_UL",RIVOL,IT,4502.820N,00732.160E,305.0m,2,300,300.0m,,,,,
+"Cumiana_UL",CUMIA,IT,4457.350N,00726.350E,274.0m,2,140,450.0m,,,,,
+"Andrea Bozzo_UL",ANDRE,IT,4451.840N,00724.420E,260.0m,5,43,2965.0m,,,,,
+"Merlo Romano_UL",MERLO,IT,4450.040N,00721.840E,315.0m,2,100,450.0m,,,,,
+"Brezzo_??",BREZZO,,4557.983N,00842.000E,320.0m,2,0,,,,"DEPRECATED BY http://www.ava-valbrembo.it/campi-atterrabili, ma al SAP viene usato sourceSAP",,
+"Mauterndorf_AE",LOSM,AT,4707.929N,01341.771E,1110.1m,2,70,820.0m,,"122.855","122.855 MAUTERNDORF INFO(GE)",," "
+"Mayerhofen_UL",LOKM,AT,4658.500N,01422.274E,646.0m,2,81,400.0m,,"122.855","122.855 MAYERHOFEN INFO (GE) Vienna Info: 124.40",,
+"Friesach_AE",LOKH,AT,4655.656N,01425.881E,615.0m,2,172,460.0m,,"122.080","122.080 FRIESACH INFO(GE) Vienna Info Fqr.: 12440 MHz",,
+"Mairist / St. Donat_UL",LOKR,AT,4644.597N,01424.811E,536.1m,2,64,400.0m,,,,,
+"Zeltweg_AE",LOXZ,AT,4712.250N,01444.805E,690.1m,5,80,2750.0m,,"135.375","135.375 ZELTWEG SEGELFLUG129.475 ZELTWEG RADAR132.650 ZELTWEG RADAR123.500 ZELTWEG SEGELFLUG121.600 ZELTWEG GROUND(GE/EN) Civil use of military air bases see AD 1.",,
+"Mariazell_AE",LOGM,AT,4747.367N,01518.017E,859.8m,5,147,500.0m,,"122.105","122.105 MARIAZELL INFO(GE) Occupied on Saturdays Sundays and public holidays. Otherwise recommended a previous request.",,
+"BRUNET LE GRAND LOGISSON_?",BRUNE,FR,4353.323N,00603.198E,663.0m,5,115,2100.0m,,,,,
+"Lodrino_AE",LSML,CH,4618.000N,00900.000E,259.0m,5,161,641.0m,,"119.625","119.625 LODRINO AD (EN/IT)",,
+"Münster_AE",LSPU,CH,4628.817N,00815.800E,1350.0m,5,48,661.0m,,"122.075","122.075 MÜNSTER AD (EN/GE)",,
+"Raron_AE",LSTA,CH,4618.233N,00749.017E,637.0m,5,91,719.0m,,"126.975","126.975 RARON AD (EN/GE) Airport derzeit im Umbau",,
+"Bex_AE",LSGB,CH,4615.474N,00659.196E,399.9m,2,147,720.0m,,"122.150","122.150 AERODROME DE BEX(FR) AD circuits for RWY 15 prohibited to visiting ACFT.  Touch-and-go prohibited.  CAUTION! BTN RWY and GRASS PRKG area public road that is no TWY.  No hangar.  NOV till end of MAR: CLSD to visiting ACFT.  At least a half AD circuit must be flown prior to LDG.",,"	"
+"Tolmin_6",TOLMIN,,4611.066N,01343.197E,170.0m,2,0,,,,"Nuovo fuoricampo, sourceCVNE, atterare solo da N in centro, in alternativa il campo para ma da S",,
+"Malpasso_7?",MALPASSO,,4507.667N,00712.267E,416.0m,2,0,,,,"FUORICAM sourceSAP",,
 "Malnate_4",Malna,IT,4547.035N,00852.811E,350.0m,3,80,,,,"Emergenza source:Flavio verificare",,
 "FORNAZZA_?",FORNA,IT,4621.876N,00825.874E,1255.0m,3,18,,,,"source:Flavio",,
 "EX_PAF???_4",EXPAF,IT,4529.603N,01053.202E,103.0m,3,,,,,"Emergenza vicino a verona. Da controllare le coordinate. Video di Andrea Salvadori",,
@@ -30,6 +96,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "BOCKING KatB_?",BOCKIN_B,AT,4730.960N,01213.650E,690.0m,3,170,300.0m,,,"Kat B 17/-  Landerichtung nur SO, Feld steigt an sourceAVS",,
 "BODENBAUER HOCHSCHWAB KatB_?",BODENB_B,AT,4734.781N,01506.913E,870.0m,3,300,300.0m,,,"Kat B -/30   sourceAVS",,
 "BRAMBERG KatA_?",BRAMBE_A,AT,4715.615N,01219.435E,830.0m,3,250,500.0m,,,"Kat A 25/07 Von Ost freier Anflug, jedoch leicht abschuessig.Wiese haengt ein klein wenig nach Sueden. sourceAVS",,
+"Brebbia_ul?",BREBBIA,,4549.200N,00839.200E,260.0m,2,0,,,,"Ex pista ULM, dovrebbe essere ancora utilizzabile sourceSAP",,
 "BREDERIS KatA_?",BREDIS_A,AT,4717.430N,00937.050E,440.0m,3,20,300.0m,,,"Kat A 02/20 Felder wurden zum Golfplatz umgebaut! sourceAVS",,
 "BRIXEN IM THALE KatA_?",BRIXET_A,AT,4727.072N,01215.969E,830.0m,3,100,400.0m,,,"Kat A 10/-  Wiese 1, geht nicht mehr: Bau einer Umgehungsstrasse!!!!Wiese 2, rosa Querweg nur mit Rumps zu ueberrollen ! sourceAVS",,
 "BRUNNSEE KatB_?",BRUNNS_B,AT,4739.000N,01502.500E,640.0m,3,200,300.0m,,,"Kat B -/20   sourceAVS",,
@@ -39,6 +106,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Eisenkappel_?",KA,AT,4630.500N,01434.833E,510.0m,3,150,200.0m,,,"DATI PROVENIENTI NON DAL CVAO. The data are not from CVAO. sourceAVS",,"N093E014_0038.jpg"
 "ELLMAU KatB_?",ELLMAU_B,AT,4731.044N,01217.686E,780.0m,3,120,360.0m,,,"Kat B 12/-  Wiese 1 steigt leicht nach Osten an! Stangen im Fruehjahr ! sourceAVS",,
 "ERPFENDORF KatA_?",ERPFEN_A,AT,4734.661N,01228.962E,644.0m,3,80,500.0m,,,"Kat A 08/-  Von West nach Ost leicht ansteigend. sourceAVS",,
+"FRIESACHLOKH_AE",FRIESOKH,,4830.900N,01424.500E,610.0m,2,0,,,"122.07 sourceSAP",,,
 "FRIESACH-GRAZ KatA_?",FRIEGA_A,AT,4709.911N,01519.533E,390.0m,3,10,300.0m,,,"Kat A 01/19  sourceAVS",,
 "FUEGEN KatA_?",FUEGEN_A,AT,4720.654N,01151.515E,540.0m,3,270,600.0m,,,"Kat A -/27  Hohe Baeume und 2 Hochspannungen im Osten beachten ! Im Westen: Bahn-Boeschung  und unterrollbare Hochspannung! sourceAVS",,
 "GAGERING KatA_?",GAGERI_A,AT,4721.650N,01151.391E,530.0m,3,170,730.0m,,,"Kat A 17/35 Auf viele Stromleitungen achten, noerdliche Wiese beste Variante. sourceAVS",,
@@ -74,6 +142,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "INNERFAHRAFELD KatB_?",INNERF_B,AT,4756.270N,01535.912E,450.0m,3,160,350.0m,,,"Kat B 16/-   sourceAVS",,
 "INNERHALBACH KatB_?",INNERH_B,AT,4755.940N,01541.390E,550.0m,3,50,300.0m,,,"Kat B 05/23 Baum im Endanflug 05! sourceAVS",,
 "INNERZWAIN KatA_?",INNERZ_A,AT,4733.476N,01509.248E,775.0m,3,320,350.0m,,,"Kat A -/32   sourceAVS",,
+"INNSBRUCLOWI_za?",INNSBOWI,,4715.600N,01126.600E,580.0m,2,0,,,"122.1  ZA sourceSAP",,,
 "JAUSERN KatB_?",JAUSER_B,AT,4722.400N,01241.400E,910.0m,3,300,380.0m,,,"Kat B -/30  Anflug ueber 10 m hohe Klaeranlage oder Bauernhof.Die vorhandenen Wege sind eingeebnet und ueberrollbar!Im Suedteil eine Stufe! sourceAVS",,
 "JOHNSBACH KatB_?",JOHNSB_B,AT,4731.731N,01437.095E,865.0m,3,100,300.0m,,,"Kat B 10/-   sourceAVS",,
 "KALWANG KatB_?",KALWAN_B,AT,4725.500N,01444.000E,760.0m,3,0,,,,"Kat B  sourceAVS",,
@@ -276,10 +345,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "WEGSCHEID KatA_?",WEGSCH_A,DE,4739.850N,01134.250E,700.0m,3,270,200.0m,,,"Kat A -/27   sourceAVS",,
 "WERTACH KatB_?",WERTAC_B,DE,4736.200N,01025.100E,890.0m,3,320,400.0m,,,"Kat B -/32  Leitungen im Anflug. Einzelwiesen, nach Bewuchs waehlen, dazwischen Pfaehle und Zaeune! sourceAVS",,
 "TANINGES KatA_?",TANING_A,FR,4606.000N,00636.000E,625.0m,3,90,300.0m,,,"Kat A 09/27  sourceAVS",,
-"Arcisate_?",Arci_?,IT,4550.967N,00853.100E,350.0m,3,150,500.0m,,,"BUONO largh.100m pista aeromodelli. ingresso da nw verso se. mantenere la parte sx per evitare tombino. linea elettrica sul bordo stradina e testata sud  sourceAVS",,"N091E008_0141.jpg;N091E008_img1080.jpg;N091E008_img1083.jpg"
 "Auronzo KatB_4",Auronz_4,IT,4633.900N,01224.383E,830.0m,3,130,160.0m,,,"Ce ne sono 2. Uno spesso occupato, l'altro cortissimo e stretto Kat B 13/31 Sehr kurz! sourceAVS e webinar",,"N093E012_0044.jpg;N093E012_img471.jpg"
 "Baldissero_8?",Baldi_8?,IT,4446.568N,00752.756E,310.0m,3,130,300.0m,,,"sourceAVS, confermato da seeyou",,
-"brezzo_?",brez_?,IT,4557.983N,00842.000E,320.0m,3,270,300.0m,,,"BUONO 50m ingresso da NW verso SE finale sopra casa isolata. passare il campo arato. spo da nord pali luce fondocampo fili alti (Campi della Contessa) sourceAVS",,"N091E008_0143.jpg;N091E008_img1094.jpg;N091E008_img1097.jpg"
 "campari_?",camp_?,IT,4604.945N,00816.518E,230.0m,3,0,200.0m,,,"verif coordinate (ACAO) sourceAVS",,
 "farra-d-soli KatA_?",FARRA_A,IT,4554.000N,01208.033E,160.0m,3,340,300.0m,,,"Kat A -/34   sourceAVS",,"N091E012_0079.jpg;N091E012_img697.jpg;N091E012_img700.jpg"
 "fondotoce_?",OVBTOCE,IT,4556.783N,00828.857E,195.0m,3,0,200.0m,,,"Tanti campi scegliere in base alle coltivazioni (ACAO) sourceAVS",,
@@ -585,7 +652,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "FaiPagan_5?",Fai_5?,IT,4611.150N,01104.633E,927.0m,3,20,250.0m,,,"010 190 - 250m - Fai Della Paganella perhaps an old Ulm field, unchecked recently source:SAN",,
 "FBARACCA_UL9",FBAR_UL9,IT,4550.500N,01211.623E,63.0m,2,150,1000.0m,,,"appena a W del fiume Enorme. Check coordinate source:SAN",,
 "Feltre_5",Feltre5,IT,4601.792N,01155.205E,320.0m,3,250,300.0m,,,"Landing direction 70°. Kat 1. W76 A68+ source:SAN pictures:AVS",,"N092E011_0076.jpg;N092E011_img676.jpg;N092E011_img678.jpg"
-"FERRARA_A",FERR_A,IT,4448.967N,01136.800E,6.0m,5,90,800.0m,,"122.50","source:SAN",,
+"FERRARA_A",FERR_A,IT,4448.755N,01136.766E,6.0m,5,90,0.8m,,"122.50","source:SAN",,
 "Fonzaso_5?",Fonza_5?,IT,4600.700N,01148.667E,330.0m,3,70,200.0m,,,"Sehr kurz! Horses in the garden. W74. Kat 2 source:SAN",,
 "GRIGNO_7?",GRIG7?,IT,4601.753N,01134.860E,300.0m,3,310,250.0m,,,"Landing direction 310°. A198+W73. Kat 1 source:SAN pictures:AVS",,"N092E011_GRIGNO_SK.jpg;N092E011_img659.jpg"
 "LAVIS_7?",LAVI7?,IT,4607.734N,01105.681E,230.0m,3,60,700.0m,,,"W69. Kat 1 A150 source:SAN pictures:AVS",,"N092E011_LAVIS_SK.jpg;N092E011_0069.jpg;N092E011_img633.jpg;N092E011_img636.jpg"
@@ -612,4 +679,89 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "TRISSINO_7",TRISS7,IT,4533.683N,01123.450E,150.0m,3,180,800.0m,,,"Trissino Appena a W delle colline. A295+W96. Kat 1 source:SAN",,
 "SALURN_ZA?",SALU_ZA?,IT,4613.427N,01109.273E,250.0m,3,180,500.0m,,,"A239+Kat 1  source:SAN",,
 "Stara fuzina_6",STARA_6,SI,4617.367N,01354.017E,542.0m,3,90,250.0m,,,"dir 09/27 a est del lago Nuovo 2021. Sembra buono",,"N092E013_stara_1.jpg;N092E013_stara_2.jpg;N092E013_stara_3.jpg;N092E013_stara_4.jpg"
+"Masera Pilone",MaseraP,IT,4608.050N,00818.372E,278.0m,1,,,,,,,
+"fai 500 est",fai50est,,4635.683N,01304.333E,1706.0m,1,,,,,,,
+"BELLINZPIL",BELLINZP,,4612.617N,00857.900E,1299.0m,1,,,,,"pilone task",,
+"Jauffenpass Gast",JAUFFE,IT,4650.383N,01119.283E,2099.0m,6,,,,,,,
+"500 fai nord",500faord,,4656.783N,01117.400E,2520.0m,1,,,,,,,
+"PASSUD",PASSUD,,4534.417N,01050.633E,740.0m,1,,,,,"pilone task",,
+"Pasubio est",Pasubest,,4546.767N,01113.700E,1200.0m,1,,,,,"pilone task",,
+"750faiest",750faest,AT,4718.467N,01437.333E,1867.0m,1,,,,,"pilone task",,
+"750faiinn",750fainn,AT,4715.917N,01135.617E,1226.0m,1,,,,,"pilone task",,
+"750faimay",750famay,AT,4721.067N,01210.433E,1921.0m,1,,,,,"piloje task",,
+"750maut",750maut,AT,4709.450N,01340.333E,1851.0m,1,,,,,"pilone task",,
+"750maute",750maute,AT,4709.700N,01341.017E,1618.0m,1,,,,,"pilonetask",,
+"BOSCOCHIESANUOVA",BOSCO,IT,4537.183N,01102.117E,1063.0m,1,,,,,"pilone task",,
+"CAREGA1",CAREGA1,IT,4541.633N,01107.917E,1517.0m,1,,,,,"pilone task",,
+"CAREGA2",CAREGA2,IT,4543.900N,01106.300E,1746.0m,1,,,,,"pilone task",,
+"CERMISPIL",Cermipil,IT,4613.650N,01128.683E,2039.0m,1,,,,,"pilone task",,
+"500ESTPIL",500ESPIL,SI,4613.317N,01356.450E,1195.0m,1,,,,,"pilone task",,
+"OlgiascaPIL",OlPIL,IT,4606.963N,00918.950E,309.0m,1,,,,,"Pilone",,
+"Mulhel PIL",MulPIL,IT,4649.077N,01150.899E,975.0m,1,,,,,"Pilone",,
+"500FAI E",500FAIE,SI,4615.185N,01331.274E,614.0m,1,,,,,"Pilone a E",,
+"Pil Erbe",PilEr,IT,4639.624N,01147.112E,1863.0m,1,,,,,"Pilone passo erbe",,
+"CUW_1",CUW_1,,4620.692N,01438.243E,1954.0m,1,,,,,,,
+"CUW_2",CUW_2,,4613.277N,01455.308E,522.0m,1,,,,,,,
+"CUW_3",CUW_3,,4707.867N,01229.576E,1878.0m,1,,,,,,,
+"CUW_4",CUW_4,,4607.930N,00818.237E,278.0m,1,,,,,,,
+"CUW_5",CUW_5,,4624.647N,01501.927E,515.0m,1,,,,,,,
+"CUW_6",CUW_6,,4702.835N,01231.055E,1286.0m,1,,,,,,,
+"CUW_11",CUW_11,,4614.918N,01333.005E,282.0m,1,,,,,,,
+"CUW_12",CUW_12,,4641.096N,01147.469E,1890.0m,1,,,,,,,
+"CUW_13",CUW_13,,4658.020N,01155.865E,1092.0m,1,,,,,,,
+"CUW_14",CUW_14,,4658.113N,01157.375E,1750.0m,1,,,,,,,
+"CUW_15",CUW_15,,4657.050N,01411.712E,1132.0m,1,,,,,,,
+"CUW_19",CUW_19,,4639.352N,01146.607E,2385.0m,1,,,,,,,
+"CUW_18",CUW_18,,4615.255N,01330.725E,438.0m,1,,,,,,,
+"CUW_20",CUW_20,,4615.620N,01331.522E,939.0m,1,,,,,,,
+"CUW_21",CUW_21,,4656.714N,01118.150E,2255.0m,1,,,,,,,
+"CUW_24",CUW_24,,4606.748N,00919.195E,394.0m,1,,,,,,,
+"CUW_23",CUW_23,,4649.100N,01150.890E,974.0m,1,,,,,,,
+"CUW_25",CUW_25,,4702.452N,01230.908E,1134.0m,1,,,,,,,
 -----Related Tasks-----
+"752.1 FAI triangle","???","PASSUD","Šoštanj_AE","CUW_25","PASSUD","???"
+ObsZone=0,Style=2,R1=3000m,A1=45
+ObsZone=2,Style=1,R1=1000m,A1=45
+ObsZone=3,Style=3,R1=3000m,A1=45
+"500 FAI ovest II","???","BOSCOCHIESANUOVA","OlgiascaPIL","Mulhel PIL","BOSCOCHIESANUOVA","???"
+ObsZone=0,Style=2,R1=3000m,A1=45,Line=1
+ObsZone=3,Style=3,R1=3000m,A1=45,Line=1
+"TSK 564.6 Triangle","???","PASSUD","CUW_20","CUW_21","PASSUD","???"
+ObsZone=0,Style=2,R1=1000m,A1=45
+ObsZone=1,Style=1,R1=1000m,A1=45
+ObsZone=2,Style=1,R1=1000m,A1=45
+ObsZone=3,Style=3,R1=1000m,A1=45
+"TSK 502.9 FAI triangle","???","PASSUD","500FAI E","Pil Erbe","PASSUD","???"
+ObsZone=0,Style=2,R1=1000m,A1=45
+ObsZone=1,Style=1,R1=1000m,A1=45
+ObsZone=2,Style=1,R1=1000m,A1=45
+ObsZone=3,Style=3,R1=1000m,A1=45
+"TSK 614.6 Out and return","???","PASSUD","Eisenkappel_?","PASSUD","???"
+ObsZone=0,Style=2,R1=1000m,A1=45
+ObsZone=1,Style=1,R1=1000m,A1=45
+ObsZone=2,Style=3,R1=1000m,A1=45
+"TSK 601.3 FAI triangle","???","PASSUD","500ESTPIL","CUW_14","PASSUD","???"
+ObsZone=0,Style=2,R1=1000m,A1=45
+ObsZone=1,Style=1,R1=1000m,A1=45
+ObsZone=2,Style=1,R1=1000m,A1=45
+ObsZone=3,Style=3,R1=1000m,A1=45
+"500 FAI ovest","???","PASSUD","BELLINZPIL","Jauffenpass Gast","PASSUD","???"
+ObsZone=0,Style=2,R1=3000m,A1=45,Line=1
+ObsZone=3,Style=3,R1=3000m,A1=45,Line=1
+"750fai NE","???","BOSCOCHIESANUOVA","750faiest","750faiinn","BOSCOCHIESANUOVA","???"
+ObsZone=0,Style=2,R1=3000m,A1=45
+ObsZone=3,Style=3,R1=3000m,A1=45
+"755.9 FAI NOvest","???","BOSCOCHIESANUOVA","750faimay","CUW_4","BOSCOCHIESANUOVA","???"
+ObsZone=0,Style=2,R1=3000m,A1=45
+ObsZone=2,Style=1,R1=1000m,A1=45
+ObsZone=3,Style=3,R1=3000m,A1=45
+"TSK 501.8 Out and return","???","PASSUD","500ESTPIL","PASSUD","???"
+ObsZone=0,Style=2,R1=3000m,A1=45
+ObsZone=2,Style=3,R1=3000m,A1=45
+"TSK 750.8 FAI triangle","???","PASSUD","CUW_5","CUW_6","PASSUD","???"
+ObsZone=0,Style=2,R1=3000m,A1=45
+ObsZone=2,Style=1,R1=1000m,A1=45
+ObsZone=3,Style=3,R1=3000m,A1=45
+"500 FAI nord","???","PASSUD","fai 500 est","500 fai nord","PASSUD","???"
+ObsZone=0,Style=2,R1=3000m,A1=45,Line=1
+ObsZone=3,Style=3,R1=3000m,A1=45,Line=1

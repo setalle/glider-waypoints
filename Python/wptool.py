@@ -222,7 +222,7 @@ def trim_dataframe(df1,N,S,E,W):
     print(toremove)
     remove_from_dataframe(df1,file1,toremove)
 
-def diff_compare(task):
+def diff_compareOLD(task):
     file1=sys.argv[2]
     file2=sys.argv[3]
     #load dataframe from csv
@@ -256,8 +256,53 @@ def diff_compare(task):
     else:
       print('\nLandables in the first file having no match in the second file are:')
       print(solitarywps)
-      
 
+
+def diff_compare(task):
+    file1=sys.argv[2]
+    file2=sys.argv[3]
+    #load dataframe from csv
+    #here dtype=string should convert everything to string, but it does not, so we do the trimming
+    df1 = pd.read_csv(file1, dtype=str)
+    df1 = clean_dataframe(df1)
+    df2 = pd.read_csv(file2, dtype=str) 
+    df2 = clean_dataframe(df2)
+    #filtering out everything that is non-landable
+    df1 = df1.query('style in ["2","3","4","5"]')
+    df2 = df2.query('style in ["2","3","4","5"]')
+    #this dataframe now is equal to df1, I will keep here only the landables that are not in df2
+    df1_diff = df1
+    #
+    removefrom1 = []
+    removefrom2 = []
+    removefromdiff =[]
+    solitarywps = []
+    for i1, wp1 in df1.iterrows():
+        a = 0
+        for i2, wp2 in df2.iterrows():
+            if distance(wp1,wp2)<3:
+                removefromdiff.append(i1)
+                print(wp1['name'],wp2['name'],str(distance(wp1,wp2)))
+                if task=='compare':
+                     choice = print_compare(wp1,wp2)
+                     if choice==1:
+                       removefrom1.append(i1)
+                     elif choice==2:
+                       removefrom2.append(i2)
+                a = a+1
+        if a==0: solitarywps.append(wp1['name'])
+    if task=='compare':
+      remove_from_dataframe(df1,file1,removefrom1)
+      remove_from_dataframe(df2,file2,removefrom2)
+    else:
+      print('\nLandables in the first file having no match in the second file are:')
+      print(solitarywps)
+      print('\nIn the file '+file1[0:-4]+'_trimmed.cup, you find the complete list of these landables')
+      remove_from_dataframe(df1_diff,file1,removefromdiff)
+
+
+
+      
 def diff_compare_self():
     print('TEST')
     file1=sys.argv[2]
@@ -293,9 +338,10 @@ def diff():
   command:  diff
   usage:    work.py diff file1.cup file2.cup
 
-  diff: does 2 things
+  diff: does 3 things
   (a) for each landable wp1 in file1 shows if there is a landable wp2 in file2 at less than 6 km, indicating the names and the distance
-  (b) lists all the wp in file1 who have no "close" (at less than 6 km) wp in file 2 """
+  (b) lists all the wp in file1 who have no "close" (at less than 6 km) wp in file 2 
+  (c) puts all the wp in file1 who have no "close" (at less than 6 km) wp in file 2 in the file file1_trimmed.cup"""
   diff_compare('diff')
 
 def compare():
@@ -303,7 +349,7 @@ def compare():
   command: compare
   usage: work.py compare file1.cup file2.cup
 
-  "compare" is the extended version of diff and allows to remove 
+  "compare" is kind of extended version of diff and allows to remove 
   the colliding waypoints from one file or the other 
 
   for each wp1 in file1 and wp2 in file2 it shows the records next to each 
