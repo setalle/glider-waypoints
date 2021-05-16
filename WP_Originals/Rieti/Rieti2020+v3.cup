@@ -174,6 +174,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "177Vallata",,,4103.083N,01513.850E,911.0m,1,,,,"Vallelata"
 "178Vulture",,,4056.950N,01538.300E,1100.0m,1,,,,"Vulture"
 "179Lioni",179Lioni,IT,4122.850N,01449.717E,693.0m,1,,,,"Lioni"
+"992venosa S",992vesaS,,4050.800N,01552.600E,746.0m,1,,,,
 "999b",999b,,4318.633N,01302.667E,803.0m,1,,,,
 "ABRUZ FLY",BLUWIN,,4201.867N,01353.283E,500.0m,2,0,450.0m,,"ABRUZZO FLY  - NARROW!   070 Rwy len:      450m  0.000"
 "ACCUMULI",ARQATA,,4244.267N,01316.100E,848.0m,3,0,180.0m,,"X-ARQATA - generic - VERY SHORT - OBSTACLES !!!"
@@ -184,13 +185,13 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "AREZZO",AREZZO,,4327.317N,01150.817E,247.0m,2,0,0.0m,"126.9 1","Arezzo Aeroporto 126.9 12/30"
 "BARONE",BARONE,,4206.367N,01318.967E,700.0m,3,0,0.0m,,"X-BARONE"
 "BORGOSL",BORGOSL,,4359.100N,01123.133E,300.0m,2,0,650.0m,,"Borgo San Lorenzo - aviosup. La Collina"
-"BORRO_9",BORRO9,IT,4332.280N,01142.360E,271.0m,2,0,0.0m,,"Borro       Aviosuperficie   02/20   900G       123"
+"BORRO",BORRO,,4332.450N,01142.133E,271.0m,2,0,0.0m,,"Borro       Aviosuperficie   02/20   900G       123"
 "CALEDR",CALEDR,,4227.883N,01225.767E,60.0m,2,0,600.0m,"130.00","F-CALEDR        Rwy dir:    210 Rwy len:    630m 130.00"
 "CAMOCH",CAMOCH,,4127.600N,01432.067E,530.0m,2,0,500.0m,,"F-CAMOCH        Rwy dir:    120 Rwy len:    520m  0.000"
 "CAMOTO",CAMOTO,,4232.867N,01322.800E,1300.0m,3,0,180.0m,,"X-CAMOTO  -  VERY SHORT !!"
-"CARSOL_9",CARSOL9,IT,4205.640N,01302.520E,580.0m,2,0,0.0m,,"F-CARSOLI aka Il Pratone      Rwy dir:    000 Rwy len:    500m  0.000"
+"CARSOL",CARSOL,,4205.650N,01302.517E,580.0m,2,0,0.0m,,"F-CARSOLI       Rwy dir:    000 Rwy len:    500m  0.000"
 "CASCIAA",CASCIAA,,4245.367N,01301.000E,850.0m,5,0,750.0m,,"Cascia Aviosuperficie S.Giorgio"
-"CASTEVI",CASTEVI,,4244.317N,01159.000E,570.0m,2,0,640.0m,,"Aviosuperficie Castelviscardo 800m 18/36"
+"CASTEVI",CASTEVI,,4244.317N,01159.000E,570.0m,2,0,0.0m,,"Aviosuperficie Castelviscardo 800m 18/36"
 "CELANO-",CELANO-A,IT,4203.117N,01333.617E,679.0m,5,0,820.0m,"130.000","Celano AviosuperficiePhone n. on hangar doors. Contribution required"
 "CIANOC",CIANOC,,4307.233N,01155.150E,255.0m,3,0,0.0m,,"F-CIANOC - generic area"
 "CiCASTEL",CCATEL,,4329.483N,01214.567E,315.0m,3,0,400.0m,,"F-CCATEL - NARROW!    410 x 20m  0.000"
@@ -209,7 +210,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "GROSSEA",GROSSEA,,4245.633N,01104.250E,6.0m,2,0,0.0m,"124.52 ","Grosseto APP 124.52 Militare"
 "GRUMENA",GRUMENA,,4016.167N,01554.683E,610.0m,2,0,900.0m,,"Grumentum Aviosuperficie"
 "GUALDOx",GUALDOx,,4316.417N,01244.650E,420.0m,4,0,520.0m,,"Campo Volo 650m Gualdo  520m 02/20"
-"GUBBIO_9",GUBBIO9,IT,4319.080N,01234.320E,420.0m,2,0,300.0m,,"F-GUBBIO Aligubbio       Rwy dir:    010 Rwy len:      300m  0.000"
+"GUBBIO",GUBBIO,,4319.167N,01234.700E,420.0m,2,0,300.0m,,"F-GUBBIO        Rwy dir:    010 Rwy len:      300m  0.000"
 "LAPIAN",LAPIAN,,4144.867N,01405.350E,820.0m,3,0,0.0m,,"X-LAPIAN - generic area"
 "LAQUILA",LAQUILA,,4218.067N,01330.983E,571.0m,2,29,650.0m,"130.00","650x30 m  11/29. RH downwind for rw29"
 "LAVELLO",Lavello,,4102.817N,01547.150E,311.0m,2,0,600.0m,,"Aviosuperficie Falcone     phone +393663859004"
@@ -240,13 +241,25 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "VALLESANTA",Avio Vallesanta,,4225.638N,01248.312E,400.0m,2,0,0.0m,,"130.000    Rwy dir:    170 Rwy len:      450m"
 "VILASL",VILASL,,4239.767N,01316.983E,900.0m,3,0,0.0m,,"X-VILASL"
 -----Related Tasks-----
+,"000RietiFin","124PoggioBust","175Tolve","999b","066SulmonaE","121FolignoN","000RietiFin"
+ObsZone=0,Style=2,R1=500m,A1=45,Line=1
+ObsZone=1,Style=1,R1=500m,A1=180,Reduce=1
+ObsZone=2,Style=1,R1=500m,A1=180,Reduce=1
+ObsZone=3,Style=1,R1=500m,A1=180,Reduce=1
+ObsZone=4,Style=3,R1=500m,A1=180,Line=1
+,"000RietiFin","012STARTT12","055Macerino","086PonteRicc","126Cortona","125Titignano","018LAGHETTI","000RietiFin","000RietiFin"
+ObsZone=0,Style=2,R1=5000m,A1=45,Line=1
+,"000RietiFin","010START10","023Autostrade","087Scheggia","126Cortona","125Titignano","018LAGHETTI","000RietiFin","000RietiFin"
+ObsZone=0,Style=2,R1=5000m,A1=45,Line=1
 ,"000RietiFin","124PoggioBust","173Lavello","085Cantiano","066SulmonaE","121FolignoN","000RietiFin"
 ObsZone=0,Style=2,R1=500m,A1=45,Line=1
 ObsZone=1,Style=1,R1=500m,A1=180,Reduce=1
 ObsZone=2,Style=1,R1=500m,A1=180,Reduce=1
 ObsZone=3,Style=1,R1=500m,A1=180,Reduce=1
 ObsZone=4,Style=3,R1=500m,A1=180,Line=1
-,"000RietiFin","124PoggioBust","175Tolve","999b","066SulmonaE","121FolignoN","000RietiFin"
+,"000RietiFin","003START3","031SDonato","081Nocera","000RietiFin","000RietiFin"
+ObsZone=0,Style=2,R1=5000m,A1=45,Line=1
+,"000RietiFin","124PoggioBust","992venosa S","087Scheggia","138Cocullo","121FolignoN","000RietiFin"
 ObsZone=0,Style=2,R1=500m,A1=45,Line=1
 ObsZone=1,Style=1,R1=500m,A1=180,Reduce=1
 ObsZone=2,Style=1,R1=500m,A1=180,Reduce=1
@@ -258,15 +271,3 @@ ObsZone=1,Style=1,R1=500m,A1=180,Reduce=1
 ObsZone=2,Style=1,R1=500m,A1=180,Reduce=1
 ObsZone=3,Style=1,R1=500m,A1=180,Reduce=1
 ObsZone=4,Style=3,R1=500m,A1=180,Line=1
-,"000RietiFin","003START3","031SDonato","081Nocera","000RietiFin","000RietiFin"
-ObsZone=0,Style=2,R1=5000m,A1=45,Line=1
-,"000RietiFin","124PoggioBust","171Avigliano","084Costacciaro","066SulmonaE","121FolignoN","000RietiFin"
-ObsZone=0,Style=2,R1=500m,A1=45,Line=1
-ObsZone=1,Style=1,R1=500m,A1=180,Reduce=1
-ObsZone=2,Style=1,R1=500m,A1=180,Reduce=1
-ObsZone=3,Style=1,R1=500m,A1=180,Reduce=1
-ObsZone=4,Style=3,R1=500m,A1=180,Line=1
-,"000RietiFin","012STARTT12","055Macerino","086PonteRicc","126Cortona","125Titignano","018LAGHETTI","000RietiFin","000RietiFin"
-ObsZone=0,Style=2,R1=5000m,A1=45,Line=1
-,"000RietiFin","010START10","023Autostrade","087Scheggia","126Cortona","125Titignano","018LAGHETTI","000RietiFin","000RietiFin"
-ObsZone=0,Style=2,R1=5000m,A1=45,Line=1
